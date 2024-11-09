@@ -72,7 +72,7 @@
                                     />
                                     <Input
                                         id="suppliername1"
-                                        value="{/SupplierRequest/SupplierName}"
+                                        value="{/SupplierRequest/SupplierName1}"
                                         liveChange=".onLiveChange"
                                         change=".triggerBackendCheckDuplicate"
                                         width="500px"
@@ -83,7 +83,7 @@
                                     />
                                     <Input
                                         id="suppliername2"
-                                        value="{/SupplierRequest/SupplierName}"
+                                        value="{/SupplierRequest/SupplierName2}"
                                         liveChange=".onLiveChange"
                                         change=".triggerBackendCheckDuplicate"
                                         width="500px"
@@ -386,14 +386,23 @@
                         >
                             <core:Title text="Supplier Info" />
                             <Label
-                                text="Supplier Name"
+                                text="Supplier Name1"
                                 required="true"
                             />
                             <Text
-                                id="vsuppliername"
-                                text="{/SupplierRequest/SupplierName}"
+                                id="vsuppliername1"
+                                text="{/SupplierRequest/SupplierName1}"
                                 width="500px"
                             />
+                            <Label
+                                text="Supplier Name2"
+                                required="true"
+                            />
+                            <Text
+                                id="vsuppliername2"
+                                text="{/SupplierRequest/SupplierName2}"
+                                width="500px"
+                            />                            
                             <Label
                                 text="Supplier DBA Name"
                                 required="false"
