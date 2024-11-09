@@ -67,16 +67,27 @@
                                 >
                                     <core:Title text="Supplier Info" />
                                     <Label
-                                        text="Supplier Name"
+                                        text="Supplier Name1"
                                         required="true"
                                     />
                                     <Input
-                                        id="suppliername"
+                                        id="suppliername1"
                                         value="{/SupplierRequest/SupplierName}"
                                         liveChange=".onLiveChange"
                                         change=".triggerBackendCheckDuplicate"
                                         width="500px"
                                     />
+                                    <Label
+                                        text="Supplier Name2"
+                                        required="true"
+                                    />
+                                    <Input
+                                        id="suppliername2"
+                                        value="{/SupplierRequest/SupplierName}"
+                                        liveChange=".onLiveChange"
+                                        change=".triggerBackendCheckDuplicate"
+                                        width="500px"
+                                    />                                    
                                     <Label
                                         text="Supplier DBA Name"
                                         required="false"
@@ -321,20 +332,7 @@
                                     >
                                         <RadioButton text="Yes" />
                                         <RadioButton text="No" />
-                                    </RadioButtonGroup>
-                                    <Label
-                                        text="Is enhanced due diligence needed?"
-                                        required="true"
-                                    />
-                                    <RadioButtonGroup
-                                        id="G002"
-                                        selectedIndex="{/selectedDiligenceIndex}"
-                                        select="OnSelectDiligence"
-                                        valueState="Information"
-                                    >
-                                        <RadioButton text="Yes" />
-                                        <RadioButton text="No" />
-                                    </RadioButtonGroup>
+                                    </RadioButtonGroup>                                  
                                     <Label
                                         text="Additional Comments"
                                         required="false"
