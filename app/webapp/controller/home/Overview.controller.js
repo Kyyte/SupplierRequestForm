@@ -681,7 +681,8 @@ sap.ui.define([
 
               debugger;
               var SRNumber = data.d.getNextNumber;
-              var SupplierName = this.getView().getModel().getProperty("/SupplierRequest/SupplierName");
+              var SupplierName1 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName1");
+              var SupplierName2 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName2");              
               var SupplierDBAName = this.getView().getModel().getProperty("/SupplierRequest/SDBAName");
               var SupplierStName = this.getView().getModel().getProperty("/SupplierRequest/SupplierStreet");
               var SuplierCity = this.getView().getModel().getProperty("/SupplierRequest/SupplierCity");
@@ -757,7 +758,8 @@ sap.ui.define([
 
               var oSRRequest = {
                 SuppRequestID: SRNumberfin,
-                SupplierName: SupplierName,
+                SupplierName1: SupplierName1,
+                SupplierName2: SupplierName2,                
                 SDBAName: SupplierDBAName,
                 SupplierStreet: SupplierStName,
                 SupplierCity: SuplierCity,
@@ -805,7 +807,8 @@ sap.ui.define([
                   _this.getView().byId("cfname").setValue("");
                   _this.getView().byId("clname").setValue("");
                   _this.getView().byId("cphone").setValue("");
-                  _this.getView().byId("vsuppliername").setText("");
+                  _this.getView().byId("vsuppliername1").setText("");
+                  _this.getView().byId("vsuppliername2").setText("");                  
                   _this.getView().byId("vsupplierdbaname").setText("");
                   _this.getView().byId("vsupplierstaddr").setText("");
                   _this.getView().byId("vcity").setText("");
@@ -950,8 +953,9 @@ sap.ui.define([
       },
 
       checkSupplierData: function () {
-        var supplierName = this.model.getProperty("/SupplierRequest/SupplierName") || "";
-        if (supplierName.length < 10) {
+        var supplierName1 = this.model.getProperty("/SupplierRequest/SupplierName1") || "";
+        var supplierName2 = this.model.getProperty("/SupplierRequest/SupplierName2") || "";        
+        if (supplierName1.length < 10 || supplierName2.length < 10) {
           this._wizard.invalidateStep(this.byId("Step1"));
         }
       },
@@ -1307,7 +1311,7 @@ sap.ui.define([
 
       triggerBackendCheckDuplicate: function () {
 
-        var Sname = this.model.getProperty("/SupplierRequest/SupplierName") || "";
+        var Sname = this.model.getProperty("/SupplierRequest/SupplierName1") || "";
 
         debugger;
         var jdata = {
