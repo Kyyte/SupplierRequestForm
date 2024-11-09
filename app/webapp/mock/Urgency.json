@@ -1,0 +1,16 @@
+{
+    "UrgencyLevels": [
+        {
+            "UrgencyID": "U001",
+            "UrgencyLevel": "Low"
+        },
+        {
+            "UrgencyID": "U002",
+            "UrgencyLevel": "Medium"
+        },
+        {
+            "UrgencyID": "U003",
+            "UrgencyLevel": "High"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Services": [
+        {
+            "ServiceID": "S001",
+            "ServiceDescription": "IT Support"
+        },
+        {
+            "ServiceID": "S002",
+            "ServiceDescription": "Network Maintenance"
+        },
+        {
+            "ServiceID": "S003",
+            "ServiceDescription": "Software Installation"
+        }
+    ]
+}

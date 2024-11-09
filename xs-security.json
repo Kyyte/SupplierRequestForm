@@ -1,0 +1,13 @@
+{
+  "xsappname": "intakes",
+  "tenant-mode": "dedicated",
+  "oauth2Configuration": {
+    "redirectUris": [
+      "https://*.cfapps.eu10-004.hana.ondemand.com/login/callback",
+      "http://localhost:5000/**"
+    ]
+  },
+  "scopes": [],
+  "authorities": [],
+  "role-templates": []
+}

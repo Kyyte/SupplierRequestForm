@@ -1,0 +1,19 @@
+{
+    "welcomeFile": "/supplierrequestform/index.html",
+    "authenticationMethod": "route",
+    "routes": [
+      {
+        "source": "^/supplierrequestform/(.*)$",
+        "target": "$1",
+        "localDir": "webapp",
+        "authenticationType": "xsuaa"
+      },
+      {
+        "source": "^/backend/(.*)",
+        "target": "$1",
+        "authenticationType": "xsuaa",
+        "destination": "backend",
+        "csrfProtection": false
+      }
+    ]
+}

@@ -1,0 +1,129 @@
+
+ID: com.kyyte.procurement.supplierrequestform
+_schema-version: 3.1.0
+version: 0.0.1
+
+parameters:
+  enable-parallel-deployments: true
+  global-xsappname: req-form-xsapp-${space}
+  global-frontend-tenant-host-pattern: ^(.*)\.${space}-req-form\.${default-domain}
+  global-frontend-session-timeout: 25
+  global-frontend-incoming-connection-timeout: 600000
+
+build-parameters:
+  before-all:
+    - builder: custom
+      commands:
+        - npm install
+        - cds build --production
+        - bash pg-build.sh
+        - npx cds compile '*' > gen/pg/db/csn.json
+
+
+modules:
+  
+  - name: supplierrequestform
+    type: html5
+    path: app
+    parameters:
+      buildpack: nodejs_buildpack
+      instances: 1
+      memory: 256M
+      disk-quota: 512M
+    properties:
+      TENANT_HOST_PATTERN: ${global-frontend-tenant-host-pattern}
+      SESSION_TIMEOUT: ${global-frontend-session-timeout}
+      INCOMING_CONNECTION_TIMEOUT: ${global-frontend-incoming-connection-timeout}
+      httpHeaders:
+        - X-Frame-Options: ALLOW-FROM https://s3.ariba.com https://s1-2.ariba.com https://s1-eu.ariba.com https://s1.ariba.com https://*.ondemand.com
+        - Content-Security-Policy: frame-ancestors https://s3.ariba.com https://s1-2.ariba.com https://s1-eu.ariba.com https://s1.ariba.com https://*.ondemand.com
+    requires:
+      - name: intakes-uaa
+      - name: backend
+        group: destinations
+        properties:
+          name: backend
+          url: ~{srv-url}
+          forwardAuthToken: true
+
+  - name: intakes-srv
+    type: nodejs
+    path: gen/srv
+    properties:
+      EXIT: 1  # required by deploy.js task to terminate
+      SAP_JWT_TRUST_ACL:
+        - clientid: "*"
+      identityzone: "*"
+    provides:
+      - name: backend      # required by consumers of CAP services (e.g. approuter)
+        properties:
+          srv-url: ${default-url}
+    requires:
+      # Resources extracted from CAP configuration
+      - name: intakes-pgdatabase
+      - name: intakes-uaa
+      - name: intakes-dest
+      - name: intakes-log
+      - name: backend
+        group: destinations
+        properties:
+          name: backend
+          url: ~{srv-url}
+          forwardAuthToken: true
+
+  - name: intakes-pgdb-deployer
+    type: custom
+    path: gen/pg
+    parameters:
+      disk-quota: 1GB
+      memory: 1GB
+      no-start: true
+      no-route: true
+      tasks:
+        - name: deploy-to-postgresql
+          command: npm start
+    build-parameters:
+      ignore: ["node_modules/"]
+    requires:
+      - name: intakes-pgdatabase
+
+
+
+resources:
+  # ------------------------------------------------------------
+  - name: intakes-pgdatabase
+    # ------------------------------------------------------------
+    parameters:
+      path: ./pg-options.json
+      service: postgresql-db
+      service-plan: standard
+      skip-service-updates:
+        parameters: true
+      service-tags:
+        - plain
+    type: org.cloudfoundry.managed-service
+
+  # ------------------------------------------------------------
+  - name: intakes-uaa
+    # ------------------------------------------------------------
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: xsuaa
+      service-plan: application
+      path: ./xs-security.json
+
+  # ------------------------------------------------------------
+  - name: intakes-dest
+    # ------------------------------------------------------------
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service-plan: lite
+      service: destination
+
+  # ------------------------------------------------------------
+  - name: intakes-log
+    # ------------------------------------------------------------
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service-plan: lite
+      service: application-logs

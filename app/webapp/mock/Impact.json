@@ -1,0 +1,16 @@
+{
+    "ImpactLevels": [
+        {
+            "ImpactID": "I001",
+            "ImpactLevel": "Low"
+        },
+        {
+            "ImpactID": "I002",
+            "ImpactLevel": "Medium"
+        },
+        {
+            "ImpactID": "I003",
+            "ImpactLevel": "High"
+        }
+    ]
+}

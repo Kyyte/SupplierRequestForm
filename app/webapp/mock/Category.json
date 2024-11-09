@@ -1,0 +1,16 @@
+{
+    "Categories": [
+        {
+            "CategoryID": "C001",
+            "CategoryName": "Hardware Issue"
+        },
+        {
+            "CategoryID": "C002",
+            "CategoryName": "Software Issue"
+        },
+        {
+            "CategoryID": "C003",
+            "CategoryName": "Network Issue"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<core:FragmentDefinition
+        xmlns="sap.m"
+        xmlns:core="sap.ui.core">
+    <BusyDialog
+            title="Retrieving Input"
+            text="... looking for what's best for you!"
+            showCancelButton="true"/>
+</core:FragmentDefinition>

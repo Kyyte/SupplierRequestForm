@@ -1,0 +1,55 @@
+
+.title {
+   font-weight: bold;
+}
+.horizontalCardSpacing {
+   margin-right: 45px; /* Space between each card */
+   margin-bottom: 45px; /* Space between rows if cards wrap */
+}
+
+.customCardStyle {   
+   background-color: #f3f4f6; /* Light background color */
+   border-radius: 8px; /* Rounded corners */
+   padding: 15px; /* Internal padding for a clean look */
+   box-shadow: 0px 4px 8px rgba(193, 225, 9, 0.2); /* Shadow for embossed effect */
+   cursor: pointer; /* Pointer cursor to indicate clickability */
+   transition: transform 0.1s ease-in-out; /* Smooth hover effect */
+   
+   /* Add margin to create space between cards */
+   margin-right: 20px; /* Space to the right of each card */
+   margin-bottom: 20px; /* Space below each card */
+}
+
+.customCardStyle:hover {
+   transform: scale(1.02); /* Slightly enlarge on hover for interactivity */
+   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+.fullGoldCard {
+   background-color: #ffd151; /* Light gold outer background */
+   border-radius: 10px; /* Rounded corners */
+   padding: 15px; /* Padding to separate outer background from inner content */
+   border: 2px solid blue; /* Blue outer border */
+   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Embossed shadow effect */
+   cursor: pointer; /* Pointer cursor to indicate clickability */
+   transition: transform 0.1s ease-in-out; /* Smooth hover effect */
+   color: #000; /* Text color for readability */
+
+   /* Margin for spacing between cards */
+   margin-right: 25px; /* Horizontal space between cards */
+   margin-bottom: 25px; /* Vertical space for row wrapping */
+}
+
+/* Inner content area with white background */
+.fullGoldCard .sapFCardHeader, 
+.fullGoldCard .sapFCardContent {
+   background-color: #fff !important; /* White inner content background */
+   border-radius: 8px; /* Slightly rounded corners for inner content */
+   padding: 10px; /* Padding for inner content */
+}
+
+/* Hover effect for border and shadow */
+.fullGoldCard:hover {
+   transform: scale(1.03); /* Slightly enlarge on hover */
+   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}

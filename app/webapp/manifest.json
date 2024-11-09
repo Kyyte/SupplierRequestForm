@@ -1,0 +1,143 @@
+{
+    "_version": "1.12.0",
+    "sap.app": {
+        "id": "com.kyyte.procurement.supplierrequestform",
+        "type": "application",
+        "i18n": "i18n/i18n.properties",
+        "applicationVersion": {
+            "version": "1.0.0"
+        },
+        "title": "Supplier Request Form",
+        "description": "Supplier Request Form",
+        "resources": "resources.json",
+        "ach": "ach",
+        "sourceTemplate": {
+            "id": "html5moduletemplates.basicSAPUI5ApplicationProjectModule",
+            "version": "1.40.12",
+            "toolsId": "d5969a03-93c7-4c72-9e72-3b24186b31d8"
+        },
+        "dataSources": {
+            "mainService": {
+                "uri": "/backend/v2/supplierrequest/",
+                "type": "OData",
+                "settings": {
+                    "odataVersion": "2.0",
+                    "localUri": "localService/metadata.xml"
+                }
+            }
+        }
+    },
+    "sap.ui": {
+        "technology": "UI5",
+        "icons": {
+            "icon": "",
+            "favIcon": "",
+            "phone": "",
+            "phone@2": "",
+            "tablet": "",
+            "tablet@2": ""
+        },
+        "deviceTypes": {
+            "desktop": true,
+            "tablet": true,
+            "phone": true
+        }
+    },
+    "sap.ui5": {
+        "flexEnabled": false,
+        "rootView": {
+            "viewName": "com.kyyte.procurement.supplierrequestform.view.App",
+            "type": "XML",
+            "async": true,
+            "id": "App"
+        },
+        "config": {
+            "fullWidth": true
+        },
+        "dependencies": {
+            "minUI5Version": "1.76.1",
+            "libs": {
+                "sap.ui.core": {},
+                "sap.m": {},
+                "sap.ui.layout": {}
+            }
+        },
+        "contentDensities": {
+            "compact": true,
+            "cozy": true
+        },
+        "models": {
+            "i18n": {
+                "type": "sap.ui.model.resource.ResourceModel",
+                "settings": {
+                    "bundleName": "com.kyyte.procurement.supplierrequestform.i18n.i18n"
+                }
+            },
+            "supplierrequestform": {
+                "dataSource": "mainService",
+                "preload": true,
+                "settings": {
+                    "defaultBindingMode": "TwoWay",
+                    "defaultCountMode": "Inline",
+                    "refreshAfterChange": true,
+                    "metadataUrlParams": {
+                        "sap-value-list": "none"
+                    }
+                }
+            }
+        },
+        "resources": {
+            "css": [
+                {
+                    "uri": "css/style.css"
+                }
+            ]
+        },
+        "routing": {
+            "config": {
+                "routerClass": "sap.m.routing.Router",
+                "viewType": "XML",
+                "async": true,
+                "viewPath": "com.kyyte.procurement.supplierrequestform.view",
+                "controlAggregation": "pages",
+                "controlId": "app",
+                "clearControlAggregation": false,
+                "bypassed": {
+                    "target": [
+                        "Home"
+                    ]
+                }
+            },
+            "routes": {
+                "default": {
+                    "pattern": "",
+                    "target": [
+                        "Home"
+                    ]
+                },
+                "Home": {
+                    "pattern": "Home:?query:",
+                    "target": "Home"
+                },
+                "IntakeDetails": {
+                    "pattern": "Intake/{sPath}",
+                    "target": [
+                        "IntakeDetails"
+                    ]
+                }
+            },
+            "targets": {
+                "Home": {
+                    "viewName": "home/Overview",
+                    "viewLevel": 0
+                },
+                "IntakeDetails": {
+                    "viewName": "detail/IntakeDetails",
+                    "viewLevel": 0,
+                    "clearControlAggregation": true,
+                    "transition": "slide"
+                }
+            }
+        }
+    }
+}

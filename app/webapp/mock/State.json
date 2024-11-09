@@ -1,0 +1,16 @@
+{
+    "States": [
+        {
+            "StateID": "ST001",
+            "StateName": "New"
+        },
+        {
+            "StateID": "ST002",
+            "StateName": "In Progress"
+        },
+        {
+            "StateID": "ST003",
+            "StateName": "Closed"
+        }
+    ]
+}

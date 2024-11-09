@@ -1,0 +1,12 @@
+{
+    "ContractTypes": [
+        {
+            "ContractTypeID": "CT001",
+            "ContractType": "Email"
+        },
+        {
+            "ContractTypeID": "CT002",
+            "ContractType": "Phone"
+        }
+    ]
+}
