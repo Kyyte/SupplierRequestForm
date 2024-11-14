@@ -1,0 +1,4 @@
+FullName,LoginID,Phone,PreferredLocale,TimeZoneID,IsUserApproved,EmailAddress,DefaultCurrency,ExternalOrganizationID,IsEmailInviteNeeded
+Narain Mani,test8@sap.com,111-222-3333,en_US,US/Pacific,0,test8@sap.com,USD,ACM_787788758,2
+Narain Mani,test9@sap.com,111-222-3333,en_US,US/Pacific,0,test9@sap.com,USD,ACM_182783633,2
+Narain Mani,test10@sap.com,111-222-3333,en_US,US/Pacific,0,test10@sap.com,USD,ACM_182783633,2

@@ -13,18 +13,23 @@
         "ach": "ach",
         "sourceTemplate": {
             "id": "html5moduletemplates.basicSAPUI5ApplicationProjectModule",
-            "version": "1.40.12",
-            "toolsId": "d5969a03-93c7-4c72-9e72-3b24186b31d8"
+            "version": "1.40.12"
         },
         "dataSources": {
-            "mainService": {
-                "uri": "/backend/v2/supplierrequest/",
+            "localService": {
+                "uri": "/backend/v2/supplier/",
                 "type": "OData",
                 "settings": {
-                    "odataVersion": "2.0",
-                    "localUri": "localService/metadata.xml"
+                  "odataVersion": "2.0"
                 }
-            }
+              },
+            "intakeProcessServices": {
+                "uri": "/request-and-approvals/",
+                "type": "OData",
+                "settings": {
+                  "odataVersion": "4.0"
+                }
+              }
         }
     },
     "sap.ui": {
@@ -73,18 +78,28 @@
                     "bundleName": "com.kyyte.procurement.supplierrequestform.i18n.i18n"
                 }
             },
-            "supplierrequestform": {
-                "dataSource": "mainService",
-                "preload": true,
+            "SupplierMo": {
+        "dataSource": "localService",
+        "preload": true,
+        "settings": {
+          "defaultBindingMode": "TwoWay",
+          "defaultCountMode": "Inline",
+          "refreshAfterChange": true,
+          "metadataUrlParams": {
+            "sap-value-list": "none"
+                        }
+                        }
+                    },
+            "MointakeReqApprovalServices": {
+                "dataSource": "intakeProcessServices",
                 "settings": {
-                    "defaultBindingMode": "TwoWay",
-                    "defaultCountMode": "Inline",
-                    "refreshAfterChange": true,
-                    "metadataUrlParams": {
-                        "sap-value-list": "none"
-                    }
+                  "operationMode": "Server",
+                  "synchronizationMode": "None",
+                  "updateGroupId" : "matrixChange",
+                  "autoExpandSelect": true,
+                  "earlyRequests": true
                 }
-            }
+              }
         },
         "resources": {
             "css": [
@@ -116,13 +131,13 @@
                     ]
                 },
                 "Home": {
-                    "pattern": "Home:?query:",
+                    "pattern": "Home",
                     "target": "Home"
                 },
-                "IntakeDetails": {
-                    "pattern": "Intake/{sPath}",
+                "SRDetails": {
+                    "pattern": "SRDetails/{sPath}",
                     "target": [
-                        "IntakeDetails"
+                        "SRDetails"
                     ]
                 }
             },
@@ -131,8 +146,8 @@
                     "viewName": "home/Overview",
                     "viewLevel": 0
                 },
-                "IntakeDetails": {
-                    "viewName": "detail/IntakeDetails",
+                "SRDetails": {
+                    "viewName": "detail/SRDetails",
                     "viewLevel": 0,
                     "clearControlAggregation": true,
                     "transition": "slide"

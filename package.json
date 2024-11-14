@@ -1,40 +1,40 @@
 {
-  "name": "SUPPLIERREQUEST-FORM",
+  "name": "supplierrequestform",
   "version": "1.0.0",
-  "description": "Supplier Request Form",
-  "repository": "",
+  "description": "Supplier Request Form ",
+  "repository": "Supplier Request Form ",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@cap-js/postgres": "^1.2.1",
     "@sap-cloud-sdk/core": "^1.54.2",
-    "@sap-cloud-sdk/mail-client": "^3.15.0",
-    "@sap/approuter": "^14.0.0",
-    "@sap/audit-logging": "^6.2.0",
-    "@sap/cds": "^7.9.3",
+    "@sap/approuter": "^12.0.0",
+    "@sap/audit-logging": "^3.2.0",
+    "@sap/cds": "^7.1.2",
     "@sap/cds-compiler": "4.1.2",
     "@sap/cds-odata-v2-adapter-proxy": "^1.9.19",
     "@sap/xsenv": "^4.0.0",
     "@sap/xssec": "^3.2.18",
-    "bottleneck": "^2.19.5",
     "concurrently": "^5.3.0",
     "csv-parse": "^5.5.0",
     "cuid": "^3.0.0",
+    "docusign-esign": "^5.20.0",
     "express": "^4",
     "form-data": "^4.0.0",
     "fs": "^0.0.1-security",
-    "handlebars": "^4.7.8",
+    "fuse.js": "^7.0.0",
+    "fuzzball": "^2.1.2",
     "jszip": "^3.10.1",
     "moment": "^2.29.4",
-    "nodemailer": "^6.9.13",
     "passport": "0.6.0",
+    "smartystreets-javascript-sdk": "^4.0.2",
     "stream": "^0.0.2",
     "uuid": "^9.0.0",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
-    "@sap/cds-dk": "^7",
-    "@types/uuid": "^9.0.8",
-    "@ui5/cli": "^3.6.1"
+    "@sap/cds-dk": "^7.1.1",
+    "@ui5/cli": "^3.10.1"
   },
   "engines": {
     "node": "^18"
@@ -45,13 +45,13 @@
     "local:debug": "concurrently --kill-others \"npm run local:cds:run\" \"npm run local:approuter\"",
     "local:cds:watch": "node node_modules/@sap/cds/bin/cds watch",
     "local:cds:run": "node --inspect node_modules/@sap/cds/bin/cds-serve",
-    "local:approuter": "cd app && npm start",
-    "debug": "node --inspect node_modules/@sap/cds/bin/cds-serve",
-    "local:db:build": "cds deploy --profile pg",
-    "mta:package": "mbt build --mtar mta-intakes --platform cf",
-    "mta:deploy": "cf deploy mta_archives/mta-intakes.mtar -f",
-    "mta:package:deploy": "npm run mta:package && npm run mta:deploy",
-    "ssh:pg": "cf ssh -L 63306:postgres-2b59a57f-a4f0-4bc2-8a0f-df792620f1a9.cxxzc36no8yr.eu-central-1.rds.amazonaws.com:5336 intakes-srv"
+    "local:approuter": "cd app/ && npm start",
+    "ui5-start": "ui5 serve --port 8080",
+    "build": "ui5 build -a --clean-dest",
+    "build-self-contained": "ui5 build self-contained -a --clean-dest",
+    "serve-dist": "ws --compress -d dist",
+    "local:pg": "cds watch --profile pg",
+    "local:db:build": "cds deploy --profile pg"
   },
   "cds": {
     "odata": {
@@ -66,15 +66,31 @@
         "strategy": "JWT"
       }
     },
-    "query": {
-      "limit": {
-        "default": 4000,
-        "max": 5000
-      }
-    },
     "requires": {
       "auth": {
         "kind": "xsuaa"
+      },
+      "db": {
+        "kind": "postgres",
+        "pool": {
+          "acquireTimeoutMillis": 5000,
+          "acquire": 1000000,
+          "idle": 200000,
+          "min": 0,
+          "max": 100,
+          "fifo": true
+        }
+      },
+      "[development]": {
+        "kind": "postgres",
+        "impl": "@cap-js/postgres",
+        "credentials": {
+          "host": "localhost",
+          "port": 5432,
+          "database": "supplierrequestform",
+          "user": "postgres",
+          "password": "postgres"
+        }
       }
     }
   }

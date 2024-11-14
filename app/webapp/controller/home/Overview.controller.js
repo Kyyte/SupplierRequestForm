@@ -66,17 +66,29 @@ sap.ui.define([
         // var radioButtonGroup = this.getView().byId("G001");
         // radioButtonGroup.setSelectedIndex(0);
 
+        var oCheckboxModel = new JSONModel({
+          selectedItems: {
+              Purchasing: false,
+              Finance: false
+          },
+          enabled: {
+              Purchasing: true,
+              Finance: true
+          }
+      });
+      this.getView().setModel(oCheckboxModel, "checkboxModel");
 
-        var oMultiInput, oMultiInputRegion;
-        oMultiInput = this.byId("multiInput");
-        oMultiInputRegion = this.byId("RegionMultiInput");
 
-        oMultiInput.addValidator(this._onMultiInputValidate);
-        oMultiInputRegion.addValidator(this._onMultiInputValidateRegion);
+        // var oMultiInput, oMultiInputRegion;
+        // oMultiInput = this.byId("multiInput");
+        // oMultiInputRegion = this.byId("RegionMultiInput");
+
+        // oMultiInput.addValidator(this._onMultiInputValidate);
+        // oMultiInputRegion.addValidator(this._onMultiInputValidateRegion);
 
 
-        this._oMultiInput = oMultiInput;
-        this._oMultiInputRegion = oMultiInputRegion;
+        // this._oMultiInput = oMultiInput;
+        // this._oMultiInputRegion = oMultiInputRegion;
 
         this.model.setProperty("/SupplierRequest", { "SupplierCountry": "USA" }); //Default country USA
          
@@ -93,9 +105,18 @@ sap.ui.define([
           _this.getView().byId("SupplierWizard").setCurrentStep(_this.getView().byId("Step1"));
         });
 
-        this.getView().getModel().setProperty("/selectedNDAIndex", 0);
+        // this.getView().getModel().setProperty("/selectedNDAIndex", 0);
 
       },
+
+      onDisplaySelections: function () {
+        // Retrieve the checkbox model data
+        var oCheckboxModel = this.getView().getModel("checkboxModel");
+
+        // Disable the checkboxes based on the current selection
+        oCheckboxModel.setProperty("/enabled/Purchasing", false);
+        oCheckboxModel.setProperty("/enabled/Finance", false);
+    },
 
       onBeforeRendering: function () {
         // this.getView().getModel().setData({});
@@ -145,7 +166,7 @@ sap.ui.define([
 
         this._oBasicSearchField = new SearchField();
         this.loadFragment({
-          name: "com.sap.pgp.dev.SupplierControlApp.fragment.RegionValueHelpDialog"
+          name: "com.kyyte.procurement.supplierrequestform.fragment.RegionValueHelpDialog"
         }).then(function (oDialog) {
           var oFilterBar = oDialog.getFilterBar(), oColumnRegionID, oColumnRegionName;
           this._oVHD = oDialog;
@@ -227,7 +248,7 @@ sap.ui.define([
 
         this._oBasicSearchField = new SearchField();
         this.loadFragment({
-          name: "com.sap.pgp.dev.SupplierControlApp.fragment.CategoryValueHelpDialog"
+          name: "com.kyyte.procurement.supplierrequestform.fragment.CategoryValueHelpDialog"
         }).then(function (oDialog) {
           var oFilterBar = oDialog.getFilterBar(), oColumnCategoryID, oColumnCategoryDesc;
           this._oVHD = oDialog;
@@ -652,10 +673,12 @@ sap.ui.define([
       },
 
       handleNavBackToGeneral: function () {
+        debugger;
         this._navBackToStep(this.byId("Step1"));
       },
 
       handleNavBackStep2: function () {
+        debugger;
         this._navBackToStep(this.byId("Step2"));
       },
 
@@ -1070,7 +1093,7 @@ sap.ui.define([
       },
 
       triggerBackendCheckAddr: function () {
-
+        debugger;
         var Street = this.model.getProperty("/SupplierRequest/SupplierStreet") || "";
         var SupplierCity = this.model.getProperty("/SupplierRequest/SupplierCity") || "";
         var SupplierRegion = this.model.getProperty("/SupplierRequest/SupplierRegion") || "";
@@ -1121,7 +1144,7 @@ sap.ui.define([
               // Load the fragment asynchronously
               Fragment.load({
                 id: oView.getId(),
-                name: "com/sap/pgp/dev/SupplierControlApp/fragment/AddressPopup",
+                name: "com/kyyte/procurement/supplierrequestform/fragment/AddressPopup",
                 controller: this
               }).then(function (oFragment) {
                 that.oPostalDialog = oFragment;
@@ -1142,7 +1165,7 @@ sap.ui.define([
 
         $.ajax({
           type: "POST",
-          url: "/backend/v2/sourcing/doSupplierAddressCheck",
+          url: "/backend/v2/supplier/doSupplierAddressCheck",
           headers: {
             "Content-Type": "application/json",
           },
@@ -1207,7 +1230,7 @@ sap.ui.define([
 
           return $.ajax({
             type: "POST",
-            url: "/backend/v2/sourcing/doSupplierAddressCheck",
+            url: "/backend/v2/supplier/doSupplierAddressCheck",
             headers: {
               "Content-Type": "application/json",
             },
@@ -1254,7 +1277,7 @@ sap.ui.define([
           // Load the fragment asynchronously
           Fragment.load({
             id: oView.getId(),
-            name: "com/sap/pgp/dev/SupplierControlApp/fragment/AddressPopup",
+            name: "com/kyyte/procurement/supplierrequestform/fragment/AddressPopup",
             controller: this
           }).then(function (oFragment) {
             that.oPostalDialog = oFragment;
@@ -1311,6 +1334,7 @@ sap.ui.define([
 
       triggerBackendCheckDuplicate: function () {
 
+        debugger;
         var Sname = this.model.getProperty("/SupplierRequest/SupplierName1") || "";
 
         debugger;
@@ -1354,7 +1378,7 @@ sap.ui.define([
               // Load the fragment asynchronously
               Fragment.load({
                 id: oView.getId(),
-                name: "com/sap/pgp/dev/SupplierControlApp/fragment/NameCheckDialog",
+                name: "com/kyyte/procurement/supplierrequestform/fragment/NameCheckDialog",
                 controller: this
               }).then(function (oFragment) {
                 that.oProcessDialog = oFragment;
@@ -1377,7 +1401,7 @@ sap.ui.define([
 
         $.ajax({
           type: "POST",
-          url: "/backend/v2/sourcing/doSupplierNameCheckAriba",
+          url: "/backend/v2/supplier/doSupplierNameCheckAriba",
           headers: {
             "Content-Type": "application/json",
           },
@@ -1439,7 +1463,7 @@ sap.ui.define([
         // create dialog lazily
         if (!this.oMPDialog) {
           this.oMPDialog = this.loadFragment({
-            name: "com/sap/pgp/dev/SupplierControlApp/fragment/NameCheckDialog"
+            name: "com/kyyte/procurement/supplierrequestform/fragment/NameCheckDialog"
           });
         }
         this.oMPDialog.then(function (oDialog) {
@@ -1467,15 +1491,15 @@ sap.ui.define([
           this._oNavContainer.detachAfterNavigate(fnAfterNavigate);
         }.bind(this);
 
-        var myCategoryArrayx = this.getView().getModel("regionmodel");
-        var myCategoryArray = myCategoryArrayx.getProperty("/regiondata");
-        var oMultiInput1 = this.getView().byId("RegionMultiInput");
-        oMultiInput1.setTokens(myCategoryArray);
+        // var myCategoryArrayx = this.getView().getModel("regionmodel");
+        // var myCategoryArray = myCategoryArrayx.getProperty("/regiondata");
+        // var oMultiInput1 = this.getView().byId("RegionMultiInput");
+        // oMultiInput1.setTokens(myCategoryArray);
 
-        var myRegionArrayx = this.getView().getModel("categorymodel");
-        var myRegionArray = myRegionArrayx.getProperty("/categorydata");
-        var oMultiInput2 = this.getView().byId("multiInput");
-        oMultiInput2.setTokens(myRegionArray);
+        // var myRegionArrayx = this.getView().getModel("categorymodel");
+        // var myRegionArray = myRegionArrayx.getProperty("/categorydata");
+        // var oMultiInput2 = this.getView().byId("multiInput");
+        // oMultiInput2.setTokens(myRegionArray);
 
         this._oNavContainer.attachAfterNavigate(fnAfterNavigate);
         this._oNavContainer.to(this._oDynamicPage);

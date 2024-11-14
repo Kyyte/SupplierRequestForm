@@ -1,13 +1,69 @@
 {
-  "xsappname": "intakes",
-  "tenant-mode": "dedicated",
-  "oauth2Configuration": {
-    "redirectUris": [
-      "https://*.cfapps.eu10-004.hana.ondemand.com/login/callback",
-      "http://localhost:5000/**"
-    ]
-  },
-  "scopes": [],
-  "authorities": [],
-  "role-templates": []
-}
+    "xsappname": "SupplierControlApp",
+    "tenant-mode": "dedicated",
+    "description": "Supplier Control Tower",
+    "scopes": [
+      {
+        "name": "$XSAPPNAME.SuperAdmin",
+        "description": "Super User"
+      },
+      {
+        "name": "$XSAPPNAME.SupplierControlTower_USARegion",
+        "description": "USA Region User Group"
+      },
+      {
+        "name": "$XSAPPNAME.SupplierControlTower_DEURegion",
+        "description": "Germany Region User Group"
+      },
+      {
+        "name": "$XSAPPNAME.SupplierControlTower_INDRegion",
+        "description": "India Region User Group"
+      },{
+        "name": "$XSAPPNAME.SupplierControlTower_DefaultRegion",
+        "description": "Default Region User Group"
+      }
+    ],
+    "attributes": [],
+    "authorities":["$ACCEPT_GRANTED_AUTHORITIES"],
+    "role-templates": [
+      {
+        "name": "SuperAdmin",
+        "description": "Super Administrator",
+        "scope-references": [
+          "$XSAPPNAME.SuperAdmin"
+        ],
+        "attribute-references": []
+      },{
+        "name": "SupplierControlTower_USARegion",
+        "description": "Approvers For USA Region",
+        "scope-references": [
+          "$XSAPPNAME.SupplierControlTower_USARegion"
+        ]
+      },{
+        "name": "SupplierControlTower_DEURegion",
+        "description": "Approvers For Germany Region",
+        "scope-references": [
+          "$XSAPPNAME.SupplierControlTower_DEURegion"
+        ]
+      },{
+        "name": "SupplierControlTower_INDRegion",
+        "description": "Approvers For IND Region",
+        "scope-references": [
+          "$XSAPPNAME.SupplierControlTower_INDRegion"
+        ]
+      },{
+        "name": "SupplierControlTower_DefaultRegion",
+        "description": "Approvers For Default Region",
+        "scope-references": [
+          "$XSAPPNAME.SupplierControlTower_DefaultRegion"
+        ]
+      }
+    ],
+    "oauth2-configuration": {
+      "redirect-uris": [
+          "https://*.cfapps.eu10-004.hana.ondemand.com/**",
+          "http://localhost:5000/**"
+      ]
+  }
+  }
+  

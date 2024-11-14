@@ -1,0 +1,4 @@
+ACMID,SupplierID,SLPID,CategoryID,RegionID,SupplierName,contactfn,contactln,contactemail,City,Country,AutoRFQEligble
+ACM_112233,677878,S899878,4434,67,Prince Rai,Prince,Rai,prince.rai@kyyte.io,TX,US,X
+ACM_543235,757644,S876857,8767,87,Brijesh Sharma,Brijesh,Sharma,TX,US,X
+ACM_656543,546786,S655433,7654,29,Yuvarajan Selvamani,Yuvarajan,S,TX,US,X

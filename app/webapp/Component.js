@@ -16,7 +16,7 @@ sap.ui.define([
             UIComponent.prototype.init.apply(this, arguments);
             this.getRouter().initialize();
             this.setModel(models.createDeviceModel(), "device");
-            this._initConversationalAI();
+            // this._initConversationalAI();
            
         },
 

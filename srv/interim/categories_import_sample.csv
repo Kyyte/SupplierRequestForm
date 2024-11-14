@@ -1,0 +1,4835 @@
+CategoryID,CategoryDesc
+All,All Commodities
+30,Marketing
+20,Consulting Services
+10,Temporary Staffing
+40,Print
+10,Live Plant and Animal Material and Accessories and Supplies
+11,Mineral and Textile and Inedible Plant and Animal Materials
+12,Chemicals including Bio Chemicals and Gas Materials
+13,Resin and Rosin and Rubber and Foam and Film and Elastomeric Materials
+14,Paper Materials and Products
+14111529,Telex rolls
+14111515,Calculator or cash register paper
+14111530,Self adhesive note paper
+14111516,Notebook filler paper
+14111531,Log books or pads
+14111518,Index cards
+14111506,Computer printout paper
+14111532,Assorted paper kits
+14111519,Cardstock papers
+14111507,Printer or copier paper
+14111533,Examination booklets or forms
+14111520,Blotter paper
+14111508,Facsimile paper
+14111534,Music score or manuscript papers
+14111523,Tracing paper
+14111509,Stationery
+14111501,Onion skin paper
+14111535,Telegraph papers
+14111524,Foolscap sheets
+14111510,Plotter paper
+14111502,Vellum paper
+14111536,Library book or borrowers cards
+14111525,Multipurpose paper
+14111511,Writing paper
+14111503,Parchment paper
+14111537,Label papers
+14111526,Telephone message pads or books
+14111512,Graph paper
+14111504,Tractor feed paper
+14111527,Carbonless paper
+14111513,Ledger paper
+14111505,Mimeograph paper
+14111528,Magnet paper
+14111514,Paper pads or notebooks
+15,Fuels and Fuel Additives and Lubricants and Anti corrosive Materials
+20,Mining and Well Drilling Machinery and Accessories
+21,Farming and Fishing and Forestry and Wildlife Machinery and Accessories
+22,Building and Construction Machinery and Accessories
+23,Industrial Manufacturing and Processing Machinery and Accessories
+24101723,Motorized rollers or drums
+24101711,Turntables
+24101629,Forklift or elevator accessories or supplies
+24101618,Pipe layer
+24101724,Conveyor frames
+24101712,Belt conveyors
+24101701,Conveyor roller
+24101630,Workshop cranes
+24101601,Elevators
+24101619,Bridge cranes
+24101725,Conveyor flights or links
+24101713,Bucket conveyors
+24101702,Ball transfer tables
+24101631,Suction cups
+24101602,Hoists
+24101620,Track cranes
+24101726,Conveyor liner
+24101714,Air conveyors
+24101703,Rock bins
+24101612,Jacks
+24101632,Side shifts
+24101603,Forklifts
+24101621,All terrain cranes
+24101727,Vibrating conveyors
+24101715,Conveyor belting
+24101704,Conveyor feeders
+24101613,Blocks or pulleys
+24101633,Hoist drums
+24101604,Lifts
+24101622,Rough terrain cranes
+24101728,Conveyor mounts
+24101716,Conveyor pulleys
+24101705,Conveyor screw
+24101614,Air bags for loading
+24101634,Chain bags
+24101605,Loading equipment
+24101623,Tower cranes
+24101717,Conveyor idlers
+24101706,Trolleys or accessories
+24101615,Loading ramps
+24101635,Screw jacks
+24101606,Stackers
+24101624,Hydraulic truck cranes
+24101718,Conveyor belt lacing or fasteners
+24101707,Conveyor rails
+24101636,Counter weight bag and counterweight
+24101608,Winches
+24101625,Conventional truck cranes
+24,Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies
+24101719,Conveyor belt brushes
+24101708,Extendable conveyors
+24101609,Tilts
+24101626,Escalator or walkways
+24101721,Trolley lid
+24101709,Roller conveyors
+24101610,Manipulators
+24101627,Girder trolleys
+24101616,Below the hook device
+24101722,Chain conveyors
+24101710,Package stops
+24101611,Slings
+24101628,Adjustable forks
+24101617,Scissor lift
+25,Commercial and Military and Private Vehicles and their Accessories and Components
+26,Power Generation and Distribution Machinery and Accessories
+26111704,Battery chargers
+26111527,Integrated motion control systems
+26111515,Servo controller
+26111528,Hydrostatic drives
+26111516,Step drive or stepper drive or step indexer
+26111503,Mechanical adjustable speed drive
+26111529,Hydrokinetic drives
+26111517,Planet carrier
+26111504,Belt drives
+26111530,Transmission cam
+26111518,Tension strut
+26111505,Chain drives
+26111531,Transmission sleeves
+26111519,Torque converters
+26111506,Linear motion devices
+26111532,Shaft supports or assemblies
+26111520,Trunnions
+26111508,Power take offs
+26111533,Chain tensioners
+26111521,Pusher head
+26111509,Transmission yokes
+26111534,Transmission hubs
+26111522,Pusher assembly
+26111510,Transmission shafts
+26111701,Rechargeable batteries
+26111535,Ballscrews or ballscrew assemblies
+26111523,Backstops
+26111512,Axles
+26111702,Alkaline batteries
+26111524,Gear units
+26111513,Power transmission chains
+26111703,Vehicle batteries
+26111525,Drum motor drives
+26111514,Knuckle joints
+26111715,Zinc coal battery
+26111716,Mercury oxide battery
+26111705,Dry cell batteries
+26111717,Manganese batteries
+26111706,Electronic batteries
+26111718,Silver oxide batteries
+26111707,Lead acid batteries
+26111719,Battery testers
+26111708,Nickel iron batteries
+26111720,Battery holders
+26111709,Nickel cadmium batteries
+26111721,Nickel metal hydride batteries
+26111710,Product specific battery packs
+26111722,Battery adapter or accessories
+26111711,Lithium batteries
+26111723,Battery cabinets or covers or doors
+26111712,Nickel hydrogen batteries
+26111724,Tool kits for batteries
+26111713,Thermal batteries
+26111725,Nickel sodium chloride batteries
+26111714,Zinc air
+27,Tools and General Machinery
+30,Structures and Building and Construction and Manufacturing Components and Supplies
+31,Manufacturing Components and Supplies
+3110,Castings
+3111,Extrusions
+3112,Machined castings
+3113,Forgings
+3115,Rope and chain and cable and wire and strap
+3114,Moldings
+3116,Hardware
+3118,Gaskets and seals
+3117,Bearings and bushings and wheels and gears
+31201520,Aisle marking tape
+31201509,Nylon tape
+31201521,Foil tape
+31201510,Resin impregnated tape
+3120,Adhesives and sealants
+31201522,Adhesive transfer tape
+31201511,Wire mesh tape
+31201523,Cloth tape
+31201512,Transparent tape
+31201501,Duct tape
+31201524,Color coding tape
+31201513,Non skid safety tapes
+31201502,Electrical insulating tape
+31201525,Vinyl tape
+31201514,Polytetrafluoroethylene PTFE thread sealing tape
+31201503,Masking tape
+3121,Paints and primers and finishes
+31201526,Magnetic tape
+31201515,Paper tapes
+31201504,Carpet tape
+31201527,Foam tapes
+31201516,Reflective tape
+31201505,Double sided tape
+3119,Grinding and polishing and smoothing materials
+31201528,Rigging tape
+31201517,Packaging tape
+31201506,Bismalemide tape
+31201529,Line Tape
+31201518,Electrically conductive tape
+31201507,Fiberglass tape
+31201519,Pipe or hose repair tape
+31201508,Graphite tape
+3122,Dyeing and tanning extracts
+3123,Machined raw stock
+3126,Housings and cabinets and casings
+3124,Industrial optics
+3125,Pneumatic and hydraulic and electric control systems
+3127,Machine made parts
+3128,Stampings and sheet components
+3129,Machined extrusions
+3130,Machined forgings
+3131,Fabricated pipe assemblies
+3132,Fabricated bar stock assemblies
+3133,Fabricated structural assemblies
+3134,Fabricated sheet assemblies
+3135,Fabricated tube assemblies
+3136,Fabricated plate assemblies
+3137,Refractories
+32,Electronic Components and Supplies
+3138,Magnets and magnetic materials
+39,Electrical Systems and Lighting and Components and Accessories and Supplies
+40101811,Convection heaters
+40101834,Burners
+40101823,Two pass exchangers
+40101812,Divided exchangers
+40101824,Quartz heater
+40101813,Double split exchangers
+40101801,Radiators
+40101825,Domestic water heaters
+40101814,Finned tubular heaters
+40101802,Heat exchangers
+40101826,Commercial water heaters
+40101815,Immersion heaters
+40101803,Fireplaces
+40101827,Ceramic fiber heaters
+40101816,Kettle exchangers
+40101805,Furnaces
+40101828,Cartridge heaters
+40101817,One pass exchangers
+40101806,Heat pumps
+40,Distribution and Conditioning Systems and Equipment and Components
+40101829,Band heaters
+40101818,Process air heaters
+40101807,Solar heating units
+40101830,Heater elements
+40101819,Space heaters
+40101808,Heating stoves
+40101831,Induction heaters
+40101820,Split exchangers
+40101809,Circulation heaters
+40101832,Doors for heating equipment
+40101821,Strip heaters
+40101810,Coil duct heaters
+40101833,Boiler or heater ignitor
+40101822,Tubular heaters
+40141629,Pinch valves
+40141618,Ball check valves
+40141606,Relief valves
+40141739,Drain covers
+40141720,Plumbing connectors
+40141630,Piston check valves
+40141619,Butterfly lug pattern valves
+40141607,Ball valves
+40141740,Fuel cocks
+40141725,Plumbing hangers
+40141701,Drains
+40141631,Pump valves
+40141620,Butterfly wafer pattern valves
+40141608,Hydraulic valves
+40141741,Orifice fittings
+40141726,Hydrants
+40141632,Sentinel valves
+40141621,Diaphragm valves
+40141609,Control valves
+40141742,Atomizers
+40141727,Plumbing vents
+40141633,Slider valves
+40141622,Inline check valves
+40141610,Float valves
+40141743,Nozzle tips or caps
+40141731,Nozzles
+40141634,Swing check valves
+40141623,Knife gate valves
+40141611,Globe valves
+40141744,Drain bowls
+40141732,Plumbing spiders
+40141702,Faucets
+40141635,Turbine valves
+40141624,Lubricated plug valves
+40141612,Expansion valves
+40141745,Fusible plugs
+40141734,Hose fitting
+40141703,Shower heads
+40141636,Valve kits
+40141625,Mud or slush valves
+40141613,Gate valves
+40141602,Needle valves
+40141746,Sight glass
+40141735,Funnels
+40141704,Spigots
+40141637,Wafer check valves
+40141626,Nonlubricated plug valves
+40141615,Flap valves
+40141603,Pneumatic valves
+40141736,Grease fitting
+40141705,Spouts
+40141638,Toggle valves
+40141627,Orifice valves
+40141616,Valve parts or accessories
+40141604,Safety valves
+40141737,Diaphragms
+40141716,P traps
+40141628,Pilot valves
+40141617,Angle globe valves
+40141605,Solenoid valves
+40141738,Drain plugs
+40141719,Plumbing adapters
+40142304,Pipe inserts
+40151506,Hand pumps
+40142324,Pipe connection boxes
+40142313,Pipe plugs
+40142305,Pipe reducers
+40142325,Pipe baffles
+40142314,Pipe bushings
+40142306,Pipe saddles
+40142326,Pipe spacers
+40142315,Pipe couplings
+40142307,Pipe stubends
+40142327,Pipe swivel or rotating joints
+40142316,Pipe crosses
+40142308,Pipe wyes
+40142317,Pipe elbows
+40142309,Pipe bends
+40142318,Pipe nipples
+40142310,Pipe caps
+40151501,Air pumps
+40142319,Pipe tees
+40142311,Pipe half couplings
+40151502,Vacuum pumps
+40142320,Pipe unions
+40142301,Pipe angle face rings
+40151503,Centrifugal pumps
+40142321,Pipe reducing couplings
+40142302,Pipe branch outlets
+40151504,Circulating pumps
+40142322,Pipe repair clamps
+40142303,Pipe laterals
+40151505,Dosing pumps
+40142323,Rupture disk
+40142312,Pipe expansion joints
+40151550,Duplex pumps
+40151528,Oscillating pumps
+40151517,Sewage pumps
+40161511,Coalescing filters
+40151551,Gear pumps
+40151529,Drum pumps
+40151518,Sealless pumps
+40151507,Irrigation pumps
+40161512,Electronic filters
+40151552,Metering or injection or proportioning pumps
+40151530,Dredge pumps
+40151519,Sanitary pumps
+40151508,Mud pumps
+40151561,Triplex pumps
+40161513,Fuel filters
+40161501,Vacuum filters
+40151553,Progressive cavity pumps
+40151531,Dewatering pumps
+40151520,Sampling pumps
+40151509,Reciprocating pumps
+40151562,Worm pumps
+40161514,Gas pipeline filters
+40161502,Water filters
+40151554,Ram pumps
+40151532,Fuel pumps
+40151521,Rotary pumps
+40151510,Water pumps
+40151563,Fire pump sets
+40161515,Hydraulic filters
+40161503,Dust collectors
+40151555,Rotary cam pumps
+40151533,Hydraulic pumps
+40151522,Reverse osmosis pumps
+40151511,Well pumps
+40151564,Chemical pumps
+40161516,In line filters
+40161504,Oil filters
+40151556,Rotary lobe pumps
+40151534,Cryogenic pumps
+40151523,Positive displacement pumps
+40151512,Sump pumps
+40161505,Air filters
+40151557,Rotating piston pumps
+40151546,Axial split pumps
+40151524,Oil pumps
+40151513,Submersible pumps
+40161506,Filtering machinery
+40151558,Screw Pumps
+40151547,Deepwell pumps
+40151525,Sludge pumps
+40151514,Steam pumps
+40161507,Filter membranes
+40151559,Simplex pumps
+40151548,Diaphragm pumps
+40151526,Turbine pumps
+40151515,Solenoid pumps
+40161508,Bag filters
+40151560,Sliding vane pumps
+40151549,Double diaphragm pumps
+40151527,Plunger pumps
+40151516,Shear pumps
+40161509,Absorption filters
+40161522,Filter Fins
+40161524,Paint filters
+40161525,Housings for filters
+40161526,Filter retainers or accessories
+40161527,Filter repair kits
+40161517,Light filters
+40161518,Microfiber filters
+40161519,Panel filters
+41,Laboratory and Measuring and Observing and Testing Equipment
+40161520,Radial fin filters
+40161521,Filter Base
+42,Medical Equipment and Accessories and Supplies
+43201557,Redundant array of independent disks RAID controllers
+43201544,Interface bus converter or controller
+43201531,Video capture boards
+43191625,Pay phone coin boxes
+43191611,Phone line protectors
+43201558,Fibre channel controller
+43201545,Fax boards
+43201533,Musical instrument digital interface MIDI interfaces
+43191626,Pay phone hoppers
+43191612,Phone rests
+43191601,Mobile phone face plates
+43201559,Serial port cards
+43201546,Audio conferencing boards
+43201534,Exchange component CODEC interfaces
+43191627,Pay phone coin box vault doors
+43191614,Phone voice converters
+43191602,Phone dialers
+43201547,Voice boards
+43201535,Serial infrared ports
+43191628,Pay phone microphone windscreens
+43201501,Asynchronous transfer mode ATM telecommunications interface cards
+43191615,Vehicle handsfree phone set
+43191603,Phone extension cords
+43201549,Interface bus switches
+43201537,Print servers
+43201502,Audio accelerator cards
+43191616,Centrex phone consoles
+43191604,Phone face plates
+43201550,Network packet data synchronization device
+43201538,Central processing unit coolers
+43201503,Central processing unit CPU processors
+43191618,Conversation recording units
+43191605,Phone handset cords
+43201552,Hardware or telephony adapters
+43201539,Console controller  mainframe
+43201507,Daughterboards
+43191619,Telephone signaling devices
+43191606,Phone handsets
+43191629,Notebook or palmtop skins or face plates
+43201553,Transceivers and media converters
+43201540,Channel converter
+43201508,Dispersion compensation fiber module DCFMs
+43191621,Handset adapters
+43191607,Phone headset ear or speaker cushions
+43,Information Technology Broadcasting and Telecommunications
+43191630,Mobile phone starter kits
+43201554,Personal computer television PC TV tuners
+43201541,Channel to channel interface mainframe
+43201509,Exchange datacom modules
+43191622,Pager modules or accessories
+43191608,Phone headset voice tubes
+43191631,Phone or modem jack adapters or country kits or travel kits
+43201555,PC radio tuners
+43201542,Control unit
+43201513,Motherboards
+43191623,Pay phone coin mechanisms
+43191609,Phone headsets
+43201556,Small computer system interconnect SCSI adapters
+43201543,Coupler facility  mainframe
+43201522,Parallel port cards
+43191624,Pay phone coin chutes
+43191610,"Personal communication holders or mounts, stands"
+43221521,Telecommunications remote access unit
+43221508,Telephone busy lamp fields
+43221522,Teleconference equipment
+43221509,Telephone call accounting systems
+43221523,Music or message on hold player
+43221510,Telephone call diverter or forwarder
+43221502,Automatic call distributor ACD
+43221524,Music on hold adapter
+43221513,Telephone call sequencers
+43221525,Intercom systems
+43221514,Telephone dial backup units
+43221526,Telephone entry systems
+43221515,Telephone line sharing devices
+43221516,Telephone line status monitors
+43221503,Telecom announcers
+43221517,Telephony equipment service observing units
+43221504,Premise branch exchange PBX systems
+43221518,Telephony equipment toll restrictors
+43221505,Standalone telephone caller identification
+43221519,Voice mail systems
+43221506,Teleconferencing console
+43221520,Interactive voice recognition equipment
+43221507,Autodialers
+43222626,Cable modems
+43222610,Network service concentrators or hubs
+43222627,Integrated services digital network ISDN access devices
+43222611,Network channel or data service units
+43222628,Modems
+43222612,Network switches
+43222629,Modem banks
+43222615,Storage area network SAN switch
+43222630,Multistation access units
+43222619,Video networking equipment
+43222602,Cable head end equipment
+43222631,Wireless fidelity base stations Wifi
+43222620,Multiservice switch
+43222604,Content delivery networking equipment
+43222632,Broadband aggregators
+43222621,Content switch
+43222605,Network gateway
+43222633,Remote management adapters
+43222622,Server load balancer
+43222606,Internet service node startup kits
+43222634,Network management or monitoring device
+43222623,Digital cross connects DCX equipment
+43222607,Cache engine equipment
+43222624,Optical cross connects equipment
+43222608,Network repeaters
+43222625,Access servers
+43222609,Network routers
+44101711,Compressor assembly
+44101712,Mailbox stackers
+44101701,Color options or upgrades
+44101713,Copy counters
+44101702,Duplexer trays
+44101714,Facsimile units for office machines
+44101703,Duplexer units
+44101715,Platen covers
+44101704,Facsimile handsets
+44101716,Hole punching units
+44101705,Office machine trays or feeders
+44101718,Infrared adapters
+44101706,Photoconductor or imaging units
+44,Office Equipment and Accessories and Supplies
+44101719,Copy or scan accessories
+44101707,Stapler units
+44101720,Language fonts
+44101708,Ozone filters
+44101721,Media spindles
+44101709,Mirror assemblies
+44101710,Magnetic pickup assemblies
+44101723,Multi bin mailboxes
+44101724,Multi function upgrades
+44101725,Printer cabinets
+44101726,Printer emulation upgrades
+44101727,Printer stands
+44101728,Roll feeds
+44101729,Output stackers
+44101722,Multi bin mailbox power upgrades
+44122024,Binder handles
+44122013,Report covers
+44121627,Bookmarks
+44121615,Staplers
+44122025,Binder pockets or accessories
+44122014,Sheet lifters
+44121628,Clip holders or dispensers
+44121617,Manual letter openers
+44122026,Paper claws
+44122015,File backers
+44122001,Index card files
+44121630,Stapler kit
+44121618,Scissors
+44122027,Expandable file folders
+44122016,Document holder
+44122002,Sheet protectors
+44121631,Glue dispensers or refills
+44121619,Manual pencil sharpener
+44122028,Binder mounting channels
+44122017,Hanging folders or accessories
+44122003,Binders
+44121632,Scissor sharpener
+44121620,Finger stalls
+44122018,File inserts or tabs
+44122005,Magazine or book covers
+44121633,Postage stamp dispensers
+44121621,Desk pads or its accessories
+44121604,Stamps
+44122019,File pockets or accessories
+44122008,Tab indexes
+44121634,Adhesive rollers
+44121622,Moisteners
+44121605,Tape dispensers
+44122020,Card pockets
+44122009,Rotary or business card files
+44121635,Adhesive tape spindles
+44121623,Mechanical letter opener
+44121611,Paper or eyelet punches
+44122021,Postage stamp albums
+44122010,Dividers
+44121624,Embossing tools
+44121612,Paper cutters or refills
+44122022,Folder binding accessories
+44122011,Folders
+44121625,Paper weights
+44121613,Staple removers
+44122023,Archboards
+44122012,Clipboards
+44121626,Adhesive remover
+44121614,Call bells
+45,Printing and Photographic and Audio and Visual Equipment and Supplies
+46,Defense and Law Enforcement and Security and Safety Equipment and Supplies
+47,Cleaning Equipment and Supplies
+48,Service Industry Machinery and Equipment and Supplies
+49,Sports and Recreational Equipment and Supplies and Accessories
+50,Food Beverage and Tobacco Products
+50202422,Minneola concentrate
+50202411,Satsuma juice
+50202423,Orange concentrate
+50202412,Tangelo juice
+50202401,Clementine juice
+50202424,Pummelo concentrate
+50202413,Tangerine juice
+50202402,Grape juice
+50202425,Satsuma concentrate
+50202414,Temple juice
+50202403,Kumquat juice
+50202426,Tangelo concentrate
+50202415,Ugli juice
+50202404,Lemon juice
+50202427,Tangerine concentrate
+50202416,Clementine concentrate
+50202405,Key lime
+50202428,Temple concentrate
+50202417,Grape concentrate
+50202406,Lime juice
+50202418,Kumquat concentrate
+50202407,Mandarin juice
+50202419,Lemon concentrate
+50202408,Minneola tangelo juice
+50202420,Lime concentrate
+50202409,Orange juice
+50202421,Mandarin concentrate
+50202410,Pummelo juice
+51,Drugs and Pharmaceutical Products
+50202429,Ugli concentrate
+52,Domestic Appliances and Supplies and Consumer Electronic Products
+53,Apparel and Luggage and Personal Care Products
+54,Timepieces and Jewelry and Gemstone Products
+55,Published Products
+56101503,Coat racks
+55121732,Size dividers
+55121717,Marker plates
+55121704,Safety signs
+56101504,Chairs
+55121718,Informational signs
+55121705,Self adhesive signs
+56101505,Entertainment centers
+55121719,Signalling components
+55121706,Banners
+56101506,Futons
+55121720,Emblems
+55121707,Magnetic signs
+55121721,Signage characters
+55121708,Neon signs
+55121725,Signage kits
+55121710,Traffic signs
+56,Furniture and Furnishings
+55121726,Identification panels
+55121712,Directional signs
+55121728,Signage covers
+55121713,Point of purchase signs
+55121729,Tokens
+55121714,Pennants
+55121701,Metallic nameplates
+56101501,Stands
+55121730,Casualty signs
+55121715,Flags or accessories
+55121702,Non metallic nameplates
+56101502,Sofas
+55121731,Identification markers
+55121716,Wooden signs
+55121703,Illuminated signs
+56101540,Apparel costumers
+56101528,Artificial plants
+56101516,Chests
+56101541,Mattress ventilators
+56101529,Magazine racks
+56101518,Wall racks
+56101542,Folding chairs
+56101530,Storage cabinets
+56101519,Tables
+56101531,Shoe racks
+56101520,Lockers
+56101532,Furniture set
+56101521,Bed headboard or footboard
+56101507,Bookcases
+56101533,Armrests
+56101522,Arm chair
+56101508,Mattresses or sleep sets
+56101535,Furniture carts
+56101523,Umbrella holders or stands
+56101509,Dressers or armoires
+56101536,Instrument tripods
+56101524,Ironing boards
+56101510,Partitions
+56101537,Dressing tables
+56101525,Ironing board covers
+56101513,Cots or accessories
+56101538,Dining servers or buffets
+56101526,Fridge bar
+56101514,Foot stools
+56101539,Bedframes or parts or accessories
+56101527,Household type linen driers
+56101515,Beds
+60,Musical Instruments and Games and Toys and Arts and Crafts and Educational Equipment and Materials and Accessories and Supplies
+70,Farming and Fishing and Forestry and Wildlife Contracting Services
+71,Mining and oil and gas services
+72,Building and Construction and Maintenance Services
+73,Industrial Production and Manufacturing Services
+77,Environmental Services
+76,Industrial Cleaning Services
+78,Transportation and Storage and Mail Services
+80,Management and Business Professionals and Administrative Services
+81,Engineering and Research and Technology Based Services
+82,Editorial and Design and Graphic and Fine Art Services
+83,Public Utilities and Public Sector Related Services
+84,Financial and Insurance Services
+85,Healthcare Services
+86,Education and Training Services
+90,Travel and Food and Lodging and Entertainment Services
+91,Personal and Domestic Services
+92,National Defense and Public Order and Security and Safety Services
+93,Politics and Civic Affairs Services
+94,Organizations and Clubs
+12141910,Selenium Se
+12141911,Silicon Si
+12141912,Sulfur S
+12141901,Chlorine  Cl
+12141913,Tellurium Te
+12141902,Hydrogen H
+12141914,Astatine At
+12141903,Nitrogen N
+12141915,Bromine Br
+12141904,Oxygen O
+12141916,Iodine I
+12141905,Fluorine F
+12141906,Arsenic As
+12141907,Boron B
+12141908,Carbon C
+12141909,Phosphorus P
+14111801,Tickets or ticket rolls
+14111614,Album papers or tissues
+14111802,Receipts or receipt books
+14111615,Poster papers
+14111601,Gift wrapping paper or bags or boxes
+14111803,Vouchers
+14111616,Lining papers
+14111604,Business cards
+14111804,Bills or bill books
+14111605,Greeting or note or post cards
+14111805,Checks or check books
+14111606,Art or craft paper
+14111806,Business forms or questionnaires
+14111607,Poster boards
+14111608,Gift certificate
+14111609,Cover paper
+14111610,Construction paper
+14111611,Invitation or announcement cards
+14111613,Banner paper
+14111812,Inventory forms or inventory books
+14111813,Correspondence forms or correspondence books
+14111814,Tax forms or tax books
+14111815,Tent cards
+14111816,Applicant fingerprint cards
+14111817,Deposit verification form
+14111818,Thermal paper
+14111807,Multipurpose business book
+14111808,Accounting forms or accounting books
+14111809,Bill of lading forms or bill of lading books
+14111810,Personnel forms or personnel books
+14111811,Sales forms or sales books
+2310,Raw materials processing machinery
+2313,Lapidary machinery and equipment
+2312,Textile and fabric machinery and accessories
+2314,Leatherworking repairing machinery and equipment
+2315,Industrial process machinery and equipment and supplies
+2311,Petroleum processing machinery
+2318,Industrial food and beverage equipment
+2316,Foundry  machines and equipment and supplies
+2323,Sawmilling and lumber processing machinery and equipment
+2322,Chicken processing machinery and equipment
+2319,Mixers and their parts and accessories
+2320,Mass transfer equipment
+2321,Electronic manufacturing machinery and equipment and accessories
+2327,Welding and soldering and brazing machinery and accessories and supplies
+24111806,Dip tanks
+24111807,Expansion tanks
+24111808,Fuel storage tanks
+24111809,Processing tanks
+24111810,Water storage tanks
+24111811,Carboys
+24111812,Containment basin
+24111801,Reservoirs
+24111813,Rinse tanks
+24111802,Air or gas tanks or cylinders
+24111803,Storage tanks
+24111804,Calibrating tanks
+24111805,Chemical tanks
+24141513,Blister packs
+24141514,Packaging films
+24141501,Stretch wrap films
+24141515,Protective netting
+24141502,Shrink wrap films
+24141504,Tamper proof or security seals
+24141506,Tarpaulins
+24141507,Anti static packaging films
+24141508,Carton corner support
+24141509,Rubber cord
+24141510,Cable protectors
+24141511,Load binders
+24141512,Packing absorbents
+26131608,Flare or vent stacks
+26131609,Exhaust inlet stacks
+26131601,Traveling water screens
+26131610,Bypass stacks
+26131602,Stop logs
+26131611,Silencer sections
+26131603,Water trash racks
+26131612,Exhaust outlet ducts
+26131613,Exhaust duct expansion joints
+26131614,Stack closure dampers
+26131615,Exhaust diversion dampers
+26131604,Fixed screens
+26131616,Exhaust isolation dampers
+26131605,Intake structures
+26131606,Steel exhaust stack
+26131607,Concrete exhaust stacks
+31201612,Thread sealants
+31201601,Chemical adhesives
+31201613,Re usable adhesive
+31201602,Pastes
+31201614,Sealing waxes
+31201603,Gums
+31201615,Adhesive activators
+31201604,Rubber cements
+31201616,Liquid adhesives
+31201605,Putties
+31201617,Solvent cements
+31201606,Caulks
+31201607,Epoxy bond
+31201608,Foam adhesives
+31201609,Hot melt adhesives
+31201610,Glues
+31201611,Film adhesives
+40141921,Precious metal ducts or ductwork
+40141910,Zinc ducts or ductwork
+40141922,Copper ducts or ductwork
+40141911,Steel ducts or ductwork
+40141912,Iron ducts or ductwork
+40141901,Flexible ducts
+40141913,Cement ducts or ductwork
+40141902,Rigid ducts
+40141914,Plastics duct or ductwork
+40141903,Magnesium ducts or ductwork
+40141915,Rubber duct or ductwork
+40141904,Ferrous alloy ducts or ductwork
+40141916,Glass ducts or ductwork
+40141905,Titanium ducts or ductwork
+40141917,Stone ducts or ductwork
+40141906,Tin ducts or ductwork
+40141918,Non ferrous alloy ducts or ductwork
+40141907,Brass ducts or ductwork
+40141919,Aluminum ducts or ductwork
+40141908,Lead ducts or ductwork
+40141920,Stainless steel ducts or ductwork
+40141909,Bronze ducts or ductwork
+40142120,Zinc pipe
+40142109,Concrete pipe
+40142407,Plate flanges
+40142121,Hose reels
+40142110,Copper pipe
+40142408,Slipon flanges
+40142122,Glass pipe
+40142111,Cast iron pipe
+40142409,Socketweld flanges
+40142112,Lead pipe
+40142101,Carbon steel pipe
+40142410,Spectacle blind flanges
+40142113,Magnesium pipe
+40142102,Ductile iron pipe
+40142411,Threaded flanges
+40142114,Non ferrous pipe
+40142103,High nickel alloy pipe
+40142412,Weldneck flanges
+40142401,Ammonia flanges
+40142115,Plastic pipe
+40142104,High yield steel pipe
+40142413,Puddle flanges
+40142402,Backup flanges
+40142116,Rubber pipe
+40142105,Ferrous alloy pipe
+40142414,Reducing flanges
+40142403,Blind flanges
+40142117,Stainless steel pipe
+40142106,Aluminum pipe
+40142404,Lapjoint flanges
+40142118,Tin pipe
+40142107,Brass pipe
+40142405,Long weldneck flanges
+40142119,Titanium pipe
+40142108,Bronze pipe
+40142406,Orifice flanges
+40151728,Pump repair kits
+40151717,Pump discs
+40151613,Combination compressors
+40151602,Axial flow compressors
+40151718,Sludge pump spare parts
+40151614,Semi radial compressors
+40151603,Diaphragm compressors
+40151719,Sewage pump spare parts
+40151615,Turbo compressors
+40151604,Gas compressors
+40151720,Submersible pump spare parts
+40151616,Compressor kits
+40151605,Motor compressors
+40151721,Water pump spare parts
+40151606,Reciprocating compressors
+40151722,Well pump spare parts
+40151701,Pump casings
+40151607,Refrigerant compressors
+40151723,Sump pump spare parts
+40151712,Pump packings
+40151608,Rotary compressors
+40151724,Dosing pump spare parts
+40151713,Pump liners
+40151609,Screw compressors
+40151725,Centrifugal pump spare parts
+40151714,Pump barrels
+40151610,Compressor parts or accessories
+40151726,Circulation pump spare parts
+40151715,Pump idlers
+40151611,Barrel compressors
+40151727,Rotary pump spare parts
+40151716,Pump head
+40151612,Centrifugal compressors
+40151601,Air compressors
+4212,Veterinary equipment and supplies
+4214,Patient care and treatment products and supplies
+4213,Medical apparel and textiles
+4215,Dental equipment and supplies
+4216,Dialysis equipment and supplies
+4217,Emergency and field medical services products
+4218,Patient exam and monitoring products
+4219,Medical facility products
+4220,Medical diagnostic imaging and nuclear medicine products
+4221,Independent living aids for the physically challenged
+4222,Intravenous and arterial administration products
+4223,Clinical nutrition
+4224,Orthopedic and prosthetic and sports medicine products
+4225,Physical and occupational therapy and rehabilitation products
+4226,Postmortem and mortuary equipment and supplies
+4227,Respiratory and anesthesia and resuscitation products
+4229,Surgical products
+4228,Medical sterilization products
+4231,Wound care products
+4230,Medical training and education supplies
+43201601,Computer chassis
+43201602,Network equipment chassis
+43201603,Chassis stacking components
+43201604,Electronic equipment bays or baskets
+43201605,Expanders
+43201608,Removable drive frames
+43201609,Storage device trays or assemblies
+43211710,Radio frequency identification devices
+43211612,Computer accessory kits
+43211601,Computer switch boxes
+43202209,Head stack assemblies
+43201806,Tape arrays
+43201611,Computer cradles
+43211711,Scanners
+43211613,Computer or notebook stands
+43211602,Docking stations
+43202210,Crash stops
+43201807,Tape drives
+43201612,Computer faceplates
+43211712,Graphics tablets
+43211603,Port replicators
+43202211,Platters or disks
+43201808,Read only compact disc CD
+43201614,Console extenders
+43211713,Touch pads
+43211701,Bar code reader equipment
+43211604,Peripheral switch boxes
+43202212,Read write head assemblies
+43201809,Read write compact disc CD
+43201615,Drive bay cover kits
+43211714,Biometric identification equipment
+43211702,Magnetic stripe readers and encoders
+43211605,Signal processor upgrades
+43202213,Disc motor drives
+43202201,Telephone piece parts
+43201810,Read only digital versatile disc DVD
+43201616,Hard disk drive array towers
+43211704,Currency recognition equipment
+43211606,Multimedia kits
+43202214,Comb assemblies
+43202202,Telephone ring generators
+43201811,Read write digital versatile disc DVD
+43201617,Card cages
+43211705,Game pads or joy sticks
+43211607,Computer speakers
+43202204,External ringer or its parts
+43201812,Magneto optical MO drives
+43211706,Keyboards
+43211608,Encoder decoder equipment
+43202205,Keycaps or keytops or keys
+43201813,High capacity removable media drives
+43211707,Light stylus
+43211609,Universal serial bus hubs or connectors
+43202206,Storage drive or input device components
+43201814,Electronic media or data duplicating equipment
+43201801,Floppy drives
+43211708,Computer mouse or trackballs
+43211610,Computer country or localization kits
+43202207,Head mount arms and assembly
+43201815,Peripheral component microchannel interconnect architecture  reader and writer drives
+43201802,Hard disk arrays
+43211709,Pressure stylus
+43211611,Handheld PDA Starter Kits
+43202208,Lead assemblies
+43201816,Ultra density optical UDO drives or autoloaders or libraries
+43201803,Hard disk drives
+43201610,Backplane or panels or assemblies
+43212104,Inkjet printers
+43221721,Radio frequency data communication equipment
+43221710,Satellite core equipment
+43212105,Laser printers
+43221711,Satellite access equipment
+43221501,Automated attendant systems
+43212106,Line matrix printers
+43221712,Satellite antennas
+43221701,Television core equipment
+43212107,Plotter printers
+43221713,Shortwave core equipment
+43221702,Television access equipment
+43212108,Thermal tape printers
+43221714,Shortwave access equipment
+43221703,Television antennas
+43212109,Bag tag printer
+43211715,Portable data input terminals
+43221715,Shortwave antennas
+43221704,Radio core equipment
+43212110,Multi function printers
+43211717,Optical character recognition systems
+43221716,Pager core equipment
+43221705,Radio access equipment
+43212111,Airline ticket or boarding pass ATB printers
+43211718,Camera based vision systems for automated data collection
+43221717,Pager access equipment
+43221706,Radio antennas
+43212112,Point of sale POS receipt printers
+43212101,Band printers
+43211719,Voice microphones for computers
+43221718,Radar antennas
+43221707,Microwave core equipment
+43212113,Compact disc CD or labeling printers
+43212102,Dot matrix printers
+43211720,Point of sale payment terminal
+43221719,Aircraft antennas
+43221708,Microwave access equipment
+43212114,Digital image printers
+43212103,Dye sublimination printers
+43211721,Punch card readers
+43221720,Automotive antennas
+43221709,Microwave antennas
+43223113,GSM UMT LAN antenna
+43223102,2G GSM wireless access network equipment and components
+43222822,Time division multiplexer TDM
+43222806,Punch down blocks
+43223103,"2,5G GPRS mobile core network equipment and components"
+43222823,Wave division mulitplexer WDM
+43222811,Telephony equipment alarm units
+43223104,"2,5G GPRS wireless access network equipment and components"
+43222824,Aerial cable rollers
+43222813,Telephone switchboard part kits
+43223105,3G UMTS mobile core network equipment and components
+43222825,Telephone modification kits
+43222814,Telecommunication equipment installation or modification kits
+43223106,3G UMTS wireless access network equipment and components
+43222815,Telecommunication terminal units
+43222801,Broadband or narrowband digital cross connect DCX equipment
+43223107,WLAN mobile core network equipment and components
+43222816,Telephony keyers
+43222802,Circuit switchboard equipment
+43223108,WLAN wireless access network equipment and components
+43222817,Telecommunication repeaters
+43222803,Digital loop carrier DLCs
+43223109,IN SSP switching equipment
+43222818,Telephone distributing terminal frames
+43222805,Private branch exchange PBX equipment
+43223110,IN mobile core equipment
+43222819,Port connection panels
+43223111,OSS mobile core network equipment and components
+43222820,Voice echo cancellers
+43223112,OSS wireless access network equipment and components
+43223101,2G GSM mobile core network equipment and components
+43222821,Patch panel
+432320,Computer game or entertainment software
+432328,Network management software
+432315,Business function specific software
+432323,Data management and query software
+432316,Finance accounting and enterprise resource planning ERP software
+432326,Industry specific software
+432321,Content authoring and editing software
+432322,Content management software
+432327,Network applications software
+432325,Educational or reference software
+432324,Development software
+43233421,Video drivers
+43233413,Voice recognition software
+43232915,Platform interconnectivity software
+441017,Printer and photocopier and facsimile accessories
+43232904,Fax software
+432335,Information exchange software
+43233414,Storage media loading software
+432334,Utility and device driver software
+43232916,Infrared data transfer irda software
+43232905,LAN software
+43233415,Backup or archival software
+43233401,Compact disc CD server software
+432330,Operating environment software
+43232906,Multiplexer software
+43233416,Codec stacks
+43233402,Data conversion software
+43232907,Storage networking software
+43233417,Handwriting recognition software components
+43233403,Data compression software
+43232908,Switch or router software
+441016,Paper processing machines and accessories
+43233418,Memory drivers
+43233404,Compact disc CD or DVD or sound card software
+43232909,WAN switching software and firmware
+43233405,Device drivers or system software
+43232910,Wireless software
+43233406,Ethernet driver software
+432332,Security and protection software
+43232911,Network connectivity terminal emulation software
+432329,Networking software
+43233407,Graphics card driver software
+43232912,Gateway software
+43232901,Access software
+441015,Duplicating machines
+43233419,Multimedia stacks
+43233410,Printer driver software
+43232913,Bridge software
+43232902,Communications server software
+43233420,Text to speech conversion software
+43233411,Screen saver software
+43232914,Modem software
+43232903,Contact center software
+44103105,Ink cartridges
+44102913,Compact disc destroyer
+44102902,Storage accessories for office machines
+441021,Mail machines
+44103106,Ink sticks
+441030,Fusers and accessories
+44102903,Tape cleaners
+441024,Labeling machines
+44103107,Printer or facsimile or photocopier cleaning supplies
+44102904,Air compressed spray
+441023,Packing machines
+44103108,Developer for printers or photocopiers
+44102905,Small paper bags of wet absorbing salts
+441019,Check endorsing and writing machines
+44103109,Printer or facsimile or photocopier drums
+44102906,Computer or office equipment cleaning kit
+441025,Sorting machines
+44102907,Equipment dust covers
+44102908,Compact disc cleaners or scratch removers
+441020,Laminating supplies
+441031,Printer and facsimile and photocopier supplies
+44102909,Compact disc drive cleaner
+441028,Binding and lamination machines
+441018,Calculating machines and accessories
+44103101,Printer or facsimile or photocopier belts
+44102910,Laminator trays
+441026,Typing machines and accessories
+44103103,Toner
+44102911,Cleaning wipes for office machines
+441029,Office machine accessories
+441022,Scanner accessories
+44103104,Transfer rolls
+44102912,Cleaning solutions for office equipment
+44102901,Travel kits for office machines
+44103117,Facsimile ribbons
+44111812,Drafting kits or sets
+44111510,Hanging organizers or accessories
+44111606,Cash box trays
+44111519,Collating racks
+44103118,Transparency film
+44111813,Drafting dots or tapes
+44111801,Stencils or lettering aids
+44111511,Display systems or its accessories
+44111607,Check files
+44111520,Surface protectors or pads
+44103119,Heat transfer paper for copiers
+44111814,Work surface protection covers
+44111802,Drafting films
+44111512,Literature rack
+44111608,Coin banks
+44111521,Copy holders
+441035,Binding machine supplies
+44103120,Toner collectors
+44111815,Drafting table covers
+44111803,Compasses
+44111513,Supports for diaries or calendars
+44111609,Counterfeit bill detectors or supplies
+44103121,Printer or facsimile or photocopier roller guides
+44111804,Drafting papers
+44111514,Stamp racks or organizers
+44111610,Coin trays
+44103122,Print bands
+44103110,Print heads
+44111805,Curves
+44111515,File storage boxes or organizers
+44111611,Money clips
+44111501,Message holders or dispensers
+44103123,Plotter pens
+44103111,Ink rolls
+44111806,Protractors
+44111612,Coin bag seal
+44111502,Desk drawer organizers
+44103124,Thermal ribbon
+44103112,Printer ribbon
+44111807,Scales
+44111613,Credit card holders
+44111503,Desktop trays or organizers
+44111601,Currency bags or wallets
+441032,Office time recording machines and accessories
+44103113,Phasers or inkjet kits
+44111808,T squares
+44111614,Bill strap racks
+44111506,Paper or pad holder or dispensers
+44111603,Coin sorters
+44111516,Personal organizers
+44103114,Laserjet coating kits
+44111809,Templates
+44111615,Deposit bags
+44111507,Book ends
+44111604,Coin wrappers or bill straps
+441036,Cassette disposal equipment and accessories
+44111517,Study stands
+44103116,Kit for printer
+44111810,Triangles
+44111616,Check separators
+44111509,Pen or pencil holders
+44111605,Cash or ticket boxes
+44111518,Business card holders
+44121710,Writing chalk or accessories
+44121711,Felt pen
+44121712,Marker refills
+44121713,Pen nibs
+44121702,Pen or pencil sets
+44121714,Pencil or pen grips
+44121703,Fountain pens
+44121715,Combination pen or pencil
+44121704,Ball point pens
+44121716,Highlighters
+44121705,Mechanical pencils
+44122101,Rubber bands
+44121717,Combination pen and highlighter
+44121706,Wooden pencils
+44121718,Secured pen sets
+44121707,Colored pencils
+44121708,Markers
+44121709,Crayons
+44121701,Rollerball pens
+44122119,Self adhesive fasteners
+44122107,Staples
+44122120,Binder posts
+44122109,Velcro fasteners
+44122121,Wall or board clips
+44122110,Adhesive mounts
+44122111,Hole reinforcements
+44122112,Round head fasteners
+44122113,Tag fasteners
+44122114,Screw posts
+44122115,Adhesive corners
+44122103,Clasp fasteners
+44122116,Bag clips
+44122104,Paper clips
+44122117,Book rings
+44122105,Binder or bulldog clips
+44122118,Prong fasteners
+44122106,Pins or tacks
+501027,Frozen berry fruits
+50101811,Satsuma fruit
+501021,Fresh drupe or stone fruits
+501018,Fresh citrus fruits
+50101812,Tangelo fruit
+50101801,Clementine fruit
+501025,Fresh fruit byproducts
+501023,Fresh tropical fruits
+50101813,Tangerine fruit
+50101802,Grapefruit fruit
+50101803,Kumquat fruit
+50101804,Lemon fruit
+501016,Fruits
+501028,Frozen drupe fruits
+50101805,Key lime
+50101814,Temple fruit
+501026,Frozen citrus fruits
+50101806,Lime fruit
+501015,Vegetables
+50101815,Ugli fruit
+501022,Fresh subtropical fruits
+50101807,Mandarin fruit
+501019,Fresh berry fruits
+50101808,Minneola tangelo fruit
+501020,Fresh pome fruits
+501017,Nuts and seeds
+501024,Fresh melon fruits
+50101809,Orange fruit
+50101810,Pummelo fruit
+501029,Frozen pome fruits
+501030,Frozen tropical fruits
+501921,Snack foods
+50193704,Preserved lemon fruit
+501936,Processed drupe or stone fruits
+50193314,Processed ugli fruit
+50193303,Processed kumquat fruit
+501934,Processed berry fruits
+50193304,Processed lemon fruit
+501927,Packaged combination meals
+50193305,Processed lime fruit
+50193306,Processed mandarin fruit
+501925,Sandwiches and filled rolls
+501929,Plain pasta and noodles
+50193307,Processed minneola fruit
+501932,Prepared salads
+501923,Desserts and dessert toppings
+50193308,Processed orange fruit
+50193309,Processed pummelo fruit
+501930,Infant foods and beverages
+501915,Prepared soups and stews
+501937,Preserved citrus fruits
+50193310,Processed satsuma fruit
+501928,Savory pies and quiches and pasties
+50193701,Preserved clementine fruit
+501935,Processed pome fruits
+50193311,Processed tangelo fruit
+501933,Processed citrus fruits
+501926,Prepared side dishes
+50193702,Preserved grapefruit fruit
+50193312,Processed tangerine fruit
+50193301,Processed clementine fruit
+501931,Instant mixes and supplies
+501924,Jams and jellies and nut and sweet spreads and fruit conserves
+50193703,Preserved kumquat fruit
+50193313,Processed temple fruit
+50193302,Processed grapefruit fruit
+501938,Preserved  berry fruits
+50193705,Preserved lime fruit
+501945,Tropical fruit purees
+50193706,Preserved mandarin fruit
+50193707,Preserved minneola fruit
+50193708,Preserved orange fruit
+501947,Melon purees
+50193709,Preserved pummelo fruit
+501941,Citrus fruit puree
+50193710,Preserved satsuma fruit
+501939,Preserved  pome fruits
+50193711,Preserved tangelo fruit
+50193712,Preserved tangerine fruit
+50193713,Preserved temple fruit
+501942,Berry fruit puree
+501940,Preserved  drupe or stone fruits
+50193714,Preserved ugli fruit
+50202503,Cranberry concentrate
+50202504,Grape concentrate
+50202505,Raspberry concentrate
+50202506,Strawberry concentrate
+50202507,Boysenberry juice
+50202508,Blackcurrant juice
+50202509,Blackberry juice
+5110,Anti infective drugs
+50202510,Blueberry juice
+50202511,Raspberry juice
+50202512,Strawberry juice
+50202501,Blackberry concentrate
+50202513,Grape juice
+50202502,Blueberry concentrate
+5111,Antineoplastic agents
+5112,Cardiovascular drugs
+5113,Hematolic drugs
+5114,Central nervous system drugs
+5115,Autonomic nervous system drugs
+5116,Drugs affecting the respiratory tract
+5117,Drugs affecting the gastrointestinal system
+5118,Hormones and hormone antagonists
+5120,Immunomodulating drugs
+5119,Agents affecting water and electrolytes
+5121,Miscellaneous drug categories
+5124,"Drugs affecting the ears, eye, nose and skin"
+5125,Veterinary nutritional supplement
+55121617,Label protectors
+55121609,Packaging labels
+55121618,Label holders
+55121610,Consecutively numbered labels
+55121619,Non adhesive labels
+55121611,Label making tapes
+55121620,Multipurpose labels
+55121612,Printer labels
+55121621,Notary seals
+55121613,Color coding labels
+55121601,Label removing kits
+55121614,Removable labels
+55121602,Clothing labels
+55121615,Adhesive dots or arrows
+55121604,Canning or bottling labels
+55121616,Self adhesive flags
+55121605,Addressing or mailing labels
+55121606,Self adhesive labels
+55121607,Decals
+55121608,Bar code labels
+56111509,Modular technical office packages
+56101708,Mobile files
+56111510,Casegood or non modular clerical office packages
+56101710,Projector stands or carts
+56101701,Credenzas
+56111511,Modular clerical office packages
+56101711,Modular furniture connectors
+56111512,Casegood or non modular reception office packages
+56111501,Modular reception office packages
+56101712,Pedestals
+56111513,Conference or non modular room packages
+56111502,Casegood or non modular executive office packages
+56101713,Desk returns
+56111514,Modular counter office packages
+56111503,Modular executive office packages
+56101714,Data binder racks
+56101702,Filing cabinets or accesories
+56111504,Casegood or non modular managerial office packages
+56101715,Mail sorters or organizers
+56101703,Desks
+56111505,Modular managerial office packages
+56101716,Desktop organizer hutches
+56101704,Table base
+56111506,Casegood or non modular staff office packages
+56101717,Table risers
+56101705,Showcases
+56111507,Modular staff office packages
+56101706,Conferencing tables
+56111508,Casegood or non modular technical office packages
+56101707,Drafting tables
+56121006,Upholstered benches
+56121007,Public access tables
+56121008,Book browser units
+56121009,Sloped reading tables
+56121010,Book kiosks
+56121011,Library compact disc or audio cassette displayers
+56121012,Rotary island stands
+56121001,Book carts or book trucks
+56121014,Hang up bag racks or bags
+56121002,Circulation or librarian desks or components
+56121003,Book returns
+56121004,Card catalog units
+56121005,Dictionary stands
+721020,Coating and caulking and weather and water and fireproofing
+721015,Building support services
+721024,Painting and paper hanging
+721022,Electrical services
+721018,Exterior cleaning
+721023,Plumbing and heating and air conditioning
+721017,Concrete work
+721025,Masonry and stonework and tile setting
+721021,Pest control
+721016,Roofing and siding and sheet metal work
+721019,Interior finishing
+73101612,Soap or cleaning preparations or perfumes or cosmetics production services
+73101601,Inorganic chemicals production services
+73101613,Solvents or glycols or detergents production services
+73101602,Soda ash or chlorine or caustic soda production services
+73101614,Ferments or enzymes services
+73101603,Inorganic acids production services
+721030,Site preparation services
+73101604,Organic chemical production services
+721028,Refurbishing services
+73101605,Acetylene or derivatives production services
+73101606,Ethylene or derivatives production services
+73101607,Ethanol or methanol or derivatives production services
+73101608,Fertilizers production services
+721029,Grounds maintenance services
+721026,Carpentry
+73101609,Potash mining or processing services
+73101610,Pesticide production services
+73101611,Paints or varnishes or lacquers production services
+721027,Flooring service
+73141710,Leather footwear manufacturing services
+73141711,Leather luggage or handbags manufacturing services
+73141712,Leather tanning or finishing manufacturing services
+73141701,Broad woven fabrics manufacturing services
+73141713,Nonwoven fabric services
+73141702,Narrow woven fabrics manufacturing services
+73141714,Braided yarn or fabric services
+73141703,Knitwear manufacturing services
+73141715,Industrial sewing services
+73141704,Carpet or rug manufacturing services
+73141705,Cordage or rope or twine manufacturing services
+73141706,Dyeing or printing or finishing services
+73141707,Woven suits or coats or overcoats manufacturing services
+73141708,Woven outerwear clothing manufacturing services
+73141709,Fur dressing or dyeing services
+73161509,Metallurgical machinery or equipment manufacture services
+73181023,Sharpening service
+73181012,Grinding services
+73181001,Turning services
+73161510,Chemical or pharmaceutical machinery or equipment manufacture services
+73181013,Shot blasting services
+73181002,Electro discharge machining EDM services
+73161511,Cement plant machinery or equipment manufacture services
+73181014,Polishing services
+73181003,Electro chemical machining ECM services
+73161512,Textile machinery or equipment manufacture services
+73161501,Engine or turbine manufacturing services
+73181015,Flame cutting services
+73181004,Chem milling services
+73161513,Power plant boilers manufacture services
+73161502,Agricultural machinery or equipment manufacturing services
+73181016,Laser cutting services
+73181005,Punching services
+73161514,Furnaces or ovens manufacture services
+73161503,Machine tools or metal or wood working manufacturing services
+73181017,Plasma cutting services
+73181006,Stamping services
+73161515,Office machinery or equipment manufacture services
+73161504,Special industrial plants or machinery manufacturing services
+73181018,Water jet cutting services
+73181007,Boring services
+73161516,Lifting or hoisting or conveying equipment manufacture services
+73161505,Construction machinery or equipment manufacturing services
+73181019,Rolling Services
+73181008,Drilling services
+73161517,Air conditioning or ventilating or refrigeration equipment manufacture services
+73161506,Mining machinery or equipment manufacturing services
+73181020,Surface treatment Services
+73181009,Tapping services
+73161518,Domestic appliances or machines except electrical manufacture services
+73161507,Food products machinery or equipment manufacturing services
+73181021,Milling services
+73181010,Laser services
+73161519,Pumps or compressors manufacture services
+73161508,Paper printing machinery or equipment manufacture services
+73181022,Spraying services
+73181011,Bending services
+80111619,Temporary creative services
+80111714,Permanent drivers
+80111611,Temporary warehouse staff
+80111703,Resume or curriculum vitae screening services
+80111620,Temporary human resources services
+80111715,Permanent professional staff
+80111612,Temporary drivers
+80111704,Permanent marketing staff needs
+80111601,Temporary clerical or administrative assistance
+80111621,Temporary research and development services
+80111716,Permanent information technology staffing needs
+80111613,Temporary manual labor
+80111705,Permanent machinist personnel
+80111602,Temporary marketing staff needs
+80111622,Temporary safety health environmental services
+80111614,Temporary engineering services
+80111706,Permanent clerical or administrative assistance
+80111603,Temporary production staffing needs
+80111623,Temporary sourcing and logistics services
+80111615,Temporary machinist personnel
+80111707,Permanent technical staffing needs
+80111604,Temporary technician staffing needs
+80111616,Temporary customer service personnel
+80111708,Permanent financial staffing needs
+80111605,Temporary financial staffing needs
+80111709,Permanent medical staff needs
+80111606,Temporary medical staffing needs
+80111710,Permanent legal staffing needs
+80111607,Temporary legal staffing needs
+80111711,Permanent information technology software developers
+80111608,Temporary information technology software developers
+80111617,Temporary architectural services
+80111712,Permanent information technology networking specialists
+80111609,Temporary information technology systems or database administrators
+80111701,Staff recruiting services
+80111618,Temporary construction services
+80111713,Permanent information technology systems or database administrators
+80111610,Temporary information technology networking specialists
+80111702,Reference or background check services
+80141616,Point of sale materials not including printed materials
+80141607,Events management
+80141511,Market research paper surveys
+80141617,In dealership strategic initiatives training
+80141609,Sponsorship of event or celebrity
+80141512,Market research on location surveys
+80141501,Marketing analysis
+80141618,Sales marketing agencies including print
+80141610,Close outs
+80141513,Market research one on one interviews
+80141502,Distributive or service trade statistics
+80141619,Customer relationship center CRC management services
+80141514,Market research mail surveys
+80141503,Commodity price forecasting
+80141620,In dealership strategic initiatives support
+80141504,Preparation of commodity market surveys
+80141621,Motorsport
+80141601,Sales promotion services
+80141505,Marketing plans
+80141622,Letter shop services
+80141611,Product or gift personalization services
+80141602,Public relation services
+80141506,Internet based market research
+80141612,Sales or marketing programs
+80141603,Telemarketing
+80141507,Consumer based research or clinics or focus groups
+80141613,After sales programs
+80141604,Branding of product naming services
+80141508,Syndicated or proprietary forecast studies
+80141614,Public relations programs or services
+80141605,Promotional merchandise
+80141509,Market intelligence or competitive analysis
+80141615,Demo or rental or used vehicle
+80141606,Direct marketing fulfillment
+80141510,Market research telephone surveys
+81111811,Technical support or help desk services
+81111612,Programming or Proprietary Languages
+81111601,Programming for Visual Basic
+81111812,Computer hardware maintenance or support
+81111801,Computer or network or internet security
+81111613,Programming for Perl
+81111602,Programming for Java
+81111814,Co location service
+81111802,Mainframe administration services
+81111603,Programming for HTML
+81111818,Third party warranty
+81111803,Local area network LAN maintenance or support
+81111604,Programming for ALGOL
+81111819,Quality assurance services
+81111804,Wide area network WAN maintenance or support
+81111605,Programming for Assembler
+81111820,System usability services
+81111805,Proprietary or licensed systems maintenance or support
+81111606,Programming for Basic
+81111806,Database analysis
+81111607,Programming for C or C++
+81111807,Data storage
+81111608,Programming for COBOL
+81111808,Systems analysis
+81111609,Programming for FORTRAN
+81111809,System installation
+81111610,Programming for Pascal
+81111810,Software coding
+81111611,Programming for PL/1
+82121503,Digital printing
+82121504,Letterpress or screen printing
+82121505,Promotional or advertising printing
+82121506,Publication printing
+82121507,Stationery or business form printing
+82121508,Wrap or tag or label or seal or bag printing
+82121509,Security or financial instruments printing
+82121501,Planning or layout of graphic production
+82121502,Typesetting
+84131509,Comprehensive projects insurance
+84131510,Contractors all risks insurance
+84131511,Deterioration of stocks insurance
+84131512,Electronic equipment insurance
+84131501,Building or building contents insurance
+84131513,Erection all risks insurance
+84131502,Homeowners or renters insurance
+84131503,Car or truck insurance
+84131504,Cargo insurance
+84131505,Marine insurance
+84131514,Fidelity guarantee insurance
+84131506,Reinsurance services
+84131515,Jewelers block insurance
+84131507,Business interruption insurance
+84131516,Professional indemnity insurance
+84131508,Cash in transit insurance
+84131517,Travel insurance
+85121612,Orthopedics services
+85111613,Tropical diseases prevention or control services
+85121601,Gynecologic or obstetric services
+85111602,Cancer or leukemia prevention or control services
+85111506,Bacterial disease prevention or control services
+85121613,Pediatric services
+85111614,Childhood diseases prevention or control services
+85121602,Nephrology services
+85111603,Endocrine diseases prevention or control services
+85111507,Sexually transmitted diseases prevention or control services
+85121614,Nervous system specialist services
+85111615,Diarrheal diseases prevention or control services
+85121603,Cardiology services
+85111604,Heart diseases prevention or control services
+85111508,Viral diseases prevention or control services
+85111616,Alcoholism prevention or control services
+85121604,Pulomonary specialists services
+85111605,Immunologic prevention or control services
+85111509,Zoonotic diseases prevention or control services
+85111617,Drug addiction prevention or control services
+85121605,Gastroenterologists services
+85111606,Allergies prevention or control services
+85111510,Vaccination services
+85121606,Geriatric services
+85111607,Neurological disorders prevention or control services
+85111511,Quarantine services
+85121607,Psychiatrist services
+85111608,Nutritional diseases prevention or control services
+85111512,Immunization services
+85111501,Aids prevention or control services
+85121608,Psychologists services
+85111609,Radiation sickness prevention or control services
+85111513,Disinsectization services
+85111502,Parasitic disease prevention or control services
+85121609,Surgery services
+85111610,Digestive system diseases prevention or control services
+85111514,Epidemics prevention or control services
+85111503,Fungal diseases prevention or control services
+85121610,Ophthalmologists services
+85111611,Eye disease prevention or control services
+85111504,Tuberculosis prevention or control services
+85121611,Dermatology services
+85111612,Respiratory diseases prevention or control services
+85111601,Bone diseases prevention or control services
+85111505,Leprosy prevention or control services
+86101702,Tourism related training
+85131710,Immunology research services
+86101703,Library or documentation training
+85131711,Physiology research services
+86101704,Procurement or supply chain training
+85131712,Toxicology research services
+85131701,Pharmaceutical research services
+86101705,Clerical training
+85131713,Neurology research services
+85131702,Bacteriology research services
+86101706,Health assistance vocational training services
+85131703,Biomedical research services
+86101707,Personal care vocational training services
+85131704,Cardiology research services
+85131705,Anatomy research services
+85131706,Pathology research services
+85131707,Embryology research services
+85131708,Epidemiology research services
+86101701,Communications vocational training services
+85131709,Genetics research services
+86101714,Law enforcement vocational training services
+86101715,Road or rail transportation vocational training services
+86101716,Shipping vocational training services
+86101708,Literacy services
+86101709,Safety training services
+86101710,Teacher training services
+86101711,Fire fighting training services
+86101712,Handcrafts vocational training services
+86101713,Law vocational training services
+1010,Live animals
+1011,Domestic pet products
+1014,Saddlery and harness goods
+1012,Animal feed
+1013,Animal containment and habitats
+1015,Seeds and bulbs and seedlings and cuttings
+1016,Floriculture and silviculture products
+1017,Fertilizers and plant nutrients and herbicides
+1019,Pest control products
+1110,Minerals and ores and metals
+1111,Earth and stone
+1114,Scrap and waste materials
+1113,Non edible animal products
+1115,Fibers and threads and yarns
+1112,Non edible plant and forestry products
+1116,Fabrics and leather materials
+1119,Metal waste and scrap
+1117,Alloys
+1118,Metal oxide
+15101506,Gasoline or Petrol
+15111505,Butane
+15101607,Hexamines
+15101507,Benzene
+15111506,Acetylene
+15101608,Trioxanes
+15101508,Crude oil
+15111507,Water gas or producer gas
+15101509,Marine fuel
+15111508,Coal gas
+15101510,Condensate
+15111509,Methylacetylene propadiene MAPP gas
+15111510,Liquified petroleum gas
+15101601,Coal
+15101602,Lignite
+15101502,Kerosene
+15111501,Propane
+15101603,Peat
+15101503,Naphtha
+15111502,Methane
+15101604,Coke
+15101504,Aviation fuel
+15111503,Propylene
+15101605,Charcoal
+15101505,Diesel fuel
+15111504,Ethylene
+15101606,Jellied alcohol fuels
+241016,Lifting equipment and accessories
+24101502,Bulk transporters
+24101806,Dock ladders
+24101503,Dollies
+24101807,Dock plates
+24101504,Hand trucks or accessories
+24101505,Pallet trucks
+24101506,Pushcarts
+24101507,Wheelbarrows
+241018,Dock equipment
+24101508,Creepers
+24101801,Dock levelers
+24101509,Wagons
+24101802,Dock seals
+241017,Conveyors and accessories
+24101510,Tilt trucks
+24101803,Dock ramps
+24101511,Shelf trolleys
+241015,Industrial trucks
+24101804,Strip doors
+24101512,Power buggies
+24101501,Carts
+24101805,Dock bumpers
+241122,Cans and pails
+24111509,Water bags
+241021,Warehousing equipment and supplies
+24112405,Drawers
+241115,Bags
+24111510,Rope bags and rope packs
+24102101,Cargo handling equipment
+241020,Shelving and storage
+24112406,Box or shelf partitions
+24111501,Canvas bags
+241118,Tanks and cylinders and their accessories
+24102102,Warehouse carousels
+24101808,Wheel chocks
+24112407,Mailboxes
+241121,Casks and barrels and drums
+24111502,Paper bags
+24102103,Warehouse casers
+24101809,Dock rails or accessories
+24112408,Antistatic boxes
+24102104,Depalletizers
+241019,Drum handling equipment
+24112409,Box lids
+24102105,Palletizers
+24112410,Drawer slide
+24102106,Industrial shrink wrap equipment
+24111503,Plastic bags
+241125,Corrugated and other supplies for distribution
+241124,Storage chests and cabinets and trunks
+24102107,Cartoning machinery
+24111505,Flexible intermediate bulk containers
+24112401,Tool chests or boxes or cabinets
+241120,Bins and baskets
+24102108,Packaging compactors
+24111506,Laundry nets or bags
+24112402,Hazardous materials cabinets
+24102109,Sack holders
+24111507,Tool bags
+24112403,Tool belts
+241022,Packing tools
+24111508,Tent bag
+24112404,Box
+24141608,Protective ends
+241126,Liquid containers
+2510,Motor vehicles
+24141701,Paper tubes or cores
+24141702,Tube or core end plugs
+241127,Pallets
+24141703,Paper pieces
+241128,Freight containers
+24141601,Bubble wrap
+24141704,Printed inserts or instructions
+24141602,Thermoforming materials
+24141705,Collapsible tubes
+24141603,Cushioning
+24141706,Spool
+24141604,Wadding materials
+24141707,Reel
+24141605,Air filled packing materials
+24141708,Parcel handles
+24141606,Packing peanuts
+24141709,Capsule tubes or caps
+24141607,Cardboard inserts
+2511,Marine transport
+2512,Railway and tramway machinery and equipment
+2515,Spacecraft
+2513,Aircraft
+2516,Non motorized cycles
+2517,Transportation components and systems
+2518,Vehicle bodies and trailers
+2519,Transportation services equipment
+2520,Aerospace systems and components and equipment
+26111602,Hydro electric generators
+261115,Kinetic power transmission
+26111603,Wind generators
+26111604,Gas generators
+26111605,Thermal generators
+26111606,Hydraulic generators
+26111607,Solar generators
+26111608,Steam generators
+261117,Batteries and cells and accessories
+261116,Power generators
+26111601,Diesel generators
+26111810,Timing pulley flanges
+261119,Clutches
+261118,Drive components
+26111901,Plate clutches
+26111801,V belts
+261120,Clutch parts and accessories
+26111902,Diaphragm clutch
+26111802,Geared timing belts
+26111903,Centrifugal clutch
+26111803,Round belts
+26111904,Semi centrifugal clutch
+26111804,Flat belts
+26111905,Free wheel clutch
+26111805,Belt tensioners
+26111907,Fluid coupling
+26111806,Transmission pulleys
+26111908,Cam clutches
+26111807,Timing pulley
+26111909,Electrical clutches
+26111808,Trantorque
+26111910,Hydraulic clutches
+26111809,Belt guards
+261121,Industrial braking systems
+26131811,Current limiting reactors
+26131510,Thermal power plants
+26131812,Gas insulated switchgears
+26131813,Switchyard disconnect switches
+26131501,Diesel power plants
+26131814,Switchyard surge arrestors
+26131502,Geothermal power plants
+26131503,Hydro power plants
+26131801,Electrical control panels for generators
+26131504,Gas power plants
+26131802,Compressor control panels
+26131505,Marine power plants
+26131803,Generator control or protection panels
+26131506,Petrol power plants
+26131804,Gas turbine control panels
+26131507,Solar power plants
+26131807,Steam turbines control panels
+26131508,Steam power plants
+26131808,Substation load control switchgears
+26131509,Wind power plants
+3010,Structural materials and basic shapes
+3012,Roads and landscape
+3011,Concrete and cement and plaster
+3013,Structural building products
+3015,Exterior finishing materials
+3014,Insulation
+3016,Interior finishing materials
+3017,Doors and windows and glass
+3018,Plumbing fixtures
+3020,Prefabricated structures
+3022,Permanent structures
+3019,Construction and maintenance support equipment
+401417,Hardware and fittings
+401420,Hoses
+40142001,Acid hoses
+40142002,Air hoses
+40142003,Drill hoses
+401416,Valves
+40142004,Marine hoses
+40142005,Material handling hoses
+40142006,Oil hoses
+401419,Ducts
+40142612,Tube adapters
+40142009,Air water gas multipurpose hoses
+40142613,Tube connectors
+40142010,Fluoropolymer lined hoses
+40142614,Tube crosses
+401426,Tube fittings
+401421,Pipe
+401422,Fluid and gas regulators
+40142615,Tube reducers
+40142604,Tube elbows
+40142605,Tube tees
+401424,Pipe flanges
+40142606,Tube unions
+40142607,Tube caps
+401423,Pipe fittings
+40142608,Tube nipples
+40142609,Tube plugs
+401425,Traps and strainers
+40142610,Tube couplings
+40142007,Special hoses
+40142611,Tube bushings
+40142008,Water hoses
+43201409,Wireless network interface cards
+43191502,Pagers
+43201410,Switch ports or cards
+43191503,Pay phones
+432015,System boards processors interfaces or modules
+43191504,Fixed phones
+432016,Chassis components
+432014,System Cards
+43191505,Answering machines
+43201401,Graphics or video accelerator cards
+43191507,Special purpose telephones
+43201402,Memory module cards
+43191508,Digital telephones
+43201403,Modem cards
+43191509,Analog telephones
+43201404,Network interface cards
+43191510,Two way radios
+43201405,Optical network receive cards
+43191511,IP phones
+43201406,Optical network transmit cards
+43191512,Digital enhanced cordless telecommunications DECT cordless phones
+43201407,Peripheral controller cards
+43191501,Mobile phones
+43211504,Personal digital assistant PDAs or organizers
+43202006,Magneto Optical MO disks
+432022,Sub assemblies for electronic devices
+43211505,Point of sale POS terminal
+43202007,High capacity removable media blank disks
+43211506,Thin client computers
+43202008,Ultra density optical UDO blank disks
+432019,Media storage device accessories
+43211507,Desktop computers
+432021,Removable storage media accessories
+43211508,Personal computers
+43211509,Tablet computers
+432020,Removable storage media
+43211510,Mainframe console or dumb terminals
+43202001,Compact disks CDs
+43211511,Wearable computing devices
+43202002,Blank tapes
+432018,Media storage devices
+43211512,Mainframe computers
+43211501,Computer servers
+43202003,Digital versatile disks DVDs
+43211502,High end computer servers
+43202004,Floppy disks
+43211503,Notebook computers
+43202005,Flash memory storage devices
+432215,Call management systems or accessories
+432218,Optical network devices
+432217,Fixed network equipment and components
+43221801,Optical amplifiers
+43221802,Optical network or communication filters
+43221803,Optical adapters
+43221804,Optical networking lasers
+432216,Digital subscriber loop DSL access equipment and components and accessories
+43221805,Asynchronous transfer mode ATM network equipment
+43221806,Synchronous optical network SONET network equipment
+43221807,Telecommunications dense wavelength division multiplexing DWDM filters
+43221808,Synchronous digital hierarchy SDH telecom equipment
+432227,Telegraph equipment
+43223210,Micropayment messaging systems
+43223211,Paging controllers
+432232,Mobile messaging platforms
+43223212,Paging terminals
+43223201,Voice messaging portal
+43223202,Short message service center
+432226,Network service equipment
+432228,Telephony equipment
+43223203,Multimedia service center
+432229,Telephony equipment accessories
+43223204,Unified messaging platform
+43223205,Instant messaging platform
+43223206,Wireless internet gateway
+432230,Teletype equipment
+43223207,Video streaming system
+43223208,Mobile or messaging game platform
+432231,Digital mobile network infrastructure equipment and components
+43223209,Location based messaging service platforms
+432225,Network security equipment
+43232605,Analytical or scientific software
+43232503,Spell checkers
+43232402,Development environment software
+43232105,Charting software
+43232304,Data base management system software
+43231510,Label making software
+43232606,Compliance software
+43232504,Route navigation software
+43232403,Enterprise application integration software
+43232106,Presentation software
+43232305,Data base reporting software
+43231511,Expert system software
+43232607,Flight control software
+43232505,Multi-media educational software
+43232404,Graphical user interface development software
+43232107,Web page creation and editing software
+43232306,Data base user interface and query software
+43231512,License management software
+43232608,Industrial control software
+43232506,Encyclopedia software
+43232405,Object or component oriented development software
+43232108,Calendar and scheduling software
+43232307,Data mining software
+43231513,Office suite software
+43232609,Library software
+43232507,Dictionary software
+43232406,Program testing software
+43232110,Spreadsheet software
+43232309,Information retrieval or search software
+43231514,Sales and marketing software
+43231501,Helpdesk or call center software
+43232610,Medical software
+43232508,Phonebook software
+43232407,Requirements analysis and system architecture software
+43232111,Optical character reader OCR or scanning software
+43232310,Metadata management software
+43231503,Procurement software
+43232611,Point of sale POS software
+43232408,Web platform development software
+43232112,Desktop publishing software
+43232311,Object oriented data base management software
+43231505,Human resources software
+43232612,Computer aided manufacturing CAM software
+43232601,Aviation ground support software
+43232409,Compiler and decompiler software
+43232312,Portal server software
+43232101,Pattern design software
+43231506,Materials requirements planning logistics and supply chain software
+43232602,Aviation test software
+43232313,Transaction server software
+43232102,Graphics or photo imaging software
+43232301,Categorization or classification software
+43231507,Project management software
+43232603,Facilities management software
+43232501,Foreign language software
+43232103,Video creation and editing software
+43232302,Clustering software
+43231508,Inventory management software
+43232604,Computer aided design CAD software
+43232502,Computer based training software
+43232401,Configuration management software
+43232104,Word processing software
+43232303,Customer relationship management CRM software
+43231509,Bar coding software
+43233510,Mobile internet services software
+43233511,Mobile location based services software
+43233512,Ring tone software
+43233501,Electronic mail software
+43233502,Video conferencing software
+43233503,Network conferencing software
+43233504,Instant messaging software
+43233505,Ambient music or advertising messaging software
+43233506,Map creation software
+43233507,Mobile operator specific standard software
+43233508,Mobile operator specific application software
+43233509,Mobile messaging service software
+44102604,Stenotype machines
+44102408,Automatic labeling systems
+44102605,Dictation machines
+44102409,Semi automatic labeling systems
+44102101,Franking or postage machines
+44102606,Typerwriter ribbons
+44102411,Label dispensers
+44102102,Mail opening machines
+44102607,Word processors
+44102412,Adhesive label cartridges
+44102103,Mail sealing machines
+44102608,Typewriter printing elements
+44102104,Stamp canceling machines
+44102609,Accessory or supply kits for typewriters
+44102105,Addressing machines
+44102402,Dating or numbering machines
+44102610,Typewriter starter kits
+44102106,Letter folders
+44102403,Identification ID press machines
+44102107,Stamp affixers
+44102404,Label applying machines
+44102108,Mail machine accessories
+44102405,Label making machines
+44102602,Typewriters
+44102406,Lettering equipment
+44102603,Printwheels
+44102407,Tape embosser
+44111907,Bulletin boards or accessories
+44111908,Magnetic boards or accessories
+44111909,Board cleaning kits or accessories
+44111910,Hanging rails or holders
+44111911,Interactive whiteboards or accessories
+44111901,Planning boards or accessories
+44111902,Electronic copyboards or accessories
+44111903,Easels or accessories
+44111904,Letter boards or accessories
+44111905,Dry erase boards or accessories
+44111906,Chalk boards or accessories
+44121510,Mailing seals
+44121511,Mailing boxes
+44121512,Mailer tube caps
+44121501,Mailer tubes
+44121503,Mailers
+44121504,Window envelopes
+44121505,Specialty envelopes
+44121506,Standard envelopes
+44121507,Catalog or clasp envelopes
+44121508,Message droppers
+44121509,Mailing bags
+4610,Light weapons and ammunition
+4615,Law enforcement
+4611,Conventional war weapons
+4612,Missiles
+4613,Rockets and subsystems
+4614,Launchers
+4616,Public safety and control
+461816,Safety footwear
+4618,Personal safety and protection
+4617,Security surveillance and detection
+461815,Safety apparel
+4619,Fire protection
+461822,Ergonomic support aids
+461819,Hearing protectors
+461818,Vision protection and accessories
+461823,Fall protection and rescue equipment
+461821,Anti static equipment and supplies
+461817,Face and head protection
+461820,Respiratory protection
+4913,Fishing and hunting equipment
+4912,Camping and outdoor equipment and accessories
+4910,Collectibles and awards
+4914,Watersports equipment
+4917,Gymnastics and boxing equipment
+4918,Target and table games and equipment
+4916,Field and court sports equipment
+4915,Winter sports equipment
+4924,Recreation and playground and swimming and spa equipment and supplies
+4920,Fitness equipment
+4921,Other sports
+4922,Sports equipment and accessories
+50101901,Boysenberry
+50101542,Vegetable flour
+50101902,Blackcurrant
+50101543,Dried beans
+50101903,Blackberry
+50101544,Canned or shelf stable beans
+50101904,Blueberry
+50101545,Dried vegetables
+50101905,Cranberry
+50101906,Grape
+5010,Fruits and vegetables and nuts and seeds
+50101907,Raspberry
+50101908,Strawberry
+50101538,Fresh vegetables
+50101539,Frozen vegetables
+50101540,Shelf stable vegetables
+50101541,Mushrooms or fungi
+5017,Seasonings and preservatives
+5012,Seafood
+5016,Chocolate and sugars and sweeteners and confectionary products
+50181901,Fresh bread
+50181902,Frozen bread
+50181903,Plain savory biscuits
+5015,Edible oils and fats
+50181904,Dried breads or bread shells or croutons
+5013,Dairy products and eggs
+5011,Meat and poultry products
+5018,Bread and bakery products
+50181909,Crackers
+5019,Prepared and preserved foods
+50181905,Sweet biscuits or cookies
+50181906,Shelf stable bread
+50181907,Frozen cookie dough
+50181908,Frozen  bread dough
+502024,Fresh citrus juice or concentrate
+50202301,Water
+50202302,Ice
+50202303,Frozen juices
+50201707,Coffee substitutes
+50202304,Shelf stable juice
+50201708,Coffee drinks
+50202305,Fresh juice
+50201709,Instant coffee
+50202306,Soft drinks
+50201710,Leaf tea
+50202307,Chocolate or malt or other hot beverages
+50201711,Instant tea
+50202308,Alcohol free cocktails or drink mixes
+50201712,Tea drinks
+50202309,Sport or energy drink
+5020,Beverages
+50201713,Tea bags
+50202310,Spring or mineral water
+502017,Coffee and tea
+50201714,Non dairy creamers
+50202311,Powdered drink mix
+50201706,Coffee
+502023,Non alcoholic beverages
+502022,Alcoholic beverages
+502027,Fresh drupe or stone fruit juice or concentrate
+502030,Fresh melon juice or concentrates
+5022,Cereal and pulse products
+502025,Fresh berry juice or concentrate
+5021,Tobacco and smoking products and substitutes
+502028,Fresh tropical fruit juice or concentrate
+502026,Fresh pome fruit juice or concentrate
+55121903,Moving message signs
+55121904,Billboards
+55121905,Flagpoles or parts or accessories
+55121906,Flag stands
+55121907,Title boards
+55121908,Sign holders or stands
+55121901,Advertising pillars
+55121902,Barker stands or stalls
+56101812,Changing tables or accessories
+56101608,Bicycle racks
+56101813,Bath seats
+56101803,Carriages or perambulators or strollers
+561115,Workstations and office packages
+56101804,Cribs or playpens or accessories
+56101805,Car seats
+56101601,Outdoor umbrellas
+56101806,High chairs or accessories
+56101602,Outdoor chairs
+56101807,Bouncer seats or jumpers
+56101603,Outdoor tables or picnic tables
+561116,Panel systems
+56101808,Swings or jumpers or accessories
+56101604,Outdoor swings
+56101809,Potty seats
+56101605,Outdoor benches
+56101810,Baby baths or tubs
+56101606,Flower stands
+56101811,Bassinets or cradles
+56101607,Outside clothes dryer
+561215,General classroom furnishings
+561212,First aid room furnishings
+56112103,Guest seating
+56121602,Toddler or child size sofas
+56121501,Activity tables
+56112104,Executive seating
+56121603,Toddler or child size easy chairs
+56121502,Classroom chairs
+561213,General educational facility fixtures
+56112105,Lounge seating
+561120,Computer support furniture
+561117,Casegood and non modular systems
+56121604,Toddler or child size bean bag chairs
+56121503,Classroom benches
+56112106,Stool seating
+56121605,Low rise room dividers or play panels
+56121504,Classroom stools
+56112107,Seating parts or accessories
+56121606,Childs rest mats
+56121505,Classroom tables
+56112108,Combination chair with desk
+561210,Library furnishings
+561119,Industrial furniture
+56121607,Childs rest mat racks or holders
+56121506,Student desks
+56112109,Benches
+56121507,Study carrels
+561214,Cafeteria and lunchroom furnishings
+56112110,Musician seating
+56121508,Student computer desks
+561211,Art classroom furnishings
+56112111,Booster seats
+561121,Seating
+56121509,Student computer tables
+561122,Desking systems
+56112101,Auditorium or stadium or special use seating
+561216,Creative play and rest time furnishings for daycare and early childhood facilities
+56112102,Task seating
+561118,Freestanding furniture
+56121601,Toddler or child size living room sets
+561220,Laboratory furniture
+561218,Vocational classroom furnishings and fixtures
+56121608,Childrens cots
+56121609,Childrens cot carriers
+56121610,Childrens cot activity systems
+561219,Demonstration furnishings
+561217,Book and general storage units for classrooms
+7010,Fisheries and aquaculture
+7012,Livestock services
+7011,Horticulture
+7013,Land and soil preparation and management and protection
+7014,Crop production and management and protection
+7016,Wildlife and flora
+7015,Forestry
+7017,Water resources development and oversight
+72102206,Underground engineering for communication equipment
+72102207,Overground engineering for communication equipment
+72102208,Cable laying
+72102209,Cable pulling
+72102210,Power cable installation and supply
+72102201,Electric power systems installation or service
+72102202,Electronic controls installation
+72102203,Communication equipment installation
+72102204,Safety or security systems installation
+72102501,Bricklaying
+72102205,Telecom equipment maintenance or support
+73121502,Basic metal combination processes services
+72102502,Chimney construction or maintenance
+73121503,Refractors services for iron or steel production
+72102503,Marble or stone or tile installation
+73121504,Iron or steel making services
+72102504,Retaining wall construction
+7311,Wood and paper industries
+73121505,Iron or steel forging services
+72102505,Fresco work
+73121506,Pre finishing iron or steel processes services
+72102506,Acoustical
+73121507,Finishing metal processing services
+72102507,Insulating material installation
+73121508,Smelting metal services
+72102508,Restoration of masonry or stonework or tile
+73121509,Refining metal services
+7312,Metal and mineral industries
+7310,Plastic and chemical industries
+73121601,Metal cutting services
+73121602,Blacksmith services
+73121501,Ferrous alloy production services
+73131607,Butcher services
+7314,Fibers and textiles and fabric industries
+73131505,Water beverages processing services
+73121603,Metal heating services
+73131608,Cold storage services
+73131506,Infused beverages processing services
+73121606,Metal forging services
+73141501,Rayon or acetate fiber manufacturing services
+73131507,Coffee processing services
+73121607,Metal drawing services
+73141502,Glass fiber manufacturing services
+73131508,Tea processing services
+73121608,Metal extruding services
+73141503,Silk fiber manufacturing services
+73121610,Horseshoeing services
+73141504,Cotton fiber manufacturing services
+73131601,Meat products or by products processing services
+7313,Food and beverage industries
+73121611,Tinsmithing services
+73141505,Wool fiber manufacturing services
+73131602,Fish or fish products processing services
+73121612,Rebabbiting services
+7315,Manufacturing support services
+73141506,Polyester fiber manufacturing services
+73131603,Poultry processing services
+73131501,Spirits distilling or blending services
+73121613,Metal casting services
+73141507,Polyamide fiber manufacturing services
+73131604,Meat hygiene or inspection services
+73131502,Wine processing services
+73141508,Acrylic fiber manufacturing services
+73131605,Meat plant operation or management services
+73131503,Brewery processing services
+73131606,Slaughter houses services
+73131504,Non alcoholic fruit based beverage processing services
+73171512,Electronic computers or data processing equipment manufacture services
+7316,Machinery and transport equipment manufacture
+73171513,Epitaxial services
+73171501,Power generation or transmission or distribution equipment manufacture services
+73171502,Dry or storage battery manufacture services
+73171503,Electrical tools manufacture services
+73171504,Measuring or testing instruments manufacture services
+73171505,Radio or television manufacture services
+73171506,Communication equipment manufacture services
+73171507,Electrical household appliances manufacture services
+73171508,Insulated wire or cable manufacture services
+7318,Machining and processing services
+73171510,Electrical accessories or supplies manufacture services
+73171511,Electronic equipment manufacture services
+7317,Manufacture of electrical goods and precision instruments
+73181902,Metal inert gas MIG welding services
+73181903,Tungsten inert gas TIG welding services
+73181904,Laser welding services
+73181905,Spot welding services
+73181906,Projection welding services
+73181907,Brazing services
+73181908,Soldering services
+73181901,Arc welding services
+781015,Air cargo transport
+77121507,Carbon dioxide monitoring services
+77121706,Transboundary water pollution management or control services
+77121606,Soil pollution measurement or monitoring
+77121508,Airborne particle monitoring
+77101901,Industrial site investigation
+77121707,Groundwater pollution monitoring or control services
+77121607,Organic fertilizer pollution assessment
+77121509,Ozone depletion monitoring services
+77111501,Landscape protection services
+77101902,Industrial waste site investigation
+77121708,Groundwater pollution drainage services
+77121608,Pesticides pollution assessment
+77111502,Ozone protection services
+77101903,Gasworks site investigation
+77121709,Groundwater pollution treatment or rehabilitation
+77121609,Nitrates pollution assessment
+781018,Road cargo transport
+781016,Rail cargo transport
+77111503,Food or feed contamination protection services
+77101904,Chemical works or oil refinery waste site investigation
+77121610,Phosphates pollution assessment
+77121501,Air quality management
+77111504,Genetic resources protection services
+77101905,Wood treatment plant site investigation
+77121502,Transboundary air pollution management or control services
+77111505,Toxic substances protection services
+77101906,Oil depot or terminal site investigation
+77121701,Surface water pollution monitoring or control services
+77121601,Soil pollution protection services
+77121503,Air pollution protection services
+77111506,Radiation protection services
+77101907,Dry cleaning plants site investigation
+77121702,Surface water pollution rehabilitation services
+77121602,Polluted soil removal services
+77121504,Air pollution monitoring or measurement services
+77111507,Endangered species protection services
+77101908,Foundry site investigation
+77121703,Surface water pollution protection services
+77121603,Polluted soil treatment or rehabilitation
+781019,Intermodal cargo transport
+781017,Marine cargo transport
+77121505,Toxic gas detection services
+77111508,Natural risks or hazards protection services
+77101909,Recycling plant site investigation
+77121704,Surface water treatment services
+77121604,Soil pollution advisory services
+77121506,Methane monitoring
+77101910,Food processing plant site investigation
+77121705,Surface water pollution drainage services
+77121605,Soil pollution mapping
+80101501,New business start up consultation services
+781020,Spacecraft cargo transport
+80101502,Corporate mergers consultation services
+80101503,Corporate divestiture consultation services
+80101504,Strategic planning consultation services
+781021,Pipeline services
+80101505,Corporate objectives or policy development
+781022,Postal and small parcel and courier services
+80121601,Government antitrust or regulations law services
+80121602,Bankruptcy law services
+80121603,Partnership law
+80111501,Management development
+80121604,Patent or trademark or copyright law
+80111502,Compensation or benefits planning
+80121605,Liquidation law services
+80111503,Labor or union relations
+80121606,Real estate law
+80111504,Labor training or development
+80121607,Taxation law
+80111505,Human resources productivity audits
+80101506,Organizational structure consultation
+80121608,Mergers or acquisitions law
+80111506,Personnel relocation
+80101507,Information technology consultation services
+80121609,Legal Research Services
+80111507,Outplacement services
+80101508,Business intelligence consulting services
+80121610,Debt collection law services
+80111508,Service recognition programs
+80121611,Healthcare claim law services
+80161508,Document destruction services
+80161501,Office administration or secretarial services
+80161502,Meeting planning services
+80161503,Keyboard entry services
+811015,Civil engineering
+80161504,Clerical services
+81101501,Well engineering
+80161505,Fleet management services
+81101502,Technical drawing
+80161506,Data archiving services
+80161507,Audio visual services
+81101505,Structural engineering
+81111503,Systems integration design
+81112002,Data processing or preparation services
+811118,System administrators
+811019,Oil and gas engineering
+81101506,Naval architecture
+81111504,Application programming services
+81112003,Data center services
+811024,Electrical power transmission engineering
+81101507,Dam engineering
+81111505,Operating system programming services
+81112004,Disaster recovery services
+811117,Management information systems MIS
+811020,Mining engineering
+81101508,Architectural engineering
+81111506,Client or server programming services
+81112005,Document scanning service
+81111701,Wide area network communications design
+811017,Electrical and electronic engineering
+81101509,Airport engineering
+81111507,ERP or database applications programming services
+81111702,Local area network communications design
+811021,Ocean engineering
+81101510,Highway engineering
+81111508,Application implementation services
+81111703,Electronic data interchange EDI design
+811115,Software or hardware engineering
+81101511,Railway engineering
+81111509,Internet or intranet client application development services
+811119,Information retrieval systems
+81111704,Database design
+81111501,Mainframe software applications design
+811022,Transportation engineering
+81101512,Geographic information system GIS services
+81111510,Internet or intranet server application development services
+81111705,Systems architecture
+81111502,Personal computer PC application design
+81101513,Building construction management
+811116,Computer programmers
+81111706,Network planning services
+811016,Mechanical engineering
+811120,Data services
+81111707,Systems planning services
+811018,Chemical engineering
+81101503,Harbor or water ports engineering
+81112001,On line data processing
+81111708,Telecommunications planning services
+811023,Aeronautical engineering
+81112006,Data storage service
+81112007,Content or data standardization services
+811122,Software maintenance and support
+81112008,Cd rom mastering services
+81112009,Content or data classification services
+81112010,Data conversion service
+811121,Internet services
+82101507,Shopping news or advertising or distribution service
+82121902,Spiral binding
+82101508,Trade or service directory or yellow page advertising
+82121903,Glued binding
+82121904,Comb or clamp type binding
+82121905,Binding restoration or repair
+82121906,Bronzing or gilding or edging or deckling
+82101501,Billboard advertising
+82121907,Velo binding services
+82101502,Poster advertising
+82121908,Case making services
+82101503,Magazine advertising
+82121510,Textile printing
+82101504,Newspaper advertising
+82121511,Technical manual or instruction sheet printing
+82101505,Handbill or coupon advertising
+82121512,Embossing
+82101506,Transit advertising services
+82121901,Thread stitch bookbinding
+831118,Television services
+82151502,Lithographers services
+83111511,Frame relay telecommunications service
+83101804,Electric power transmission services
+83101510,Chilled water
+82151503,Cartoonists services
+831116,Mobile communications services
+831115,Local and long distance telephone communications
+83101805,Industrial electric power distribution
+82151504,Sculptors services
+83111501,Local telephone service
+83101806,Rural electrical power distribution
+83101501,Supply of water
+82151505,Ceramics makers services
+83111502,Long distance telephone services
+83101807,Municipal electric power distribution
+83101502,Water resource management
+82151506,Glass blowers services
+83111503,Pay phone provider services
+83101808,Power quality monitoring
+83101503,Water quality control management
+82151507,Textile spinners or loomers or weavers services
+83111504,Pre paid phone card services
+83101504,Water distribution management
+82151508,Taxidermy services
+83111505,Directory assistance services
+83101505,Water policy advisory services
+831117,Facsimile and telegraph services
+83111506,Conference calling services
+83101506,Water treatment services
+83111507,Call centre bureau services
+83101801,Supply of single phase electricity
+83101507,Desalination services
+83111508,Toll free inbound telephone service
+83101802,Supply of two phase electricity
+83101508,Town water
+82151501,Painters services
+83111510,Interactive voice response service
+83101803,Supply of three phase electricity
+83101509,Service water
+831124,Switched dial up and leased dedicated line circuit telecommunications services
+831122,Enhanced telecommunications services
+831126,Customer access
+831119,Radio services
+831123,Fiber telecommunications services
+831125,Backbone capacities
+84131608,Medical Claims Review and Management
+84121604,Spot exchange transaction services
+85101509,Gynecological or obstetrical hospital services
+84131609,Employee assistance programs
+84121605,Currency conversion service
+84131610,Flexible spending accounts FSA
+84121606,Remittance processing services
+84121607,Operating lease finance service
+85101501,Emergency or surgical hospital services
+84131601,Life insurance
+85101502,Private specialized clinic services
+84131602,Health or hospitalization insurance
+85101503,Medical office services
+84131603,Accidental injury insurance
+85101504,Psychiatric hospital services
+84131604,Disability insurance
+85101505,Respiratory hospital services
+84131605,Workmens insurance
+84121601,Funds clearance services
+85101506,Substance abuse hospital services
+84131606,Unemployment insurance
+84121602,Letter of credit services
+85101507,Urgent care centers
+84131607,Liability insurance
+84121603,Currency exchange services
+85101508,Mobile healthcare centers or services
+85122103,Rehabilitation services for substance abuse
+85121801,Blood analysis laboratory services
+851215,Primary care practitioners services
+85122104,Athletic rehabilitation services
+85121802,Bacteriological laboratory services
+85122105,Eating disorders services
+851220,Dental services
+85121803,Biological laboratory services
+85122106,Brain or spinal cord injury services
+85121804,Pathological laboratory services
+851217,Healthcare providers specialists services
+85122107,Blind or vision impaired rehabilitation services
+85121805,Urinalysis laboratory services
+85122108,Speech or language therapy
+85121806,Neurological laboratory services
+85122109,Rehabilitation services for people with chronic disabilities
+85121807,Ultrasound laboratory services
+851222,Individual health screening and assessment services
+85121808,X ray laboratory services
+851216,Medical doctors specialist services
+851221,Rehabilitation services
+85121809,Blood or sperm or transplant organ banks services
+85122101,Physical therapy services
+85121810,Drug or alcohol screening
+85122102,Occupational therapy services
+851219,Pharmacists
+851218,Medical laboratories
+86101602,Energy related vocational training services
+86101501,Agro industry vocational training
+86101603,Chemistry vocational training services
+86101502,Dairy industry vocational training
+85151503,Food preservation management or control services
+86101604,Biology vocational training services
+86101503,Meat industry vocational training
+85151504,Food preparation counseling or control services
+86101605,Medical vocational training services
+86101504,Agriculture vocational training services
+85151505,Food research services
+86101606,Electronics vocational training services
+86101505,Rural youth or farmers vocational training services
+85151506,Studies on foods or food habits
+86101607,Telecommunications vocational training services
+86101506,Forestry vocational training services
+85151507,Food additive or quality standards services
+86101608,Hydraulics vocational training services
+86101507,Fishery vocational training services
+85151508,Food analysis services
+86101609,Industrial vocational training services
+86101508,Environmental vocational training services
+85151509,Food legislation services
+86101610,Engineering vocational training services
+86101509,Natural resources vocational training services
+85151501,Food hygiene control services
+85151502,Food contamination control services
+86101601,Computer vocational training services
+86101808,Public sector manpower development services
+86101809,Merchant marine vocational training services
+86101801,Bank or finance sector manpower development
+86101802,Re training or refreshing training services
+86101803,Vocational rehabilitation services
+86101804,Commercial sector manpower development
+86101805,Industrial sector manpower development
+86101806,Health sector manpower development
+86101807,Management sector manpower development
+9312,International relations
+9310,Political systems and institutions
+9311,Socio political conditions
+9313,Humanitarian aid and relief
+9314,Community and social services
+9316,Taxation
+9315,Public administration and finance services
+9317,Trade policy and regulation
+1214,Elements and gases
+1213,Explosive materials
+1216,Additives
+1218,Waxes and oils
+1217,Colorants
+1235,Compounds and mixtures
+1219,Solvents
+14111701,Facial tissues
+14111702,Toilet seat covers
+14111703,Paper towels
+14111704,Toilet tissue
+14111705,Paper napkins or serviettes
+14111706,Paper table cloth
+2010,Mining and quarrying machinery and equipment
+2012,Oil and gas drilling and exploration equipment
+2011,Well drilling and operation equipment
+2013,Oil and gas drilling and operation materials
+2014,Oil and gas operating and production equipment
+2410,Material handling machinery and equipment
+24112005,Metallic baskets
+24102201,Stretch film dispensers
+24101907,Spill containment supports
+24112204,Metallic pails
+24112006,Non metallic baskets
+24102202,Box sealing tape dispensers
+24112205,Non metallic pails
+24112007,Material handling racks
+24102203,Bag sealing tools or equipment
+24102001,Rack systems for rack mount electronic equipment
+24112206,Metallic flammable liquid cans
+24102204,Strapping dispenser
+24102002,Bin handlers
+24112207,Non metallic flammable liquid cans
+24112101,Casks
+24102208,Air inflators
+24102004,Storage racks or shelves
+24112208,Spray kit
+24112102,Barrels
+24102005,Automated storage or retrieval systems
+24101901,Drum openers
+24112209,Jerrycans
+24112108,Metallic drums
+24102006,Work benches
+24101902,Drum grabs
+24112109,Non metallic drums
+24102007,Reel storage shelves
+24101903,Drum lifters
+24112501,Slotted corrugated cartons
+24112110,Intermediate bulk containers
+2411,Containers and storage
+24102008,Portable reel holders
+24101904,Drum cradles
+24112502,One piece die cut shipping cartons
+24112111,Stabilizer
+24112003,Non metallic bins
+24101905,Spill deck
+24112503,Die cut corrugated shipping cartons with separate lids
+24112112,Drum lid
+24112004,Metallic bins
+24101906,Drum recuperators
+2414,Packing supplies
+2413,Industrial refrigeration
+24121804,Food cans
+24121502,Packaging pouches or bags
+24121805,Steel cans
+24121503,Packaging boxes
+24121806,Aluminum cans
+24121504,Carded packaging
+24121807,Plastic cans
+24121506,Conductive boxes
+24121507,Rigid set up boxes
+24122001,Squeeze bottles
+24121508,Egg trays
+24112801,Dry freight container
+24122002,Plastic bottles
+24121509,Packaging trays
+24112802,Open top freight container
+24122003,Glass bottles
+24112803,Platform freight container
+24122004,Caps or tops
+24121801,Aerosol cans
+24112804,Flatrack freight container
+24122005,Applicator bottles
+24121802,Paint or varnish cans
+2412,Packaging materials
+24122006,Applicators
+24121803,Beverage cans
+24112504,Molded boxes
+2610,Power sources
+2611,Batteries and generators and kinetic power transmission
+26112101,Air or pneumatic braking systems
+26112102,Hydraulic braking systems
+26112103,Mechanical braking systems
+26112104,Braking clutch assemblies
+26112105,Electrical braking systems
+2612,Electrical wire and cable and harness
+2613,Power generation
+2614,Atomic and nuclear energy machinery and equipment
+3210,Printed circuits and integrated circuits and microassemblies
+3211,Discrete semiconductor devices
+3213,Electronic hardware and component parts and accessories
+3214,Electron tube devices and accessories
+3212,Passive discrete components
+40101503,Vents
+40101707,Cooling tower accessories
+40101605,Fan guards or  accessories
+40102004,Natural gas powered boilers
+40101504,Ventilation dampers
+401018,Heating equipment and parts and accessories
+401017,Cooling
+40101505,Air diffusers
+40101506,Ventilation pipes
+401019,Humidity control
+401016,Air circulation and parts and accessories
+40101601,Blowers
+40101701,Air conditioners
+40101702,Cooling exchangers
+40101703,Evaporative coolers
+401020,Boilers
+401015,Ventilation
+40101704,Condensing units
+40101602,Air circulators
+40102001,Fire tube boilers
+40101501,Air collectors
+40101705,Capillary tube assemblies
+40101603,Impellers
+40102002,Water tube boiler
+40101502,Air exhausters
+40101706,Air conditioner shutters
+40101604,Fans
+40102003,Electric boilers
+40102005,Propane gas powered boilers
+40161801,Metal fabric media
+40161802,Pressed felts
+40161803,Filter papers
+40161804,Filter aids
+40161805,Filter cloth
+40161806,Filter mesh
+4319,Communications Devices and Accessories
+4320,Components for information technology or broadcasting or telecommunications
+432117,Computer data input devices
+43202101,Compact disk cases
+43202102,Floppy disk cases
+43202103,Multimedia storage holders
+4321,Computer Equipment and Accessories
+43202104,Vertical helix scan VHS  videotape storage or accessories
+432115,Computers
+43202105,Multiple media cabinets
+432116,Computer accessories
+4322,Data Voice or Multimedia Network Equipment or Platforms and Accessories
+43211904,Plasma display panels PDP
+43211905,Organic light emitting displays
+432118,Computer data input device accessories
+43211906,Character displays
+43211801,Computer data input device covers
+43211907,Head mounted displays
+43211802,Mouse pads
+432120,Computer display accessories
+43211803,Key board skins
+43211804,Keyboard drawers or shelves
+43211805,Service kits for storage devices
+432121,Computer printers
+432119,Computer displays
+43211901,Cathode ray tube CRT monitors
+43211902,Liquid crystal display LCD panels or monitors
+43211903,Touch screen monitors
+43232204,Embedded text entry software
+43232704,Internet directory services software
+43232001,Action games
+43232705,Internet browser software
+43232002,Adventure games
+4323,Software
+43232003,Sports games
+43232205,Fonts software
+43232004,Family software
+43232005,Music or sound editing software
+43231601,Accounting software
+43231602,Enterprise resource planning ERP software
+43232201,Content workflow software
+43231603,Tax preparation software
+43232701,Application server software
+43232202,Document management software
+43231604,Financial analysis software
+43232702,Desktop communications software
+43232203,File versioning software
+43231605,Time accounting software
+43232703,Interactive voice response software
+44101503,Multifunction machines
+44101504,Digital senders
+44101505,Digital duplicators
+44101506,Faxswitch machines
+44101601,Paper cutting machines or accessories
+44101602,Paper punching or binding machines
+44101603,Paper shredding machines or accessories
+44101604,Base protection boards
+44101605,Paper jogging machines
+44101501,Photocopiers
+44101606,Paper sorting machines
+44101502,Facsimile machines
+44101804,Cash registers
+44102307,Collators
+44101805,Calculator ribbons
+44103001,Fuser cleaning pads or filters
+44101806,Cash register ribbons
+44103002,Fuser oil
+44102301,Bundling machines
+44103003,Fuser wiper
+44102302,Parcel wrapping machines
+44103004,Fusers
+44102303,Seal presses
+44103005,Fuser lamps or assemblies
+44102304,Sealing machines
+44102305,Strapping tensioners or sealers
+44102306,Tying machines
+44101801,Calculators or accessories
+44101802,Adding machines
+44101803,Accounting machines
+44112007,Suggestion box
+441118,Drafting supplies
+44103204,Time card racks
+44112008,Wall planners or refills
+44103205,Time cards or sheets
+441116,Cash handling supplies
+44103502,Binding covers
+441119,Boards
+441115,Organizers and accessories
+44103503,Binding spines or snaps
+441120,Planning systems
+44103504,Binding coils or wire loops
+44112001,Address books or refills
+44103505,Binding combs or strips
+44112002,Calendars
+44103506,Binding tape
+44112004,Meeting planners
+44103507,Binding Kits
+44103201,Time card machines
+44112005,Appointment books or refills
+44103202,Time stamping machines
+44112006,Diaries or refills
+44103203,Time card machine replacement ribbon
+441220,Folders and binders and indexes
+44121801,Correction film or tape
+44121802,Correction fluid
+441215,Mailing supplies
+44121804,Erasers
+44121805,Correction pens
+441216,Desk supplies
+441221,Fastening supplies
+44121806,Correction pen refills
+44121807,Eraser refills
+44121808,Electrical erasers
+441219,Ink and lead refills
+441218,Correction media
+441217,Writing instruments
+4511,Audio and visual presentation and composing equipment
+4510,Printing and publishing equipment
+4513,Photographic and recording media
+4512,Photographic or filming or video equipment
+4514,Photographic filmmaking supplies
+46181504,Protective gloves
+46181527,Protective pants
+46181508,Fire retardant apparel
+46181516,Safety sleeves
+46181532,Lab coats
+46181518,Heat resistant clothing
+50102204,Passion fruit
+50102205,Pomegranate
+50102101,Apricots
+50102102,Cherries
+50102301,Bananas
+50102103,Nectarines
+50102302,Coconut
+50102104,Peaches
+50102303,Mango
+50102105,Plums
+50102801,Frozen apricot fruit
+50102304,Papaya
+50102106,Prunes
+50102802,Frozen cherry fruit
+50102305,Pineapples
+50102803,Frozen nectarine fruit
+50102306,Star fruit
+50102201,Date
+50102804,Frozen peach fruit
+50102202,Kiwi
+50102203,Mulberry
+50171548,Fresh herbs
+50131609,Prepared eggs
+50171549,Dried herbs
+50131610,Frozen eggs
+50171550,Spices or extracts
+50131611,Liquid eggs
+50171551,Cooking or table salt
+50171552,Seasoning mix
+50131606,Fresh eggs
+50131607,Egg substitutes
+50102805,Frozen plum fruit
+50131608,Egg whites or yolks
+50193101,Instant snack mixes
+50193102,Dessert mix
+50193601,Processed cherries
+50193103,Gravy mix
+50193602,Processed plums
+50193401,Processed grapes
+50193104,Soup bases
+50193603,Processed peaches
+50193402,Processed blackberries
+50193105,Batter or breading mixes
+50193604,Processed nectarines
+50193403,Processed blueberries
+50193605,Processed apricots
+50193404,Processed strawberries
+50193606,Processed prunes
+50193405,Processed cranberries
+50193406,Processed raspberries
+50194001,Preserved apricots
+50194002,Preserved cherries
+50193801,Preserved blackberries
+50194003,Preserved nectarines
+50193802,Preserved blueberry
+50202201,Beer
+50194004,Preserved peaches
+50193803,Preserved cranberry
+50202202,Cider or perry
+50194005,Preserved plums
+50193804,Preserved grapes
+50202203,Wine
+50194006,Preserved prunes
+50193805,Preserved raspberry
+50202204,Fortified wine
+50193806,Preserved strawberry
+50202205,Sparkling wine
+50202206,Spirits or liquors
+50202207,Alcohol cocktails or drink mixes
+50211502,Cigarettes or cigars
+50202802,Kiwi fruit concentrate
+50211607,Cigarette papers or filters
+50211503,Pipe tobacco or leaf tobacco
+50202803,Mango concentrate
+50211608,Cigarette lighters or flints
+50211504,Chewing tobacco
+50202804,Passion fruit concentrate
+50211609,Smoking pipes
+50211505,Herbal cigarettes
+50202805,Pineapple concentrate
+50211610,Tobacco pipe cleaners
+50202701,Apricot  juice
+50211506,Snuff
+50202806,Star fruit concentrate
+50211611,Smoking sets
+50202702,Cherry juice
+50211612,Cigarette lighter housings
+50202703,Nectarine juice
+50202704,Peach juice
+50202705,Plum juice
+50202706,Prune  juice
+50202801,Cream of coconut concentrate
+5212,Bedclothes and table and kitchen linen and towels
+5213,Window treatments
+5210,Floor coverings
+5214,Domestic appliances
+5215,Domestic kitchenware
+5216,Consumer electronics
+5310,Clothing
+5217,Domestic wall treatments
+5311,Footwear
+5312,Luggage and handbags and packs and cases
+5314,Sewing supplies and accessories
+5313,Personal care products
+55101519,Periodicals
+55101506,Magazines
+55101509,Educational or vocational textbooks
+55101524,Reference books
+55101515,Promotional material or annual reports
+55101501,Charts or maps or atlases
+55121504,Key tags
+551218,Identification documents
+55121505,Tag holders or accessories
+55121801,Car tax discs
+55121506,Price tags
+55121802,Identification cards or bands or similar products
+551216,Labels
+55121803,Passports
+551217,Signage
+55121804,Badges or badge holders
+55121806,Personnel identification band kits or accessories
+55121807,Identification product holders or accessories
+551215,Tags
+561015,Furniture
+551219,Signage equipment
+55121501,Luggage tags
+55121502,Security tags
+55121503,Identification tags
+56111605,Lighting or power or data components for panel systems
+561017,Office furniture
+561019,General furniture parts and accessories
+56101901,Furniture tops or work surfaces
+561016,Outdoor furniture
+56101902,Furniture moving discs
+56101903,Furniture glides or cups or pads
+56101904,Furniture bases or legs or leg extensions
+56101905,Panel assemblies or sections
+56111601,Screens for panel systems
+56101906,Table extension leafs
+56111602,Storage for panel systems
+56101907,Slip covers
+56111603,Organization for panel systems
+561018,Baby and toddler furniture and accessories
+56111604,Work surfaces for panel systems
+56111906,Industrial cabinets or drawers or shelving
+56111801,Freestanding lighting or power or data components
+56111907,Industrial tool carts
+56111802,Freestanding tables
+56111606,Parts or accessories panel systems
+56111803,Freestanding storage
+56112202,Desk storage components
+56112001,Computer support lighting or power or data components
+56111804,Freestanding organization
+56111701,Casegood  or non modular desk
+56112203,Desking organizational components
+56112002,Computer support work surfaces
+56111805,Freestanding parts or accessories
+56111702,Casegood or non modular credenza
+56112204,Worksurfaces
+56112003,Computer support storage accessories
+56111703,Casegood or non modular storage
+56112205,"Lighting, power or data components"
+56112004,Computer support organization
+56111901,Industrial lighting or power or data components
+56111704,Casegood or non modular organization
+56112206,Desking systems related parts and accessories
+56112005,Computer support parts or accessories
+56111902,Industrial work surfaces
+56111705,Casegood or non modular lighting or power or data components
+56111903,Industrial storage units
+56111706,Casegood or non modular parts or accessories
+56111904,Industrial organization
+56111707,Casegood or non modular shelf
+56112201,Desk based screens
+56111905,Industrial parts or accessories
+56121801,Technical education tool storage cabinets or cabinets with tools
+56121802,General shop tool storage cabinets or cabinets with tools
+56121803,Woodworking tool storage cabinets or cabinets with tools
+56121804,Instructors technical desk
+6010,Developmental and professional teaching aids and materials and accessories and supplies
+56121805,Flat files
+6012,Arts and crafts equipment and accessories and supplies
+6011,Classroom decoratives and supplies
+6013,Musical Instruments and parts and accessories
+6014,Toys and games
+7111,Oil and gas exploration services
+7112,Well drilling and construction services
+7110,Mining services
+7113,Oil and gas extraction and production enhancement services
+7114,Oil and gas restoration and reclamation services
+7115,Oil and gas data management and processing services
+7116,Oil and gas well project management services
+72102101,Bird proofing services
+72101601,Roofing installation or repair
+72102305,Air conditioning installation or maintenance or repair services
+72102102,Termite control services
+72101602,Skylight installation
+72102103,Extermination or fumigation services
+72101603,Gutter or downspout services
+72102104,Structural pest control
+72101604,Architectural sheet metal work
+72102105,Animal trapping
+72101605,Ceiling erection or repair
+72102001,Caulking
+72101501,Handyman services
+72102401,Exterior painting services
+72102106,Rodent control
+72102002,Plastic encasement or coating of structural materials
+72101502,Scaffolding services
+72102402,Interior painting services
+72102003,Coating or glazing of metal or wood or concrete structural materials
+72101503,Rigging services
+72102403,Wallcovering services
+72102004,Dampproofing
+72101504,Disaster proofing or contingency services
+72101606,Chute installation
+72102404,Industrial or specialized paint application for aircraft or ship or bridge
+72102301,Boiler installation or adjustment or maintenance or repair services
+72102005,Fireproofing of buildings
+72101505,Locksmith services
+72101607,Siding installation or repair
+72102405,Pavement marking services
+72102302,Heating systems installation repair or maintenance
+72102006,Wrapping of pipes
+72101506,Elevator maintenance services.
+72102303,Plumbing system construction
+72102304,Plumbing system maintenance or repair
+73101501,Petroleum refining services
+73111505,Furniture manufacturing services
+72102904,Parking lot or road sweeping services
+73101502,Natural gas production services
+73111506,Cork products manufacturing services
+72102905,Exterior grounds maintenance
+73111507,Cane or wickerware processing services
+731017,Pharmaceutical production
+73101503,Oils or greases production services
+73101504,Coal production services
+73101505,Plastics or resins or fibers manufacturing services
+731018,Biochemical and biotechnology production
+73111501,Sawmilling services
+731016,Chemicals and fertilizers production
+73111502,Veneer production services
+72102901,Snow removal services
+73111503,Wood base panels manufacturing services
+72102902,Landscaping services
+731019,Rubber production
+731015,Petrochemical and plastic production
+73111504,Wooden containers manufacturing services
+72102903,Parking lot or road maintenance or repairs or services
+73121803,Structural clay products manufacturing services
+731518,Converting services
+73151601,Canning plants services
+73121804,Cement or lime or plaster manufacturing services
+73151801,Sheeting services
+73151602,Packaging of agricultural by products services
+731317,Fruits and vegetables processing
+73121805,Concrete or aggregates or stone products manufacturing services
+731319,Grains and sugar and oils and fat processing
+73151802,Slitting services
+73151603,Packaging of non food products services
+73121806,Abrasives manufacturing services
+73151803,Die cutting services
+73151604,Packaging of pharmaceuticals services
+731316,Meat and poultry and seafood processing
+73121807,Asbestos products manufacturing services
+73151804,Folding services
+73151605,Point of purchase display packaging services
+73151606,Manual hand packaging services
+731318,Dairy and eggs processing
+73131902,Cereal products processing services
+731315,Beverage processing
+73151607,Machine assisted packaging services
+73131903,Sugar or sugar products processing services
+731517,Material treatment
+731515,Assembly services
+73131904,Vegetable oils or fats processing services
+73131905,Spice processing services
+73121801,Pottery or china or earthenware manufacturing services
+73131906,Bakery products processing services
+73121802,Glass or glass products manufacturing services
+731516,Packaging services
+73151905,Digital industrial printing services
+73161601,Fishing ship or boat building services
+731811,Coating services
+73151906,Thermal transfer industrial printing services
+73161602,Railroad rolling stock manufacture services
+73181101,Electro coating services
+73151907,Compact disk CD duplication and printing services
+73161603,Locomotive manufacture services
+73181102,Dipping services
+731520,Filling Services
+73171601,Scientific instruments or measuring equipment manufacture services
+73181103,Wrapping services
+73171602,Medical or dental equipment manufacture services
+73181104,Painting services
+73151805,Laminating services
+73171603,Photographic or optical equipment manufacture services
+73181105,Web coating services
+731519,Industrial printing services
+73171604,Watches or clocks manufacture services
+73161604,Motor vehicles manufacture services
+73181106,Plating services
+73151901,Flexographic industrial printing services
+73171605,Laboratory equipment manufacture services
+73161605,Motor vehicles parts or accessories manufacture services
+731521,Manufacturing equipment maintenance and repair services
+73151902,Rotogravure industrial printing services
+73171606,Test equipment upgrade services
+73161606,Motorcycle or bicycle manufacture services
+73151903,Screen industrial printing services
+73161607,Air or spacecraft manufacture services
+73151904,Offset industrial printing services
+731810,Machining services
+76111506,Interior plant landscaping services
+73181203,Roll forming services
+77101704,Environmental technology advisory services
+77101505,Environmental monitoring
+761116,Building component cleaning services
+73181204,Stretch forming services
+77101705,Environmental economics advisory services
+771016,Environmental planning
+761219,Hazardous waste disposal
+76111601,Acoustical tile or ceiling cleaning services
+73181205,Spin forming services
+77101706,Environmental law advisory services
+77101601,Urban environmental development planning
+761216,Nonhazardous waste disposal
+76111602,Air duct cleaning
+73181206,Explosive forming services
+77101707,Ecology advisory services
+77101602,Forest conservation strategy planning
+76121601,Garbage dump
+76111603,Chimney cleaning
+761118,Transport vehicle cleaning
+731813,Heat treatment services
+771018,Environmental auditing
+77101603,Marine conservation strategy planning
+76121602,Sanitary landfill operations
+76111604,Floor waxing or carpet cleaning
+77101604,Natural resources management or conservation strategy planning services
+7710,Environmental management
+76121603,Sludge disposal
+76111605,Exhaust hood or fan clearing
+761115,General building and office cleaning and maintenance services
+77101605,Environmental institution building or planning
+771015,Environmental impact assessment
+76121604,Dead animal disposal services
+76111501,Building cleaning services
+771017,Environmental advisory services
+77101501,Risk or hazard assessment
+761217,Liquid waste treatment
+76111503,Lighting maintenance services
+731812,Forming services
+77101701,Environmental sciences advisory services
+77101502,Environmental standards
+76111504,Window or window blind cleaning services
+731819,Welding and brazing and soldering services
+73181201,Draw forming services
+77101702,Environmental chemistry advisory services
+77101503,Environmental indicators analysis
+761117,Building site clean up
+761215,Refuse collection and disposal
+76111505,Fabric and furniture cleaning services
+73181202,Hydro forming services
+77101703,Environmental ethics advisory services
+77101504,Environmental Impact Assessment EIA services
+761218,Refuse treatment
+7711,Environmental protection
+771019,Pollution investigation services
+78101703,Domestic barge transport services
+78101704,International barge transport services
+77131601,Noise control services
+78101705,Armored marine transport
+77131602,Noise pollution protection services
+7712,Pollution tracking and monitoring and rehabilitation
+77131603,Noise pollution monitoring services
+7713,Pollutants tracking and monitoring and rehabilitation services
+78101801,Local area trucking services
+78101601,Boxcar transport services
+77131604,Noise pollution advisory services
+77101801,Environmental information systems
+78101802,Regional or national trucking services
+78101602,Bulk cargo rail transport services
+77101802,Corporate environmental auditing services
+78101803,Vehicle carrier services
+78101603,Livestock rail transport
+77101803,Sectoral environmental auditing services
+78101804,Relocation services
+78101604,Vehicle transport services
+77101804,Activity specific environmental auditing services
+77101805,Environmental quality control services
+78101901,Air to ocean transportation
+78101701,Domestic vessel transport services
+7810,Mail and cargo transport
+77101806,Environmental security control services
+78101702,International vessel transport services
+78131803,Hazardous materials storage
+78111807,Parking fees
+78102202,Post office box services
+78101903,Ocean to truck transportation
+8010,Management advisory services
+78180102,Transmission repair
+781417,Navigational services
+78131804,Document storage services
+78111808,Vehicle rental
+78102203,Mailing or mail pick up or delivery services
+78101904,Air to truck transport
+78180103,Oil or transmission fluid change services
+78131805,Storage of automatic teller machines
+781316,General goods storage
+78111809,Vehicle leasing
+78102204,Letter or small parcel worldwide delivery services
+78101905,Rail truck transportation
+78180104,Landing gear repair
+7814,Transport operations
+781119,Space transportation
+781117,Passenger marine transportation
+78102205,Letter or small parcel local delivery services
+78180105,Vehicle inspection services
+781415,Transport arrangements
+78102206,Bicycle or scooter messenger services
+781418,Terminal services
+7812,Material packing and handling
+7811,Passenger transport
+781317,Bulk storage
+7813,Storage
+781115,Passenger air transportation
+781118,Passenger road transportation
+781416,Inspection
+781318,Specialized warehousing and storage
+78111802,Scheduled bus services
+7818,Transportation repair or maintenance services
+78131801,Refrigerated storage
+78111803,Chartered bus services
+78131802,Customs bonded storage services
+781315,Farm products warehousing
+78111804,Taxicab services
+781116,Passenger railway transportation
+78102201,National postal delivery services
+78101902,Ocean to rail transportation
+78180101,Vehicle body repair or painting services
+801216,Business law services
+80101707,Lobbying services
+80101601,Feasibility studies or screening of project ideas
+80121803,Immigration or naturalization law
+801217,Civil liability services
+8011,Human resources services
+80101602,Regional or location studies for projects
+80121804,Guardianship or custody law services
+80121701,Malpractice or negligence law services
+80101603,Economic or financial evaluation of projects
+8013,Real estate services
+80121702,Personal injury law services
+8012,Legal services
+80101604,Project administration or planning
+80121703,Property law services
+80121704,Contract law services
+80101701,Factory management services
+80121705,Employee benefits law services
+80101702,Productivity or efficiency studies or implementation
+80121706,Employment law services
+801215,Criminal law services
+80101703,Specification standardization services
+80121707,Labor disputes law services
+80101704,Supply chain analysis or re engineering services
+801218,Family law services
+80101705,Co operative or consortium services
+80121801,Divorce law services
+80101706,Professional procurement services
+80121802,Adoption law services
+80141702,Wholesale distribution services
+801415,Market research
+80131604,Sale of commercial or industrial land
+8015,Trade policy and services
+80141703,Retail distribution services
+80131605,Sale of commercial building
+8016,Business administration services
+80141704,Franchise operations
+80151501,Commodity policy or projections services
+80141705,Auction services
+80151502,Trade expansion
+801418,Mailing services
+801416,Sales and business promotion activities
+80151503,Trade information services
+8110,Professional engineering services
+80151504,Trade promotion services
+801417,Distribution
+80151505,Multinational marketing enterprises
+801419,Trade shows and exhibits
+80131601,Real estate brokers or agents
+80131602,Real estate auction
+80141701,Direct sales services
+8014,Marketing and distribution
+80131603,Sale of residential land
+81101602,Mechanical product enclosures design
+81101603,Machine tool design
+81101604,Power transmission design
+81101605,Electromechanical services
+8111,Computer services
+81101601,Mechanical drawing
+81112102,Electronic mail service provider
+811519,Geophysics
+81151702,Stratigraphic geology
+811515,Meteorology
+81121605,Precious metals reserves
+81112103,World wide web WWW site design services
+81151703,Geological surveys
+81141501,Materials testing
+81121606,Foreign exchange control
+81112104,Web search engine providers
+81151704,Geological exploration
+81141502,Materials synthesis
+81121607,Currency exchange markets
+81141601,Logistics
+81112105,World wide web WWW site operation host services
+81151705,Archaeological services
+81141503,Materials or product inspection
+81141801,Safety or risk analysis
+8113,Statistics
+81141602,Transit analysis
+81112106,Application service providers
+811518,Oceanography and hydrology
+811516,Cartography
+81141504,Equipment test calibration or repair
+81141802,Industrial hygiene or ventilation
+81141603,Transport finance or economics
+81112107,Internet domain names
+8116,Information Technology Service Delivery
+81151801,Oceanographic survey
+81141803,Acoustics or noise control
+81131501,Factor analysis
+81141604,Transport facilitation
+81151802,Estuarine oceanography
+81141804,Equipment inspection service
+81131502,Multivariate analysis
+81141605,Transport infrastructure
+81151803,Physical oceanography
+81141805,Building inspection service
+81131503,Regression analysis
+81141606,Transport planning
+81121601,Monetary policy
+81141505,Production standards development
+81151804,Hydrological surveys
+81141806,Power line inspection service
+81131504,Sampling surveys
+81121602,Monetary systems
+81141506,Product testing
+8112,Economics
+81151805,Bathymetric surveys
+811517,Geology
+81141807,Plumbing or sewer inspection service
+81131505,Time series analysis
+81121603,Monetary analysis
+81112101,Internet service providers ISP
+81151806,Underwater exploration
+81151701,Photogeology
+8115,Earth science services
+8114,Manufacturing technologies
+81121604,Monetary liquidity
+821119,News and publicity services
+821117,Creative writing
+821019,Media placement and fulfillment
+82111701,Article writers services
+82101901,Radio placement
+82111702,Book authors services
+821016,Broadcast advertising
+82101902,Television placement
+82111703,Poetry authors services
+8210,Advertising
+821217,Photocopying
+821116,Non technical writing
+82101903,Internet placement
+82111704,Copywriting
+821015,Print advertising
+8212,Reproduction services
+82101904,Cinema placement
+82111705,Speech writing
+82101905,Print placement
+821118,Editorial and support services
+821218,Publishing
+8211,Writing and translations
+821017,Aerial advertising
+8213,Photographic services
+821115,Technical writing
+821215,Printing
+821219,Bookbinding
+821018,Advertising agency services
+821216,Engraving
+82141503,Photocomposition
+82141504,Chart or graph design services
+831016,Oil and gas utilities
+831015,Water and sewer utilities
+82151701,Acting services
+83111601,Telecommunication signal enhancement network services
+82141505,Computer generated design services
+83101601,Supply of natural gas
+82151702,Comedians services
+83111602,Satellite or earth communication systems services
+82141506,Package design services
+83101602,Supply of fuel oil
+82151703,Dancers services
+83111603,Cellular telephone services
+82141507,Silkscreen design services
+83101603,Oil pipeline services
+82151704,Musicians services
+83111604,Paging services
+831019,Energy conservation
+83101604,Gas pipeline services
+82151705,Vocalists services
+83111605,Spacesegment leasing
+83101605,Gas facility charge
+82151706,Choreographic services
+8214,Graphic design
+831018,Electric utilities
+8215,Professional artists and performers
+82141501,Layout or graphics editing services
+831020,Funeral services
+82141502,Art design or graphics
+83112504,Indefeasible rights of use IRU for submarine cable or terrestrial cable systems
+83121603,Computerized information retrieval systems
+84111507,Inventory accounting
+84101703,Debt servicing
+83112505,Crossconnection functionality
+83121604,Online database information retrieval systems
+83112401,High speed circuit switched dial up services
+83112201,ATM asynchronous transfer mode managed network services
+8412,Banking and investment
+84101704,Debt collection services
+83121605,Remote database information retrieval services
+83112402,ISDN integrated services digital network services
+83112202,Frame relay public managed network services
+841215,Banking institutions
+84101705,Repossession services
+83112601,Local loop capacities
+83121606,Skip tracing
+83112403,Point to point digital telecommunications circuit
+83112203,VPN virtual private network managed network services
+8411,Accounting and auditing
+83112602,Domestic leased lines
+83112404,Multi point analog telecommunications circuit
+83112204,X75 managed network services
+83112603,International access lines
+83112405,Point to point analog telecommunications circuit
+83112205,X25 managed network services
+84111501,Cost accounting
+83112604,Dial access services
+83112406,DSL digital subscriber line
+83111901,Radio broadcasting station management
+84111502,Financial accounting
+83112605,External international lines
+83111902,Amateur radio networks or services
+84111503,Tax accounting
+83112501,Submarine cable capacities and submarine cable PoP to PoP capacities
+83111903,Small scale radio systems
+84111504,Bookkeeping services
+83112502,Terrestrial backbone capacities
+83121601,Chambers of Commerce
+83111904,Radio studio or equipment services
+84111505,Payroll accounting services
+84101701,Debt negotiation
+8410,Development finance
+83112503,"Rights of way for transit for half circuit systems, DDPs and admin lease"
+83121602,Tourism board services
+83111905,International bilateral services and international private leased lines
+84111506,Billing services
+84101702,Debt reorganization
+84121801,Stock market trading services
+85101704,Health economics
+8413,Insurance and retirement services
+84121802,Commodities or futures market services
+85101705,Public health administration
+8510,Comprehensive health services
+84121803,Government bonds
+85101706,Traditional healthcare services
+85101601,Nursing services
+84121804,Privately issued bonds
+85101602,Midwifery or child birth preparation services
+84121805,Precious metals market services
+841217,Investment advice
+85101603,Personal care services in specialized institutions
+84121806,Securities Custodial Services
+84121701,Investment advisers
+85101604,Physicians personnel assistance services
+841219,Mortgage banking
+84121702,Investment policy
+85101605,Home health assistants
+84121703,Investment analysis
+841216,Funds transfer and clearance and exchange services
+84121704,Investment agreements
+85101701,Health policy
+8414,Credit agencies
+84121705,Market data
+85101702,Health legislation or regulations
+841220,Cash vault services
+841218,Securities and commodities markets services
+85101703,Health service planning
+85122001,Dentists services
+85101707,Health systems evaluation services
+85122002,Dental hygienists services
+85121701,Psychotherapists services
+8511,Disease prevention and control
+85122003,Dentist support staff services
+85121702,Optometrists services
+85122004,Oral surgeons services
+85121703,Podiatrists services
+85111701,Ticks management or control services
+85122005,Orthodontic services
+85121704,Speech specialists services
+85121705,Acupuncturists services
+85121706,Chiropractors services
+8512,Medical practice
+85151703,Assessment of emergency food requirements
+85151704,National food intervention policy or programs
+85151601,Nutrition programming services
+85151705,Evaluation of food aid nutritional impact
+85151602,Breast or bottle feeding policy
+85131501,Organ transplant services
+85151603,Nutritional rehabilitation services
+85131502,Clinical human drug trials
+85151604,Nutrition project evaluation
+8514,Alternative and holistic medicine
+85131503,Animal experimentation
+85151605,Food or nutrition development strategies
+85131504,Human experimentation
+8515,Food and nutrition services
+85151606,Nutrient deficiency control programs
+85131505,Space experimentation
+85151607,Diet control or programs
+8513,Medical science research and experimentation
+8610,Vocational training
+85151701,Food standards
+85151702,Food aid global information or early warning systems services
+861315,Fine arts
+8614,Educational facilities
+8611,Alternative educational systems
+861318,Military education
+86111501,Distance learning guidance services
+86111502,Distance teaching services
+861316,Music and drama
+86111503,Certificated distance learning services
+9010,Restaurants and catering
+86111504,Non certificated distance learning services
+861319,Schools for people with disabilities
+8613,Specialized educational services
+86111505,Distance learning assessment services
+8612,Educational institutions
+861317,Driving and flying and sailing
+901519,Gambling and betting establishments
+9014,Commercial sports
+9011,Hotels and lodging and meeting facilities
+901517,Amusement parks
+901520,Nightclubs and dance halls
+9015,Entertainment services
+901515,Tourist attractions
+901521,Concierge services
+901518,Carnivals and fairs
+9013,Performing arts
+9012,Travel facilitation
+901516,Travelling shows
+121419,Non metals and pure and elemental gases
+1310,Rubber and elastomers
+1311,Resins and rosins and other resin derived materials
+1410,Paper materials
+141117,Personal paper products
+1411,Paper products
+141115,Printing and writing paper
+141116,Novelty paper
+141118,Business use papers
+151017,Fuel Oils
+15101701,#2 Heating fuel  oil
+15101702,#4 or #6 Residual heavy fuel oils
+151016,Solid and gel fuels
+1510,Fuels
+1511,Gaseous fuels and additives
+151015,Petroleum and distillates
+151117,Fuel additives
+151115,Gaseous fuels
+1412,Industrial use papers
+15111701,Fuel thickeners
+15111702,Icing inhibitors for fuel systems
+1512,Lubricants and oils and greases and anti corrosives
+1513,Fuel for nuclear reactors
+2110,Agricultural and forestry and landscape machinery and equipment
+2111,Fishing and aquaculture equipment
+2210,Heavy construction machinery and equipment
+231515,Rubber and plastic processing machinery and equipment and supplies
+241415,Securing and protecting supplies
+241417,Packaging tubes and cores and labels and accessories
+24112601,Jugs
+24112602,Jars
+241416,Cushioning supplies
+241220,Bottles
+241218,Packaging cans
+241215,Packaging boxes and bags and pouches
+26112001,Pressure plate
+26112002,Driven plate
+26112003,Clutch plates
+26112004,Clutch repair kits
+261316,Exhaust structures or screening equipment
+261315,Power plants
+26131701,Combustible or hazardous gas detectors for power generators
+26131702,Gas turbine combustion system flame detectors
+261318,Power generation control equipment
+261317,Power generation monitoring or detecting equipment
+271117,Wrenches and drivers
+27111701,Screwdrivers
+2711,Hand tools
+271115,Cutting and crimping and punching tools
+27111705,Box end wrenches
+27111501,Knife blades
+27111708,Pipe wrenches
+271128,Tool attachments and accessories
+27112801,Drill bits
+2712,Hydraulic machinery and equipment
+2714,Automotive specialty tools
+2713,Pneumatic machinery and equipment
+301036,Structural products
+30103603,Framing lumber
+312015,Tape
+312016,Other adhesives and sealants
+3910,Lamps and lightbulbs and lamp components
+3911,Lighting Fixtures and Accessories
+3912,Electrical equipment and components and supplies
+391217,Electrical hardware and supplies
+391216,Circuit protection devices and accessories
+39121601,Circuit breakers
+39121703,Cable ties
+40101901,Vaporizers
+40101902,Dehumidifiers
+40101903,Humidifiers
+4010,Heating and ventilation and air circulation
+4014,Fluid and gas distribution
+40142503,Steam traps
+40142504,Steam strainers
+40142201,Gas regulators
+4015,Industrial pumps and compressors
+40142202,Fluid regulators
+401515,Pumps
+40142203,Fluid regulator repair kits
+40142501,Liquid strainers
+40142502,Liquid traps
+4016,Industrial filtering and purification
+401615,Filters
+401517,Pump parts and accessories
+401516,Compressors
+40161703,Mist eliminators
+40161704,Hydro cyclones
+401618,Filter media
+401616,Purification
+40161601,Air scrubbers
+40161602,Air cleaners
+401617,Separators
+40161701,Centrifuges
+4110,Laboratory and scientific equipment
+40161702,Wet scrubbers
+4111,Measuring and observing and testing instruments
+4112,Laboratory supplies and fixtures
+431916,Personal communications device accessories or parts
+431915,Personal communication devices
+43201902,Optical disk changers
+43201903,Tape drive libraries
+43221602,Digital subscriber loop DSL captive office splitter shelf
+43221603,Digital subscriber loop DSL customer premise equipment CPE plain old telephone system POTS splitter
+43212001,Computer display glare screens
+43212002,Monitor arms or stands
+43221601,Digital subscriber loop DSL captive office plain old telephone system POTS splitter
+43222501,Firewall network security equipment
+43222701,Telegraph keys
+43222502,VPN network security equipment
+43222702,Telegraph electromagnets
+43222503,Vulnerability Assessment Security Equipment
+43222703,Telegraph sounders
+43222901,Line conditioners
+43222902,Telephony cable air dryers
+43223001,Teletype input devices
+43232801,Network monitoring software
+43232802,Network operating system enhancement software
+43232803,Optical network management software
+43232804,Administration software
+43233205,Transaction security and virus protection software
+43233001,Filesystem software
+43233002,Network operation system software
+43233004,Operating system software
+4410,Office machines and their supplies and accessories
+43233201,Authentication server software
+43233203,Network security or virtual private network VPN management software
+43233204,Network security and virtual private network VPN equipment software
+44102202,Scanner document feeders
+44102203,Scanner transparency adapters
+44101901,Check endorsing machines
+44102501,Money counting machines
+44101902,Check writing machines
+44102502,Sorters
+44102503,Coin wrapper machines
+44102001,Lamination film
+44102801,Laminators
+44102002,Laminator pouches
+44102003,Transfer foils
+44102201,Endorsers
+44102004,Creative foils
+4411,Office and desk accessories
+44103601,Cassette or tape shredders
+44121905,Ink or stamp pads
+4412,Office supplies
+44121902,Lead refills
+44121904,Ink refills
+46182002,Respirators
+46181901,Ear plugs
+46181605,Safety shoes
+4710,Water and wastewater treatment supply and disposal
+4712,Janitorial equipment
+47121612,Floor sweepers
+471216,Floor machines and accessories
+4711,Industrial laundry and dry cleaning equipment
+4713,Cleaning and janitorial supplies
+4810,Institutional food services equipment
+49101705,Certificates
+4812,Gambling or wagering equipment
+4811,Vending machines
+491017,Awards
+50102402,Honeydew
+50102701,Frozen blackberry fruit
+50102403,Watermelon
+50102702,Frozen blueberry fruit
+50102703,Frozen boysenberry fruit
+50102501,Citrus fruit rinds
+50102704,Frozen strawberry fruit
+50102502,Water extracted soluble orange solids wesos
+50102503,Pulp
+50101634,Fresh fruit
+50101635,Frozen fruit
+50102601,Frozen lemon fruit
+50101636,Shelf stable fruit
+50102602,Frozen orange fruits
+50102603,Frozen lime fruit
+50102001,Apples
+50101716,Whole nuts or seeds
+50102604,Frozen grapefruit
+50102401,Cantaloupe
+50102002,Pears
+50101717,Shelled nuts or seeds
+50181708,Baking mixes
+50171830,Dipping sauces or condiments or spreads or marinades
+50151605,Edible animal fats
+50121706,Frozen aquatic invertebrates
+50131703,Frozen milk and butter products
+501115,Meat and poultry
+50102901,Frozen apple fruit
+50181709,Baking supplies
+50171831,Cooking sauce
+501715,Herbs and spices and extracts
+50121707,Shelf stable aquatic invertebrates
+501318,Cheese
+501215,Fish
+50111510,Fresh meat or poultry
+50102902,Frozen pear fruit
+501819,Bread and biscuits and cookies
+50171832,Salad dressing or dips
+501615,Chocolate and sugars and sweetening products
+501218,Aquatic plants
+50131801,Natural cheese
+50121537,Frozen fish
+50111511,Frozen meat or poultry
+50171833,Savory spread or pate
+50161509,Natural sugars or sweetening products
+50121802,Fresh aquatic plants
+50131802,Processed cheese
+50121538,Shelf stable fish
+50111512,Shelf stable meat or poultry
+50103001,Frozen kiwi fruit
+501719,Pickles and relish and olives
+50161510,Artificial sweetening agents
+50121803,Frozen aquatic plants
+50131803,Imitation cheese
+50121539,Fresh fish
+50103002,Frozen mango fruit
+50171901,Pickles
+50161511,Chocolate or chocolate substitute
+50121804,Shelf stable aquatic plants
+501216,Shellfish
+501317,Milk and butter products
+50103003,Frozen passion fruit
+50171902,Relish
+50161512,Syrups
+501515,Edible vegetable and plant oils and fats
+50121611,Fresh shellfish
+50103004,Frozen pineapple fruit
+50171903,Olives
+501717,Vinegars and cooking wines
+501618,Confectionary products
+501316,Eggs and egg substitutes
+50151513,Edible vegetable or plant oils
+50121612,Frozen shellfish
+501120,Processed and prepared meats
+50171904,Chutneys
+50171707,Vinegars
+50161813,Chocolate or chocolate substitute candy
+50151514,Edible vegetable or plant fats
+50121613,Shelf stable shellfish
+50112001,Fresh processed or prepared meats
+50171708,Cooking wines
+50161814,Sugar or sugar substitute candy
+501516,Edible animal oils and fats
+501217,Aquatic invertebrates
+50131701,Fresh milk or butter products
+50112002,Frozen processed or prepared meats
+501817,Baking mixes and supplies
+501718,Sauces and spreads and condiments
+50161815,Chewing gum
+50151604,Edible animal oils
+50121705,Fresh aquatic invertebrates
+50131702,Shelf stable milk or butter products
+50112003,Shelf stable processed or prepared meats
+50192401,Jams or jellies or fruit preserves
+50192603,Shelf stable prepared potatoes or rice or pasta or stuffing
+50192402,Nut or mixed spreads
+50192801,Fresh savory pies or quiches or pasties
+50192109,Crisps or chips or pretzels or mixes
+501820,Cakes and pies and pastries
+50192403,Honey
+50192802,Frozen savory pies or quiches or pasties
+50192110,Nuts or dried fruits
+50182001,Fresh cakes or pies or pastries
+50192701,Fresh combination meals
+50192404,Gelatin or jelly crystals
+50192803,Shelf stable savory pies or quiches or pasties
+50192111,Dried or processed meats
+50182002,Frozen cakes or pies or pastries
+50192702,Frozen combination meals
+50192112,Popped corn
+50182003,Frozen pastry dough
+50192703,Shelf stable combination meals
+50192501,Fresh sandwiches or filled rolls
+50192901,Fresh plain pasta or noodles
+50182004,Frozen savory biscuit dough
+50193201,Fresh prepared salads
+50192502,Frozen sandwiches or filled rolls
+50192902,Shelf stable plain pasta or noodles
+50192301,Prepared desserts
+50193202,Frozen prepared salads
+50192503,Fresh sandwich fillers
+50192302,Dessert toppings
+50193203,Shelf stable prepared salads
+50192504,Frozen sandwich fillers
+50193001,Infant foods
+50192303,Flavored ices or ice cream or ice cream desserts or frozen yogurts
+50191505,Fresh prepared soups or stews
+50193002,Infant beverages
+50192304,Edible ice cream cups or cones
+50191506,Frozen prepared soups or stews
+50193501,Processed apples
+50192601,Fresh prepared potatoes or rice or pasta or stuffing
+50191507,Shelf stable prepared soups or stews
+50193502,Processed pears
+50192602,Frozen prepared potatoes or rice or pasta or stuffing
+50194201,Strawberry puree
+50194202,Blackberry puree
+50194501,Mango puree
+50194502,Kiwi puree
+50194701,Cantaloupe puree
+50194702,Watermelon puree
+50194101,Orange puree
+50194102,Lime puree
+50193901,Preserved apples
+50194103,Lemon puree
+50193902,Preserved pears
+50221101,Cereal grains
+50202601,Apple juice
+50221102,Cereal flour
+50202602,Pear juice
+502212,Processed cereals
+50221201,Ready to eat or hot cereals
+50221202,Health or breakfast bars
+50203001,Cantaloupe concentrate
+50203002,Honeydew melon concentrate
+502210,Pulses
+502116,Tobacco product accessories and supplies
+50203003,Watermelon concentrate
+50221001,Pulse grains
+50221002,Pulse flour
+502115,Tobacco and substitutes
+502211,Cereals
+52161512,Loudspeakers
+521615,Audio and visual equipment
+53101602,Mens shirts
+531016,Shirts and blouses
+5410,Jewelry
+5510,Printed media
+551015,Printed publications
+5412,Gemstones
+5411,Timepieces
+5511,Electronic reference material
+5512,Signage and accessories
+5610,Accommodation furniture
+5611,Commercial and industrial furniture
+56121201,First aid couches
+56121301,Standing risers
+56121302,Table or chair movers or caddys
+5612,Classroom and instructional and institutional furniture and fixtures
+56121303,Rubber brush floor matting
+56121304,Planning tables
+56121401,Mobile bench tables
+56121402,Mobile stool tables
+56121101,Art horse
+56121403,Mobile tables
+56121102,Art student bench
+60101604,Certificate holders
+56131601,Floor stands
+56121702,Book storage units
+601014,Classroom awards
+56131602,Free standing display poles
+56122001,Laboratory benches
+56121703,Cubbie units
+56131603,Sales counters
+56122002,Laboratory storage units or accessories
+56121704,Institutional Storage Cabinets
+60101402,Award buttons
+561317,"Merchandiser installation hardware, shelving systems and accessories"
+56122003,Laboratory workstations
+56131701,Hang rails
+56122004,Sink base units
+56131702,Merchandise baskets
+5613,Merchandising furniture and accessories
+56131703,Waterfalls or straight arm face outs
+561315,Mannequins and forms
+601016,Educational certificates or diplomas
+56131501,Bust forms
+56131502,Head forms
+56131503,Neck forms
+60101603,Certificate frames
+561316,Merchandiser free standing display and accessories
+56121901,Sewing machine demonstrator tables
+56121701,General storage units
+60101605,Certificate ribbons
+72101901,Interior design or decorating
+72101902,Plastering or drywall
+72101903,Finish carpentry or cabinetry
+7210,Building construction and support and maintenance and repair services
+72101701,Exterior concrete or stucco services
+72101702,Grouting services
+72101703,Sidewalk or curb construction
+72101704,Foundation or slab work
+72101801,Sandblasting
+72101802,High pressure water blasting
+72101803,Steam cleaning
+721315,Residential construction
+72102701,Floor sheathing or laying or installation or finishing
+73101902,Rubber tires or tubes production services
+72131501,Apartment construction
+72102702,Floor covering installation or maintenance
+73101903,Rubber or plastic footwear production services
+72131502,Single family home construction
+72102703,Floor cleaning services
+721316,Commercial or industrial construction
+731116,Pulp and paper processing
+72103001,Land clearing services
+73101701,Drugs or medicine production services
+72131601,Power plant construction
+73111601,Pulp production services
+72103002,Land levelling services
+72102801,Renovation of buildings or landmarks or monuments
+73101702,Vaccines or sera or antibiotics production services
+721317,Infrastructure construction
+73111602,Paper or paper board production services
+72103003,Demolition services
+72102802,Restoration of buildings or landmarks or monuments
+73101703,Parapharmaceutical production services
+72131701,Highway or road paving or surfacing
+73111603,Hardboard or fiberboard production services
+72103004,Digging services
+731115,Wood processing
+72102803,Test equipment refurbishment
+72131702,Bridge construction
+73111604,Paper production or recycling services
+7213,General building construction
+73101801,Biomass production services
+731216,Metal finishing
+72102601,Rough carpentry
+73101802,Bioprotein production services
+731215,Metal smelting and refining and forming processes
+72102602,Windows or door or fixture installation
+73101901,Rubber milling services
+73141601,Thread processing services
+73141602,Yarn processing services
+731415,Fiber production
+73131804,Butter or cream processing services
+731417,Fabrics and leather production
+73131701,Fruit or vegetable cleaning services
+73131702,Fruit or vegetable spraying services
+73131703,Fruit or vegetable packing services
+73131801,Milk processing services
+73131802,Egg processing services
+731218,Non metallic mineral products industry services
+73151701,Water proofing material treatment services
+73151501,Assembly line work
+73131803,Cheese processing services
+73151702,Fire protection material treatment services
+73151502,Joint sealing services
+731416,Thread and yarn processing
+73151703,Anticorrosion material treatment services
+731616,Manufacture of transport equipment
+73152103,Engineering equipment maintenance services
+731715,Manufacture of electrical goods
+731615,Manufacture of machinery
+731716,Manufacture of precision instruments
+73152001,Liquid filling services
+73152002,Aerosol filling services
+73152003,Paste filling services
+73152004,Powder filling services
+73152101,Manufacturing equipment maintenance services
+73152102,Manufacturing equipment repair services
+76101502,Rest room cleaning services
+76131602,Toxic substances spill cleanup
+76121801,Recycling services
+76121502,Liquid waste collection or processing or disposal
+76101503,Disinfection or deodorizing services
+761317,Oil spill cleanup
+76121503,Street cleaning services
+761016,Hazardous material decontamination
+76111701,Construction site clean up services
+76131701,Oil residue disposal or control services
+76121901,Medical waste disposal
+76101601,Radioactive decontamination services
+76111702,Construction site haul away services
+76131702,Oil spill treatment services
+76121902,Acid waste collection or disposal
+76101602,Asbestos decontamination or removal
+76121903,Chemical detoxification
+7611,Cleaning and janitorial services
+76111801,Car or boat detailing
+73181301,Quench or temper services
+7613,Toxic and hazardous waste cleanup
+7612,Refuse disposal and treatment
+73181302,Annealing services
+761315,Nuclear waste treatment
+73181303,Normalizing services
+76131501,Radioactive waste material treatment
+7610,Decontamination services
+73181304,Aging or stabilizing services
+76131502,Radioactive containment services
+76121701,Sewage treatment services
+761015,Disinfection
+761316,Toxic spill cleanup
+76121702,Chemical treatment services
+76101501,Washroom sanitation services
+76131601,Toxic spill containment
+76121501,Garbage collection or destruction or processing or disposal
+77131503,Oil spillage rehabilitation services
+77111601,Industrial site rehabilitation
+78101501,Domestic air cargo transport
+771316,Noise pollution
+77111602,Environmental decontamination services
+771115,Environmental safety services
+78101502,International air cargo transport
+77111603,Land reclamation services
+78101503,Armored air transport
+771216,Soil pollution
+771215,Air pollution
+771217,Water pollution
+771317,Toxic substances pollution
+77131701,Toxic substances monitoring services
+77131702,Toxic substances rehabilitation services
+771315,Oil pollution
+77131501,Oil spillage monitoring services
+77131502,Oil spillage control services
+771116,Environmental rehabilitation
+78141603,Pest control inspections
+78131501,Silo services
+78111601,Light rail vehicle transport LRV services
+781216,Material handling services
+78131502,Grain elevator services
+78111602,Subway transport
+801015,Business and corporate management consultation services
+78141701,Tugboat services
+78111603,Continental or inter continental rail services
+78141702,Drawbridge operations
+78131601,Palletized cargo storage
+78141703,Marine navigational or communication services
+78131602,File archive storage
+78111901,Experimental or educational missions
+78111701,Water taxis
+78121601,Freight loading or unloading
+78102001,Satellite launch services
+781802,Panel and paint services
+78141501,Freight forwarders services
+78131603,Furniture storage
+78111702,Overnight ship cruises
+78121602,Weighing services
+78102002,Experimental payload services
+78180201,Panelbeating services
+78141801,Stevedoring services
+78141502,Customs brokerage services
+781215,Packing
+78111703,Sightseeing boat excursions
+781803,Transport fuelling and vehicle storage and support services
+78141802,Vessel docking services
+78141503,Transportation industry tariff comparison or freight audit services
+78131701,In ground storage services
+78121501,Containerization of goods
+78111501,Helicopter services
+78102101,Petroleum products transport
+78180301,Fuelling of vehicles
+78141803,Vessel stores services
+78121502,Crating services
+78111502,Commercial airplane travel
+78102102,Water transport
+78180302,Transportation storage
+78141601,Packing inspection services
+78111503,Chartered airplane travel
+78180303,Vehicle parking services
+781801,Vehicle maintenance and repair services
+78141602,Cargo survey services
+801116,Temporary personnel services
+801115,Human resource development
+801315,Lease and rental of property or building
+801017,Industrial management
+801117,Personnel recruitment
+80121501,Juvenile justice law services
+80121502,Appellate procedure services
+80121503,Defense or criminal law services
+801016,Project management
+80151603,Export projections
+80141903,Talent or entertainment
+801616,Business facilities oversight
+80151604,Import procurement services
+80161601,Property management services
+801515,Trade facilitation
+801317,Escrow and title services
+80161602,Receiving or inventorying services
+801615,Management support services
+80131701,Title reconveyance services
+80161603,Furniture project administration or management
+80131702,Title search services
+80131501,Residential rental
+80141801,Mailing list compilation services
+80131703,Escrow account services
+80131502,Commercial or industrial facility rental
+80141802,Mailing list management service
+801318,Real estate management services
+80131503,Land leases
+80141803,Addressing service
+80131801,Property management
+801316,Sale of property and building
+801516,International trade services
+80131802,Real estate appraisal services
+80151601,Export development
+80141901,Auto shows or other exhibits
+80131803,Real estate listing services
+80151602,Import planning
+80141902,Meetings events
+81102301,Avionics design
+81101902,Production engineering for oil or gas
+81102401,High voltage overhead line construction
+81102402,High voltage overhead line maintenance and repair
+81102001,Hydraulic mining
+81101701,Electrical engineering services
+81102101,Coastal engineering
+81101702,Electronic circuit design
+81101703,Engineering testing services
+81111901,Database information retrieval
+81102201,Traffic engineering
+81111902,On line database information retrieval
+81102202,Urban transport network
+81102203,Inland waterways
+81101801,Plastics engineering
+811415,Quality control
+81141703,Production scheduling
+81151901,Geophysical surveys
+81151501,Climatology
+81141704,Production statistics collection or analysis services
+811215,Economic analysis
+81151902,Geophysical exploration
+81151502,Meteorological services
+811418,Facilities management
+81121501,Macro economic analysis
+81151903,Geophysical photo interpretation
+81151503,Hydrometeorology
+81121502,Micro economic analysis
+81151904,Aero magnetic geophysics
+811315,Methodology and analysis
+81121503,Econometrics
+81151601,Mapping
+81121504,Economic forecasts
+81151602,Map production
+811216,Monetary systems and issues
+81112201,Maintenance or support fees
+81151603,Photogrammetry
+81112202,Software patches or upgrades
+81151604,Land surveying
+811417,Production planning and control
+81141701,Production planning
+811416,Supply chain management
+81141702,Production control
+82101801,Advertising campaign services
+82121601,Currency engraving
+82111901,Press release services
+811617,Telecommunication Services
+82121602,Engraved roll printing
+82111902,Special interest newsletter services
+82121603,Metal plate engraving
+82111503,Academic or scientific article writing
+82111903,News agency wire services
+82101601,Radio advertising
+82111904,Newspaper or advertising material delivery services
+82101602,Television advertising
+81161703,Mobile Telephone Administration Service
+82121701,Black and white copy or collating services
+82101603,Internet advertising
+82121702,Color copy or collating services
+82101604,Cinema advertising
+82111801,Editing services
+82111601,Letter writing services
+82121801,Textbook or research publishing
+82111802,Fact checking services
+82101701,Banner advertising services
+82111602,Resume writing services
+821315,Film processing services
+82121802,Author funded publishing services
+82111501,Instruction writing services
+82111803,Proofreading services
+82101702,Skywriting advertising services
+82111603,Court reporting services
+82111502,Manual writing services
+82111804,Written translation services
+82111604,Transcribing services
+82151604,Clowns services
+8311,Telecommunications media services
+82131503,Microfiche services
+8310,Utilities
+821517,Performing arts professionals
+82131504,Color separation
+821316,Photographers and cinematographers
+82131601,Aerial photography services
+82131602,Motion picture cinematography
+821416,Graphic display services
+82131603,Video production services
+82141601,Photographic or picture mounting or framing services
+82131604,Studio photography services or still photographs
+83101901,Energy conservation programs
+821516,Circus Performers
+82141602,Article display arrangement
+83101902,Energy use reduction measures
+82151601,Animal trainers services
+83111701,Facsimile transmission services
+821415,Art design services
+83101903,District heating
+82151602,Acrobats services
+83111702,Telegraph transmission services
+821515,Visual art services
+82131501,Still film processing or reproduction
+82151603,Magicians services
+83111703,Telex transmission services
+83102001,Grave digging
+82131502,Motion picture film processing or reproduction
+841015,Development assistance
+84111802,Tax advisory services
+84101501,Financial assistance
+83111801,Cable television services
+841116,Audit services
+84101502,Savings mobilization programs
+83111802,Closed circuit television services
+83121502,College or university libraries
+84111601,Year end audits
+84101503,Guarantee agreements
+83111803,Television antenna construction or rental services
+83121503,Privately owned libraries
+84121501,Privately owned banks
+84111602,Quarterly reviews
+841016,Aid financing
+831217,Mass communication services
+83111804,Television broadcasting station management
+83121504,National government or military post libraries
+84121502,Publicly owned banks
+84111603,Internal audits
+841115,Accounting services
+84101601,Co financing
+83121701,Television related services
+831216,Information centers
+84121503,Credit unions
+841117,Corporate finance
+84101602,Bi lateral or multi lateral aid
+83121702,Radio related services
+84111701,Treasury services
+84101603,Non governmental aid
+83121703,Internet related services
+83112301,Dark fiber
+84111702,Investor relations services or programs
+84101604,Government aid
+8312,Information services
+83121704,Citizen warning systems
+83112302,Dense wavelength division multiplexing DWDM
+84111703,Budget preparation or review services
+841017,Debt management
+831215,Libraries
+83112303,Wave division multiplexing WDM
+841118,Taxation issues and preparation
+83121501,General municipal public use libraries
+83112304,Ocx optical carrier service
+84111801,Tax preparers
+84122001,Deposit verification services
+841316,Life and health and accident insurance
+851016,Healthcare provider support persons
+841415,Governmental credit agencies
+841315,Insurance services for structures and property and possessions
+851015,Healthcare centers
+84141501,Farm credit services
+841317,Pension funds
+84141502,Small business loan agencies
+84131701,Employer administered pension funds
+84141503,Minority owned business programs
+84131702,Union or guild administered pension funds
+841416,Personal credit agencies
+841318,Retirement funds
+84121504,Development finance institutions
+84141601,Consumer credit gathering or reporting services
+84131801,Self directed or employer sponsored retirement funds
+84121901,Housing finance
+851017,Health administration services
+84141602,Credit card service providers
+84131802,Self directed or self initiated retirement plans
+84121902,Re financing services
+841417,Business credit agencies
+84121903,Commercial mortgage finance
+84141701,Business credit gathering or reporting services
+84141702,Value added network VAN services
+85121901,Pharmaceutical preparation services
+85121902,Commercial pharmaceutical services
+85121501,Primary care physicians home visits services
+85121502,Primary care physicians consultation services
+851117,Disease vectors management and control
+851115,Contagious disease prevention and control
+85121503,Primary care physicians control services
+85121504,Primary care physicians emergency medical services
+85111702,Tsetse flies management or control services
+85122201,Individual health assessment
+85111703,Bacteria management or control services
+85111704,Mosquito management or control services
+851116,Non contagious disease prevention and control
+85141601,Herbal medicine or herbalists services
+85131604,International drug monitoring services
+85141602,Algae or sea weed medical cures
+851317,Medical science and research
+851315,Experimental medicine services
+85141603,Hot springs cure services
+851417,Homeopathic practice
+85141701,Initial diagnostic assessment
+85141702,Remedy consultations
+851415,Faith healers
+85141501,Witch doctors or voodoo services
+851515,Food technology
+85141502,Faith healers services
+851316,Medical ethics
+851517,Food policy planning and aid
+85141503,Shamans
+85131601,Euthanasia issues
+851516,Nutrition issues
+861017,Non scientific vocational training services
+861016,Scientific vocational training services
+85141504,Energy work
+85131602,Medical code of conduct
+861015,Agriculture and forestry and other natural resources training services
+851416,Herbal treatments
+85131603,Medical societies
+90101503,Fast food establishments
+86141603,Students travelling organizations
+86131903,Specialized schools for people with disabilities
+86131701,Vehicle driving schools services
+86121501,Pre school educational services
+86111602,Part time adult education services
+86121602,Technical institutes
+90101504,On street food vendors
+861417,Educational technology
+86131904,Specialized rehabilitation services for people with disabilities
+86131702,Flight school services
+86121502,Religious elementary or secondary schools
+86111603,Parent education
+861217,University and colleges
+901016,Banquet and catering services
+86141701,Language laboratories
+86131703,Yachting or boating school services
+86131501,Theater studies
+86121503,Private elementary or secondary schools
+86111604,Employee education
+86121701,Undergraduate programs
+86141702,Audio visual technology
+861415,Educational guidance services
+86131502,Painting
+86121504,Public elementary or secondary schools
+861117,Language schooling
+86121702,Postgraduate programs
+861115,Distance learning services
+861018,In service training and manpower development
+86141703,Computer programmed instruction
+86141501,Educational advisory services
+86131801,Service academies
+86131503,Sculpture
+86111701,Conversational foreign language instruction
+861218,Professional schools
+86141704,Library or documentation services
+86141502,Universities cooperation guidance services
+86131802,Pilot schools
+86131504,Media studies
+86111702,Foreign language immersion instruction
+86121802,Theological seminaries
+86141503,Study abroad advisory services
+86131803,Military police training
+861118,Educational exchanges
+86121803,Technical professional schools
+86141504,Tuition reimbursement programs
+86131804,War college
+861216,Junior colleges
+86131601,Music schools
+86111801,Educational exchanges between universities
+86121804,Non technical professional schools
+901015,Eating and drinking establishments
+861416,Students organizations
+86131602,Dance education
+86111802,Educational exchanges between schools
+90101501,Restaurants
+86141601,Students hobby clubs
+86131901,Primary schooling services for people with disabilities
+86131603,Drama studies
+861116,Adult education
+90101502,Bars
+86141602,Students unions
+86131902,Secondary schooling services for people with disabilities
+861215,Elementary and secondary schools
+86111601,Evening courses
+86121601,Community colleges
+90151601,Circuses
+90141603,Sporting event promotion services
+90131502,Dance performances
+90121502,Travel agencies
+901117,Camping and wilderness facilities
+90151901,Casinos
+90151602,Touring companies
+901417,Amateur and recreational sports
+90121503,Chartering services
+90111701,Campsites
+901115,Hotels and motels and inns
+90151902,Card clubs
+90151603,Art exhibitions
+90141701,Youth competitive sports leagues
+901216,Travel document assistance
+90111702,Government owned parks
+90111501,Hotels
+90101601,Banquet facilities
+90151903,Racetracks
+90141702,Adult sports leagues
+90121601,Passport services
+90111703,Recreational vehicle campsite facilities
+90111502,Lodges or resorts
+90101602,Party tent services
+90151701,Theme parks
+90131503,Opera
+90141703,Youth sports
+901415,Professional sporting events
+90121602,Visa or auxiliary document services
+901118,Hotel rooms
+90111503,Bed and breakfast inns
+90101603,Catering services
+90152001,Nightclubs
+90151702,Water parks
+90131504,Concerts
+90141501,League play
+901217,Guides and interpreters
+90111801,Single room
+90111504,Cottage rental services
+90101604,Construction or work site catering services
+90152002,Dance halls
+90151703,Miniature golf courses
+901316,Taped or motion picture performances
+90141502,Competitive events
+90121701,Area or tour guides
+90111802,Double room
+901116,Meeting facilities
+901017,Cafeteria services
+90151501,Museums
+90141503,Exhibitions
+90121702,Interpreters
+90111803,Suite
+90111601,Conference centers
+90101701,On site cafeteria management
+90152101,Personal assistance services
+90151801,Travelling carnivals
+90151502,Historical or cultural sites
+901416,Sports event promotion and sponsorship
+90111602,Videoconferencing facilities
+901018,Carryout and takeaway services
+90151802,Fair organization or management services
+90151503,Zoological gardens
+90141601,Company sponsored professional sports events
+901315,Live performances
+901215,Travel agents
+90131601,Motion pictures
+90111603,Meeting or banquet rooms
+90101801,Professionally prepared carryout meals
+9110,Personal appearance
+90151803,Fair stands creation or construction
+90141602,Company sponsored amateur sports events
+90131501,Theatrical performances or plays
+90121501,Tour arrangement services
+90131602,Videotaped entertainment
+90111604,Marquees
+90101802,Delivered meals services
+9111,Domestic and personal assistance
+911115,Laundering services
+9211,Military services and national defense
+91111501,Uniform rental
+9210,Public order and safety
+92121504,Security guard services
+9212,Security and personal safety
+921215,Guard services
+931015,Political bodies
+921217,Security systems services
+93101502,Political parties fund raising services
+931515,Public administration
+931616,Taxes other than income tax
+93161601,Property tax
+93161602,Land tax
+93141811,Promotional services
+93161605,Sales tax
+931418,Employment
+93151510,Administrative fees or tax collection services
+9410,Work related organizations
+9411,Religious organizations
+941016,Professional associations
+9412,Clubs
+9413,Civic organizations and associations and movements
+403001,Stationery or Business Form Printing
+101006,Drug Screening
+4040,Data Sheets and Flyers
+3010,Market Research
+2010,IT Consulting
+1020,Admin/Accounting
+404001,Technical Manual or Instruction Sheet Printing
+301001,Project Administration or Planning
+201001,Project Administration or Planning
+102001,Clerical or Administrative Assistance
+301002,Marketing Analysis
+201002,Temporary IT Software Developers
+102002,Financial Staff
+301003,Market Intelligence or Competitive Analysis
+201003,Temporary IT Systems or Database Administrators
+102003,Background Check
+201004,Information Technology Consultation Services
+102004,Drug Screening
+1010,IT Staff
+4010,Brochures
+201005,Commercial Airplane Travel
+1030,Light Industrial
+101001,Software Developers
+401001,Promotional or Advertising Printing
+2020,Management Consulting
+103001,Warehouse Staff
+101002,Database Administrators
+4020,Envelopes
+202001,Project Administration or Planning
+103002,Manual Labor
+101003,Network Specialists
+402001,Promotional or Advertising Printing
+202002,Business Intelligence Consulting Services
+103003,Background Check
+101004,Airplane Expense
+4030,Business Forms
+202003,Commercial Airplane Travel
+103004,Drug Screening
+101005,Background Check
+1,Material group1
+2,Material group2

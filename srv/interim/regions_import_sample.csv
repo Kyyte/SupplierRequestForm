@@ -1,0 +1,304 @@
+RegionID,RegionName,ParentRegion
+CA-LA,Los Angeles Metro,CA
+BEL,Belgium,EMEA
+OH,Ohio,USA
+NLD,Netherlands,EMEA
+IN,Indiana,USA
+GIB,Gibraltar,EMEA
+XK,Kosovo,EMEA
+NE,Nebraska,USA
+LTU,Lithuania,EMEA
+CT,Connecticut,USA
+CZE,Czech Republic,EMEA
+SRB,Serbia,EMEA
+ME,Maine,USA
+ISL,Iceland,EMEA
+AZ,Arizona,USA
+ALB,Albania,EMEA
+NY,New York,USA
+MNE,Montenegro,EMEA
+HI,Hawaii,USA
+FIN,Finland,EMEA
+SMR,San Marino,EMEA
+MS,Mississippi,USA
+IT-TR,Trentino,IT
+CA-SAC,Sacramento Metro,CA
+BLR,Belarus,EMEA
+OR,Oregon,USA
+POL,Poland,EMEA
+KS,Kansas,USA
+HRV,Croatia,EMEA
+USA,United States of America,NAMER
+All,All,
+NH,New Hampshire,USA
+LVA,Latvia,EMEA
+DC,District Of Columbia,USA
+DNK,Denmark,EMEA
+SWE,Sweden,EMEA
+MA,Massachusetts,USA
+IT-PI,Piemonte,IT
+CA,California,USA
+BIH,Bosnia and Herzegovina,EMEA
+ND,North Dakota,USA
+MLT,Malta,EMEA
+IL,Illinois,USA
+GBR,United Kingdom,EMEA
+VAT,Vatican City,EMEA
+MT,Montana,USA
+LIE,Liechtenstein,EMEA
+CO,Colorado,USA
+CYP,Cyprus,EMEA
+RI,Rhode Island,USA
+ROU,Romania,EMEA
+LA,Louisiana,USA
+IRL,Ireland,EMEA
+AK,Alaska,USA
+AND,Andorra,EMEA
+NM,New Mexico,USA
+MDA,Moldova,EMEA
+ESP,Spain,EMEA
+SVK,Slovakia,EMEA
+KY,Kentucky,USA
+MN,Minnesota,USA
+IT-LO,Lombardia,IT
+CA-SF,San Francisco Bay Area,CA
+BGR,Bulgaria,EMEA
+OK,Oklahoma,USA
+NOR,Norway,EMEA
+IA,Iowa,USA
+GRC,Greece,EMEA
+NAMER,North America,All
+NV,Nevada,USA
+LUX,Luxembourg,EMEA
+DE,Delaware,USA
+DEU,Germany,EMEA
+RUS,Russia,EMEA
+MD,Maryland,USA
+GEO,Georgia,APAC
+ITA,Italy,EMEA
+AR,Arkansas,USA
+AUT,Austria,EMEA
+NC,North Carolina,USA
+MKD,Macedonia,EMEA
+ID,Idaho,USA
+FRA,France,EMEA
+UKR,Ukraine,EMEA
+MO,Missouri,USA
+IT-VE,Veneto,IT
+CA-SD,San Diego Metro,CA
+CHE,Switzerland,EMEA
+PA,Pennsylvania,USA
+PRT,Portugal,EMEA
+HUN,Hungary,EMEA
+AL,Alabama,USA
+EMEA,Europe,All
+NJ,New Jersey,USA
+MCO,Monaco,EMEA
+FL,Florida,USA
+EST,Estonia,EMEA
+SVN,Slovenia,EMEA
+MI,Michigan,USA
+IT-VA,Vale D'Aosta,IT
+NU,Nunavut Territory,CAN
+SXM,Sint Maarten,CRBN
+BHR,Bahrain,APAC
+BHS,Bahamas,CRBN
+SA,South America,All
+WV,West Virginia,USA
+KAZ,Kazakhstan,APAC
+MTQ,Martinique,CRBN
+URY,Uruguay,SA
+NB,New Brunswick,CAN
+BLZ,Belize,CEMER
+SC,South Carolina,USA
+IDN,Indonesia,APAC
+CUB,Cuba,CRBN
+COL,Colombia,SA
+BC,British Columbia,CAN
+LCA,Saint Lucia,CRBN
+ARM,Armenia,APAC
+AIA,Anguilla,CRBN
+MEX,Mexico,CEMER
+VT,Vermont,USA
+KGZ,Kyrgyzstan,APAC
+GLP,Guadeloupe,CRBN
+PER,Peru,SA
+MB,Manitoba,CAN
+TCA,Turks and Caicos Islands,CRBN
+BTN,Bhutan,APAC
+BES,"Bonaire, Saint Eustatius and Saba",CRBN
+BOL,Bolivia,SA
+WY,Wyoming,USA
+PRI,Puerto Rico,CRBN
+APAC,Asia Pacific,All
+PEI,Prince Edward Island,CAN
+SLV,El Salvador,CEMER
+TN,Tennessee,USA
+IND,India,APAC
+DMA,Dominica,CRBN
+FK,Falkland Islands,SA
+NT,Northwest Territories,CAN
+VCT,Saint Vincent and the Grenadines,CRBN
+BGD,Bangladesh,APAC
+ABW,Aruba,CRBN
+PAN,Panama,CEMER
+WA,Washington,USA
+KWT,Kuwait,APAC
+JAM,Jamaica,CRBN
+SUR,Suriname,SA
+QC,Quebec,CAN
+CEMER,Central America,All
+HK,Hong Kong,APAC
+CYM,Cayman Islands,CRBN
+CHL,Chile,SA
+AB,Alberta,CAN
+KNA,Saint Kitts and Nevis,CRBN
+AFG,Afghanistan,APAC
+CRBN,Caribbean,NAMER
+HND,Honduras,CEMER
+UT,Utah,USA
+JPN,Japan,APAC
+GRD,Grenada,CRBN
+GUY,Guyana,SA
+SK,Saskatchewan,CAN
+TTO,Trinidad and Tobago,CRBN
+BN,Brunei,APAC
+BRB,Barbados,CRBN
+ARG,Argentina,SA
+WI,Wisconsin,USA
+LAO,Laos,APAC
+MSR,Montserrat,CRBN
+VE,Venezuela,SA
+NL,Newfoundland and Labrador,CAN
+CRI,Costa Rica,CEMER
+SD,South Dakota,USA
+ISR,Israel,APAC
+CUW,Curaçao,CRBN
+ECU,Ecuador,SA
+YK,Yukon,CAN
+MAF,Saint Martin,CRBN
+AZE,Azerbaijan,APAC
+ATG,Antigua and Barbuda,CRBN
+NIC,Nicaragua,CEMER
+VA,Virginia,USA
+KHM,Cambodia,APAC
+HTI,Haiti,CRBN
+PRY,Paraguay,SA
+ON,Ontario,CAN
+VIR,United States Virgin Islands,CRBN
+CHN,China,APAC
+VGB,British Virgin Islands,CRBN
+BRA,Brazil,SA
+CAN,Canada,NAMER
+BLM,Saint-Barthélemy,CRBN
+ARE,United Arab Emirates,APAC
+NS,Nova Scotia,CAN
+GTM,Guatemala,CEMER
+TX,Texas,USA
+JOR,Jordan,APAC
+DOM,Dominican Republic,CRBN
+GUF,French Guiana,SA
+NPL,Nepal,APAC
+TW,Taiwan,APAC
+QAT,Qatar,APAC
+MNG,Mongolia,APAC
+TJK,Tajikistan,APAC
+PHL,Philippines,APAC
+VN,Vietnam,APAC
+LBN,Lebanon,APAC
+SGP,Singapore,APAC
+MYS,Malaysia,APAC
+TUR,Turkey,APAC
+PS,Palestine,APAC
+AUS,Australia,APAC
+MM,Myanmar (Burma),APAC
+THA,Thailand,APAC
+OMN,Oman,APAC
+UZB,Uzbekistan,APAC
+SAU,Saudi Arabia,APAC
+MDV,Maldives,APAC
+TKM,Turkmenistan,APAC
+PAK,Pakistan,APAC
+YEM,Yemen,APAC
+LKA,Sri Lanka,APAC
+SY,Syria,APAC
+BY,Belarus,EMEA
+HU,Hungary,EMEA
+RO,Romania,EMEA
+EE,Estonia,EMEA
+LT,Lithuania,EMEA
+BA,Bosnia and Herzegovina,EMEA
+SM,San Marino,EMEA
+GI,Gibraltar,EMEA
+NO,Norway,EMEA
+CY,Cyprus,EMEA
+IS,Iceland,EMEA
+RU,Russia,EMEA
+FI,Finland,EMEA
+LV,Latvia,EMEA
+BG,Bulgaria,EMEA
+GA,Georgia,USA
+HR,Croatia,EMEA
+PT,Portugal,EMEA
+DK,Denmark,EMEA
+LI,Liechtenstein,EMEA
+AT,Austria,EMEA
+SI,Slovenia,EMEA
+MK,Macedonia,EMEA
+CH,Switzerland,EMEA
+IE,Ireland,EMEA
+RS,Serbia,EMEA
+ES,Spain,EMEA
+LU,Luxembourg,EMEA
+BE,Belgium,EMEA
+UA,Ukraine,EMEA
+GR,Greece,EMEA
+IT,Italy,EMEA
+PL,Poland,EMEA
+CZ,Czech Republic,EMEA
+AD,Andorra,EMEA
+SE,Sweden,EMEA
+FR,France,EMEA
+GB,United Kingdom,EMEA
+MC,Monaco,EMEA
+BO,Bolivia,SA
+PY,Paraguay,SA
+BD,Bangladesh,APAC
+CN,China,APAC
+UY,Uruguay,SA
+AM,Armenia,APAC
+AE,United Arab Emirates,APAC
+CL,Chile,SA
+BT,Bhutan,APAC
+KG,Kyrgyzstan,APAC
+BH,Bahrain,APAC
+KZ,Kazakhstan,APAC
+GF,French Guiana,SA
+GE,Georgia,APAC
+JP,Japan,APAC
+JO,Jordan,APAC
+KW,Kuwait,APAC
+BR,Brazil,SA
+PE,Peru,SA
+KH,Cambodia,APAC
+AF,Afghanistan,APAC
+EC,Ecuador,SA
+GY,Guyana,SA
+SR,Suriname,SA
+TH,Thailand,APAC
+MV,Maldives,APAC
+YE,Yemen,APAC
+PK,Pakistan,APAC
+TM,Turkmenistan,APAC
+NP,Nepal,APAC
+SG,Singapore,APAC
+LK,Sri Lanka,APAC
+UZ,Uzbekistan,APAC
+PH,Philippines,APAC
+TJ,Tajikistan,APAC
+MY,Malaysia,APAC
+AU,Australia,APAC
+QA,Qatar,APAC
+LB,Lebanon,APAC
+TR,Turkey,APAC
+OM,Oman,APAC

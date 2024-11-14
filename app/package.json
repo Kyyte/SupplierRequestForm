@@ -11,22 +11,6 @@
     "@sap/approuter": "^14.3.0"
   },
   "scripts": {
-    "start_old": "node node_modules/@sap/approuter/approuter.js",
-    "start": "fiori run --open \"test/flpSandbox.html?sap-ui-xx-viewCache=false#app-tile\"",
-    "start-local": "fiori run --config ./ui5-local.yaml --open \"test/flpSandboxMockServer.html?sap-ui-xx-viewCache=false#app-tile\"",
-    "start-noflp": "fiori run --open \"index.html?sap-ui-xx-viewCache=false\"",
-    "start-variants-management": "fiori run --open \"preview.html?sap-ui-xx-viewCache=false&fiori-tools-rta-mode=true&sap-ui-rta-skip-flex-validation=true#preview-app\"",
-    "build": "ui5 build -a --clean-dest --include-task=generateCachebusterInfo",
-    "deploy": "fiori verify",
-    "deploy-config": "fiori add deploy-config",
-    "start-mock": "fiori run --open \"test/flpSandboxMockServer.html?sap-ui-xx-viewCache=false#app-tile\""
-  },
-  "private": true,
-  "sapuxLayer": "CUSTOMER_BASE",
-  "keywords": [
-    "ui5",
-    "openui5",
-    "sapui5"
-  ],
-  "main": "webapp/index.html"
+    "start": "node node_modules/@sap/approuter/approuter.js"
+  }
 }

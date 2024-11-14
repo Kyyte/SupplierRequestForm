@@ -84,8 +84,6 @@
                                     <Input
                                         id="suppliername2"
                                         value="{/SupplierRequest/SupplierName2}"
-                                        liveChange=".onLiveChange"
-                                        change=".triggerBackendCheckDuplicate"
                                         width="500px"
                                     />                                    
                                     <Label
@@ -152,8 +150,6 @@
                                     />
                                     <Input
                                         id="supplierstaddr"
-                                        liveChange=".onLiveChangeAddress"
-                                        change=".triggerBackendCheckAddr"
                                         value="{/SupplierRequest/SupplierStreet}"
                                         width="500px"
                                     />
@@ -261,78 +257,13 @@
                                     columnsM="1"
                                     singleContainerFullSize="false"
                                 >
-                                    <core:Title text="Category Details" />
-                                    <Label
-                                        text="Commodities"
-                                        required="true"
-                                    />
-                                    <MultiInput
-                                        id="multiInput"
-                                        width="60%"
-                                        enabled="true"
-                                        valueHelpRequest=".onValueHelpRequested"
-                                        suggestionRows="{
-											path: '/Categories',
-											length: 10
-										}"
-                                    >
-                                        <suggestionColumns>
-                                            <Column>
-                                                <Label text="Category ID" />
-                                            </Column>
-                                            <Column>
-                                                <Label text="Category Name" />
-                                            </Column>
-                                        </suggestionColumns>
-                                        <suggestionRows>
-                                            <ColumnListItem>
-                                                <Label text="{CategoryID}" />
-                                                <Label text="{CategoryDesc}" />
-                                            </ColumnListItem>
-                                        </suggestionRows>
-                                    </MultiInput>
-                                    <Label
-                                        text="Region"
-                                        required="true"
-                                    />
-                                    <MultiInput
-                                        id="RegionMultiInput"
-                                        enabled="true"
-                                        width="60%"
-                                        valueHelpRequest=".onValueHelpRequestedRegion"
-                                        suggestionRows="{
-											path: '/Regions',
-											length: 10
-										}"
-                                    >
-                                        <suggestionColumns>
-                                            <Column>
-                                                <Label text="Region ID" />
-                                            </Column>
-                                            <Column>
-                                                <Label text="Region Name" />
-                                            </Column>
-                                        </suggestionColumns>
-                                        <suggestionRows>
-                                            <ColumnListItem>
-                                                <Label text="{RegionID}" />
-                                                <Label text="{RegionName}" />
-                                            </ColumnListItem>
-                                        </suggestionRows>
-                                    </MultiInput>
-
                                     <core:Title text="Additional Details" />
-                                    <Label text="Signed NDA Required" />
-                                    <RadioButtonGroup
-                                        id="G001"
-                                        enabled="false"
-                                        selectedIndex="{/selectedNDAIndex}"
-                                        select="OnSelectNDA"
-                                        valueState="Information"
-                                    >
-                                        <RadioButton text="Yes" />
-                                        <RadioButton text="No" />
-                                    </RadioButtonGroup>                                  
+                                    <Label
+                                        text="Supplier Role"
+                                        required="true"
+                                    />
+                                    <CheckBox text="Purchasing Role" selected="{checkboxModel>/selectedItems/Purchasing}" enabled="true" />
+                                    <CheckBox text="Company Code Role" selected="{checkboxModel>/selectedItems/Finance}" enabled="true" />                            
                                     <Label
                                         text="Additional Comments"
                                         required="false"
@@ -512,87 +443,15 @@
                             columnsM="1"
                             singleContainerFullSize="false"
                         >
-                            <core:Title text="Category Details" />
+                         <core:Title text="Additional Details" />
                             <Label
-                                text="Commodities"
-                                required="true"
+                            text="Supplier Role"
+                            required="true"
                             />
-                            <MultiInput
-                                id="tmultiInput"
-                                width="60%"
-                                enabled="false"
-                            >
-                                <suggestionColumns>
-                                    <Column>
-                                        <Label text="Category ID" />
-                                    </Column>
-                                    <Column>
-                                        <Label text="Category Name" />
-                                    </Column>
-                                </suggestionColumns>
-                                <suggestionRows>
-                                    <ColumnListItem>
-                                        <Label text="{CategoryID}" />
-                                        <Label text="{CategoryDesc}" />
-                                    </ColumnListItem>
-                                </suggestionRows>
-                            </MultiInput>
-                            <Label
-                                text="Region"
-                                required="true"
-                            />
-                            <MultiInput
-                                id="tRegionMultiInput"
-                                width="60%"
-                                enabled="false"
-                            >
-                                <suggestionColumns>
-                                    <Column>
-                                        <Label text="Region ID" />
-                                    </Column>
-                                    <Column>
-                                        <Label text="Region Name" />
-                                    </Column>
-                                </suggestionColumns>
-                                <suggestionRows>
-                                    <ColumnListItem>
-                                        <Label text="{RegionID}" />
-                                        <Label text="{RegionName}" />
-                                    </ColumnListItem>
-                                </suggestionRows>
-                            </MultiInput>
+                            <CheckBox text="Purchasing Role" selected="{checkboxModel>/selectedItems/Purchasing}" enabled="false" />
+                            <CheckBox text="Company Code Role" selected="{checkboxModel>/selectedItems/Finance}" enabled="false" />                            
 
-                            <core:Title text="Additional Details" />
-                            <Label text="Signed NDA Required" />
-                            <RadioButtonGroup
-                                id="tG001"
-                                enabled="false"
-                                selectedIndex="{/selectedNDAIndex}"
-                                select="OnSelectNDA"
-                                valueState="Information"
-                            >
-                                <RadioButton text="Yes" />
-                                <RadioButton text="No" />
-                            </RadioButtonGroup>
-                            <Label
-                                text="Is enhanced due diligence needed?"
-                                required="true"
-                            />
-                            <RadioButtonGroup
-                                id="tG002"
-                                selectedIndex="{/selectedDiligenceIndex}"
-                                valueState="Information"
-                                select="OnSelectDiligence"
-                            >
-                                <RadioButton
-                                    text="Yes"
-                                    editable="false"
-                                />
-                                <RadioButton
-                                    text="No"
-                                    editable="false"
-                                />
-                            </RadioButtonGroup>
+                           
                             <Label
                                 text="Additional Comments"
                                 required="false"

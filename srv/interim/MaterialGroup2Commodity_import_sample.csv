@@ -1,0 +1,9 @@
+MaterialGroupID,MaterialGroupDesc,CommodityID,CommodityDesc
+Material group 1,Material group 1 Desc,CommodityID1,CommodityID1 Desc
+Material group 2,Material group 2 Desc,CommodityID2,CommodityID2 Desc
+10001,MG Test1,500001,COMMID Test1
+10002,MG Test2,500002,COMMID Test2
+53000000,Laptops,4412,Laptops
+54000000,Desktops,432115,Desktops
+44000000,Desktops,43211503,Office Equipments
+53000000,Laptops,43211507,43211507
