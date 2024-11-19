@@ -68,7 +68,7 @@
     },
     "requires": {
       "auth": {
-        "kind": "xsuaa"
+        "kind": "mocked"
       },
       "db": {
         "kind": "postgres",

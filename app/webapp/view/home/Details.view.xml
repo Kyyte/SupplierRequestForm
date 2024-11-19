@@ -1,0 +1,228 @@
+<mvc:View
+    controllerName="com.kyyte.procurement.supplierrequestform.controller.home.Details"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+    xmlns:ui="sap.ui.unified"
+    xmlns:core="sap.ui.core"
+    xmlns:form="sap.ui.layout.form"
+    xmlns:suite="sap.suite.ui.commons"
+    xmlns:uxap="sap.uxap"
+>
+    <Page id="detailPage">
+        <customHeader>
+            <f:ShellBar
+                title="{i18n>title}"
+                homeIcon="./img/logo.jpg"
+                homeIconPressed="onHomeIconPressed"
+                showProductSwitcher="false"
+            />
+        </customHeader>
+
+        <NavContainer id="detailNavContainer">
+            <Page
+                id="snowStatus"
+                showHeader="true"
+                showNavButton="true"
+                navButtonPress=".onNavBack"
+                title="Supplier Creation Request Status"
+            >
+                <!-- ObjectPageLayout for sections -->
+                <uxap:ObjectPageLayout
+                    id="objectPageLayout"
+                    showHeaderContent="false"
+                >
+                    <!-- Section 1: Basic Details -->
+                    <uxap:ObjectPageSection
+                        title="Supplier Basic Information"
+                        showTitle="false"
+                    >
+
+                    <!-- Subsection within the Section -->
+                        <uxap:ObjectPageSubSection
+                            title="Supplier Basic Information"
+                            showTitle="false"
+                        >
+                            <form:SimpleForm
+                                editable="false"
+                                layout="ResponsiveGridLayout"
+                                labelSpanL="3"
+                                columnsL="1"
+                                columnsM="1"
+                                singleContainerFullSize="false"
+                            >
+                                <core:Title text="Supplier Info" />
+                                <Label text="Supplier Name 1" />
+                                <Text
+                                    id="incidentType"
+                                    width="40%"
+                                    text="{processFlow>/SupplierName}"
+                                />
+
+                                <Label text="Supplier Name 2" />
+                                <Text
+                                    id="subType"
+                                    width="40%"
+                                    text="{processFlow>/SupplierName2}"
+                                />
+
+                                <Label text="Supplier DBA Name" />
+                                <Text
+                                    id="ProjectValue"
+                                    width="40%"
+                                    text="{processFlow>/SDBAName}"
+                                />
+                <core:Title text="Supplier Address" />
+                                <Label text="Address" />
+                                <Text
+                                    id="isSupplierIdentified"
+                                    width="40%"
+                                    text="{processFlow>/SupplierStreet}"
+                                />
+
+                                <Label text="City" />
+                                <Text
+                                    id="suppllierDetails"
+                                    width="40%"
+                                    text="{processFlow>/SupplierCity}"
+                                />
+
+                                <Label text="Region" />
+                                <Text
+                                    id="isSourcingRequired"
+                                    width="40%"
+                                    text="{processFlow>/SupplierRegion}"
+                                />
+
+                                <Label text="Country" />
+                                <Text
+                                    id="isBudgetAllocated"
+                                    width="40%"
+                                    text="{processFlow>/SupplierCountry}"                                />
+
+                                <Label text="Zip Code" />
+                                <Text
+                                    id="budgetOwner"
+                                    width="40%"
+                                    text="{processFlow>/SupplierPostalCode}"
+                                />
+                            </form:SimpleForm>
+                        </uxap:ObjectPageSubSection>
+
+                        <!-- Subsection within the Section -->
+                        <uxap:ObjectPageSubSection
+                            title="Supplier Contact Information"
+                            showTitle="false"
+                        >
+                            <form:SimpleForm
+                                editable="false"
+                                layout="ResponsiveGridLayout"
+                                labelSpanL="3"
+                                columnsL="1"
+                                columnsM="1"
+                                singleContainerFullSize="false"
+                            >
+                                <core:Title text="Supplier Contact Information" />
+                                <Label text="Contact First Name" />
+                                <Text
+                                    id="callerTextv2"
+                                    width="40%"
+                                    text="{processFlow>/PrimaryContactFirstName}"
+                                />
+
+                                <Label text="Contact Last Name" />
+                                <Text
+                                    id="categoryTextv2"
+                                    width="40%"
+                                    text="{processFlow>/PrimaryContactLastName}"
+                                />
+
+                                <Label text="Contact Phone" />
+                                <Text
+                                    id="serviceTextv2"
+                                    width="40%"
+                                    text="{processFlow>/PrimaryContactNo}"
+                                />
+                                 <Label text="Contact E-Mail" />
+                                <Text
+                                    id="serviceTextv3"
+                                    width="40%"
+                                    text="{processFlow>/PrimaryContactEMail}"
+                                />
+                            </form:SimpleForm>
+                        </uxap:ObjectPageSubSection>
+
+                        <uxap:ObjectPageSubSection
+                            title="Additional Information"
+                            showTitle="false"
+                        >
+                            <form:SimpleForm
+                                editable="false"
+                                layout="ResponsiveGridLayout"
+                                labelSpanL="3"
+                                columnsL="1"
+                                columnsM="1"
+                                singleContainerFullSize="false"
+                            >
+                                <core:Title text="Additional Information" />
+                                <Label text="Supplier Role" />
+                                <Text
+                                    id="shortDescriptionText2"
+                                    width="40%"
+                                    text="{processFlow>/SupplierRole_Pur}"
+                                />
+
+                                <Label
+                                    text="Additional Comments"
+                                    required="false"
+                                />
+                                <TextArea
+                                    id="descriptionv2"
+                                    rows="8"
+                                    value="{processFlow>/Comments}"
+                                    width="40%"
+                                />
+
+                               
+                            </form:SimpleForm>
+                        </uxap:ObjectPageSubSection>
+                    </uxap:ObjectPageSection>
+
+                    <uxap:ObjectPageSection title="Process Flow">
+                        <uxap:ObjectPageSubSection title="Process Flow">
+                            <Panel>
+                                <suite:ProcessFlow id="processFlow" scrollable="false" wheelZoomable="false" foldedCorners="false" nodes="{processFlow>/stages}" lanes="{processFlow>/lanes}">
+                                <suite:lanes>
+                                    <suite:ProcessFlowLaneHeader 
+                                        laneId="{processFlow>id}" 
+                                        iconSrc="{processFlow>iconSrc}" 
+                                        text="{processFlow>label}" 
+                                        position="{processFlow>position}" />
+                                </suite:lanes>
+                                
+                                <suite:nodes>
+                                    <suite:ProcessFlowNode 
+                                        nodeId="{processFlow>id}" 
+                                        laneId="{processFlow>laneId}" 
+                                        title="{processFlow>title}" 
+                                        titleAbbreviation="{processFlow>title}" 
+                                        children="{processFlow>children}" 
+                                        state="{processFlow>state}"
+                                        stateText="{processFlow>stateText}"
+  					                    texts="{processFlow>documentId}"
+                                        type="{processFlow>type}" 
+                                        focused="{processFlow>focused}">
+                                    </suite:ProcessFlowNode>
+                                </suite:nodes>
+                            </suite:ProcessFlow>
+                            </Panel>
+                        </uxap:ObjectPageSubSection>
+                    </uxap:ObjectPageSection>
+
+                </uxap:ObjectPageLayout>
+                
+            </Page>
+        </NavContainer>
+
+    </Page>
+</mvc:View>

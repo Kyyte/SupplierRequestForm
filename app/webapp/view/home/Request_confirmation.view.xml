@@ -1,0 +1,36 @@
+<mvc:View
+    controllerName="com.kyyte.procurement.supplierrequestform.controller.home.Request_confirmation"
+      xmlns:mvc="sap.ui.core.mvc"
+        xmlns:core="sap.ui.core"
+        xmlns="sap.m"
+        xmlns:f="sap.f"
+        xmlns:card="sap.f.cards"
+        xmlns:l="sap.ui.layout"
+        xmlns:form="sap.ui.layout.form"
+        xmlns:commons="sap.suite.ui.commons"
+        xmlns:u="sap.ui.unified" 
+        displayBlock="true">
+    <Page id="AfterSubmitpage" backgroundDesign="List">
+        <customHeader>
+            <f:ShellBar
+                    title="Purchase Services Request"
+                       homeIcon="./img/Pfizer-logo.jpg"
+                     showProductSwitcher="false">
+            </f:ShellBar>
+        </customHeader>
+        <content>
+           <NavContainer id="NavContainer">
+           <Page>
+                      <MessageStrip
+                        text="Form processed successfully. You may close the browser tab and navigate to Intake Management Dashboard to get updates."
+                        type="Information"
+                        showIcon="true"
+                        showCloseButton="true"
+                            />
+                            </Page>
+           </NavContainer>
+
+        </content>
+   </Page>
+
+    </mvc:View>

@@ -52,9 +52,11 @@ sap.ui.define([
       onInit: function () {
 
 
-        // this._wizard = this.byId("SupplierWizard");
+        this._wizard = this.byId("SupplierWizard");
         this._oNavContainer = this.byId("navContainer");
         this._oDynamicPage = this.getPage();
+        const oUrlParams = new URLSearchParams(window.location.search);
+        this.TemplateID = oUrlParams.get("TemplateID");
 
         this.model = new JSONModel({});
 
@@ -104,11 +106,11 @@ sap.ui.define([
           _this.getView().byId("step1NextBtn").setVisible(true);
           _this.getView().byId("SupplierWizard").setCurrentStep(_this.getView().byId("Step1"));
         });
-
+        
         // this.getView().getModel().setProperty("/selectedNDAIndex", 0);
+      
 
       },
-
       onDisplaySelections: function () {
         // Retrieve the checkbox model data
         var oCheckboxModel = this.getView().getModel("checkboxModel");
@@ -599,7 +601,13 @@ sap.ui.define([
                 oModel.setData({}); // Reset to an empty object
                 oModel.refresh(true); // Force refresh to update bindings
                 // this._wizard.discardProgress(this._wizard.getSteps()[0]);
-                this.handleNavBackToGeneral();
+                // this.handleNavBackToGeneral();
+              //   var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
+              //         // _this._navBackToStep(_this.byId("Step1"));
+              //  oRouter.navTo("Details", {}, true /*no history*/);
+              this.getRouter().navTo("Request_confirmation");
+
+              // this.getRouter().navTo("Details",{sId:"4f0a4dc2-5239-4137-9dc2-345eef7aa547"});
               }
               else
               {
@@ -619,6 +627,7 @@ sap.ui.define([
 
       handleWizardSubmit: function () {
         this._handleMessageBoxOpen("Ready to Submit your Incident Request?", "confirm","Submit");
+        console.log(this.getView().getModel().getData());
       },
 
       backToWizardContent: function () {
@@ -685,8 +694,78 @@ sap.ui.define([
       handleNavBackStep3: function () {
         this._navBackToStep(this.byId("Step3"));
       },
-
       OnPressSave: function () {
+        let SRNumber = "yt587"
+        var SupplierName1 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName1");
+        var SupplierName2 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName2");              
+        var SupplierDBAName = this.getView().getModel().getProperty("/SupplierRequest/SDBAName");
+        var SupplierStName = this.getView().getModel().getProperty("/SupplierRequest/SupplierStreet");
+        var SuplierCity = this.getView().getModel().getProperty("/SupplierRequest/SupplierCity");
+        var SupplierRegion = this.getView().getModel().getProperty("/SupplierRequest/SupplierRegion");
+
+        var oSelectedCountry = this.getView().byId("country").getSelectedItem();
+        if (oSelectedCountry) {
+          var sCoutnryKey = oSelectedCountry.getKey();
+          var sCountryText = oSelectedCountry.getText();
+        }
+
+
+        var SupplierPostalCode = this.getView().getModel().getProperty("/SupplierRequest/SupplierPostalCode");
+        var PrimaryContactFirstName = this.getView().getModel().getProperty("/SupplierRequest/PrimaryContactFirstName");
+        var PrimaryContactLastName = this.getView().getModel().getProperty("/SupplierRequest/PrimaryContactLastName");
+        var PrimaryContactNo = this.getView().getModel().getProperty("/SupplierRequest/PrimaryContactNo");
+        var PrimaryContactEMail = this.getView().getModel().getProperty("/SupplierRequest/PrimaryContactEMail");
+        var PrimaryContactEMail = this.getView().getModel().getProperty("/SupplierRequest/PrimaryContactEMail");
+        // var checkboxItems = this.getView().getModel("checkboxModel").getProperty("/selectedItems/");        
+        // var selectedRole = Object.keys(checkboxItems).find(key => checkboxItems[key]);
+        var Purchasing = this.getView().getModel("checkboxModel").getProperty("/selectedItems/Purchasing");
+        var Finance = this.getView().getModel("checkboxModel").getProperty("/selectedItems/Finance");
+        var oTextArea = this.getView().byId("comments");
+        var Comments = oTextArea.getValue();
+
+        let SRNumberstr = SRNumber.toString();
+        let paddedString = SRNumberstr.padStart(5, '0');
+        let SRNumberfin = 'SR' + paddedString;
+
+        return;
+        var data ={
+          "data": {
+            SuppRequestID: SRNumberfin,
+            TemplateID: this.TemplateID,
+            SupplierName: SupplierName1,
+            SupplierName2: SupplierName2,                
+            SDBAName: SupplierDBAName,
+            SupplierStreet: SupplierStName,
+            SupplierCity: SuplierCity,
+            SupplierRegion: SupplierRegion,
+            SupplierPostalCode: SupplierPostalCode,
+            SupplierCountry: sCoutnryKey,
+            PrimaryContactFirstName: PrimaryContactFirstName,
+            PrimaryContactLastName: PrimaryContactLastName,
+            PrimaryContactEMail: PrimaryContactEMail,
+            User: PrimaryContactEMail,
+            PrimaryContactNo: PrimaryContactNo,
+            NDA: false,
+            DueDiligence: false,
+            Comments: Comments,
+            Categories: "Categories",
+            Regions: "Regions",
+            SupplierRole_Pur: Purchasing,
+            SupplierRole_FI: Finance
+          }
+      }
+      
+        fetch("/SupplierRequest/doCreateInitiateSupplierRequestProcess", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(data)
+      }).then(async (res) => {
+          const value = await res.json();
+          console.log(value);
+        })
+      },
+      
+      OnPressSave1: function () {
 
         var _this = this;
 
@@ -801,7 +880,7 @@ sap.ui.define([
               };
 
 
-              oDataModel.create("/SupplierRequest", oSRRequest, {
+              oDataModel.create("/doCreateInitiateSupplierRequestProcess", oSRRequest, {
                 success: (oData) => {
 
                   debugger;
@@ -903,7 +982,7 @@ sap.ui.define([
 
           }, //end of ajax fetch token success
 
-          error: function (data, request) { },
+          error: function (data, request) { console.log(data)},
         });
 
 
@@ -994,13 +1073,14 @@ sap.ui.define([
         this.getView().byId(currBtnID).setVisible(false);
         this.getView().byId("SupplierWizard").nextStep();
         var array = currBtnID.split("--");
-        var nextBtnID = array[2].replace(/(\d+)+/g, function (match, number) {
+        var nextBtnID = array[1].replace(/(\d+)+/g, function (match, number) {
           return parseInt(number) + 1;
         });
         if (nextBtnID === "step3NextBtn") {
           this.getView().byId("step3NextBtn").setEnabled(true);
         } else {
-          this.getView().byId(array[0] + "--" + array[1] + "--" + nextBtnID).setVisible(true);
+          "__xmlview0--step1NextBtn"
+          this.getView().byId(array[0] + "--" + nextBtnID).setVisible(true);
           // if (nextBtnID === "step2NextBtn") {
           //   this.triggerBackendCheckAddr();
           // };
@@ -1177,6 +1257,9 @@ sap.ui.define([
 
 
       },
+      getRouter: function () {
+        return this.getOwnerComponent().getRouter();
+    },
 
       triggerBackendFinalCheckAddr() {
 
@@ -1486,9 +1569,10 @@ sap.ui.define([
         // }
       },
       _navBackToStep: function (step) {
+        var that=this;
         var fnAfterNavigate = function () {
-          this._wizard.goToStep(step);
-          this._oNavContainer.detachAfterNavigate(fnAfterNavigate);
+          that._wizard.goToStep(step);
+          that._oNavContainer.detachAfterNavigate(fnAfterNavigate);
         }.bind(this);
 
         // var myCategoryArrayx = this.getView().getModel("regionmodel");

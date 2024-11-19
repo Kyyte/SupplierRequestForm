@@ -29,6 +29,13 @@
                 "settings": {
                   "odataVersion": "4.0"
                 }
+              },
+              "SupplierRequestService": {
+                "uri": "/SupplierRequest/",
+                "type": "OData",
+                "settings": {
+                  "odataVersion": "4.0"
+                }
               }
         }
     },
@@ -99,7 +106,17 @@
                   "autoExpandSelect": true,
                   "earlyRequests": true
                 }
-              }
+              },
+              "MoSupplierRequest": {
+        "dataSource": "SupplierRequestService",
+        "settings": {
+          "operationMode": "Server",
+          "synchronizationMode": "None",
+          "updateGroupId": "matrixChange",
+          "autoExpandSelect": true,
+          "earlyRequests": true
+        }
+      }
         },
         "resources": {
             "css": [
@@ -134,6 +151,14 @@
                     "pattern": "Home",
                     "target": "Home"
                 },
+                "Details": {
+                    "pattern": "Details/{sId}",
+                    "target": "Details"
+                },
+                "Request_confirmation": {
+                    "pattern": "Request_confirmation",
+                    "target": "Request_confirmation"
+                },
                 "SRDetails": {
                     "pattern": "SRDetails/{sPath}",
                     "target": [
@@ -144,6 +169,14 @@
             "targets": {
                 "Home": {
                     "viewName": "home/Overview",
+                    "viewLevel": 0
+                },
+                "Details": {
+                    "viewName": "home/Details",
+                    "viewLevel": 0
+                },
+                "Request_confirmation": {
+                    "viewName": "home/Request_confirmation",
                     "viewLevel": 0
                 },
                 "SRDetails": {

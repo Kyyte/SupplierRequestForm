@@ -9,6 +9,13 @@
         "authenticationType": "xsuaa"
       },
       {
+        "source": "^/SupplierRequest/(.*)$",
+        "target": "/SupplierRequest/$1",
+        "authenticationType": "xsuaa",
+        "destination": "KyyteIntakeServices",
+        "csrfProtection": false
+      },
+      {
         "source": "^/backend/(.*)",
         "target": "$1",
         "authenticationType": "xsuaa",
