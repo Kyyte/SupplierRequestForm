@@ -33,7 +33,6 @@
                     toggleHeaderOnTitleClick="true"
                     stickySubheaderProvider="SupplierWizard"
                     class="sapUiNoContentPadding"
-                    showFooter="true"
                 >
                     <!-- DynamicPage Title -->
                     <f:title>
@@ -395,6 +394,7 @@
                             columnsM="1"
                             singleContainerFullSize="false"
                         >
+                         <core:Title text="Supplier Contact Information" />
                             <Label
                                 text="Contact First Name"
                                 required="true"
@@ -443,7 +443,7 @@
                             columnsM="1"
                             singleContainerFullSize="false"
                         >
-                         <core:Title text="Additional Details" />
+                         <core:Title text="Additional Information" />
                             <Label
                             text="Supplier Role"
                             required="true"
