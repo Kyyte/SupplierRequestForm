@@ -627,7 +627,6 @@ sap.ui.define([
 
       handleWizardSubmit: function () {
         this._handleMessageBoxOpen("Ready to Submit your Incident Request?", "confirm","Submit");
-        console.log(this.getView().getModel().getData());
       },
 
       backToWizardContent: function () {
@@ -695,7 +694,7 @@ sap.ui.define([
         this._navBackToStep(this.byId("Step3"));
       },
       OnPressSave: function () {
-        let SRNumber = "yt587"
+        let SRNumber = ""
         var SupplierName1 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName1");
         var SupplierName2 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName2");              
         var SupplierDBAName = this.getView().getModel().getProperty("/SupplierRequest/SDBAName");
@@ -727,7 +726,6 @@ sap.ui.define([
         let paddedString = SRNumberstr.padStart(5, '0');
         let SRNumberfin = 'SR' + paddedString;
 
-        return;
         var data ={
           "data": {
             SuppRequestID: SRNumberfin,
@@ -1079,7 +1077,6 @@ sap.ui.define([
         if (nextBtnID === "step3NextBtn") {
           this.getView().byId("step3NextBtn").setEnabled(true);
         } else {
-          "__xmlview0--step1NextBtn"
           this.getView().byId(array[0] + "--" + nextBtnID).setVisible(true);
           // if (nextBtnID === "step2NextBtn") {
           //   this.triggerBackendCheckAddr();
