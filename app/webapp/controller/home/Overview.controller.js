@@ -725,6 +725,7 @@ sap.ui.define([
         let SRNumberstr = SRNumber.toString();
         let paddedString = SRNumberstr.padStart(5, '0');
         let SRNumberfin = 'SR' + paddedString;
+        const formURL = window.location.origin+(window.location.pathname || "")
 
         var data ={
           "data": {
@@ -749,7 +750,8 @@ sap.ui.define([
             Categories: "Categories",
             Regions: "Regions",
             SupplierRole_Pur: Purchasing,
-            SupplierRole_FI: Finance
+            SupplierRole_FI: Finance,
+            FormURL: formURL
           }
       }
       
@@ -759,10 +761,21 @@ sap.ui.define([
           body: JSON.stringify(data)
       }).then(async (res) => {
           const value = await res.json();
+          setTimeout(() => {
+            this.sendProcessFlowDetails(value.value);
+        }, 30000); 
+        })
+      },
+      sendProcessFlowDetails: function (data) {
+        fetch("/SupplierRequest/doCreateSupplierInERP", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: data
+      }).then(async (res) => {
+          const value = await res.json();
           console.log(value);
         })
       },
-      
       OnPressSave1: function () {
 
         var _this = this;

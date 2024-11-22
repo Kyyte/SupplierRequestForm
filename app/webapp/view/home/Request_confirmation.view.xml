@@ -13,7 +13,7 @@
     <Page id="AfterSubmitpage" backgroundDesign="List">
         <customHeader>
             <f:ShellBar
-                    title="Purchase Services Request"
+                    title="Supplier Creation Request"
                        homeIcon="./img/Pfizer-logo.jpg"
                      showProductSwitcher="false">
             </f:ShellBar>
