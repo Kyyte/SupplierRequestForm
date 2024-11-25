@@ -57,7 +57,7 @@ sap.ui.define([
         this._oDynamicPage = this.getPage();
         const oUrlParams = new URLSearchParams(window.location.search);
         this.TemplateID = oUrlParams.get("TemplateID");
-
+        this._getLoggedInUserEmailId();
         this.model = new JSONModel({});
 
         // var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
@@ -110,6 +110,29 @@ sap.ui.define([
         // this.getView().getModel().setProperty("/selectedNDAIndex", 0);
       
 
+      },
+      _getLoggedInUserEmailId: function () {
+        var oDataModel = this.getOwnerComponent().getModel("Mointakeflowai");
+        var oActionODataContextBinding = oDataModel.bindContext(
+          "/doGetUserInformation(...)"
+        );
+
+        oActionODataContextBinding
+          .execute()
+          .then(
+            function (response) {
+              var oActionContext = oActionODataContextBinding.getBoundContext();
+              let UserInfo = oActionContext.getObject().value;
+              var userDetails = JSON.parse(UserInfo);
+              this.user = userDetails;
+            }.bind(this)
+          )
+          .catch(
+            function (oError) {
+              console.log(oError);
+              console.log("Fetching of User Details Failed!");
+            }.bind(this)
+          );
       },
       onDisplaySelections: function () {
         // Retrieve the checkbox model data
@@ -605,7 +628,9 @@ sap.ui.define([
               //   var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
               //         // _this._navBackToStep(_this.byId("Step1"));
               //  oRouter.navTo("Details", {}, true /*no history*/);
-              this.getRouter().navTo("Request_confirmation");
+              if(this.TemplateID){
+                this.getRouter().navTo("Request_confirmation");
+              }
 
               // this.getRouter().navTo("Details",{sId:"4f0a4dc2-5239-4137-9dc2-345eef7aa547"});
               }
@@ -693,7 +718,18 @@ sap.ui.define([
       handleNavBackStep3: function () {
         this._navBackToStep(this.byId("Step3"));
       },
+      onErrorMessageBox: function () {
+        MessageBox.error("Template ID not found", {
+          onClose: function () {
+            location.reload();
+        }
+      });
+      },
       OnPressSave: function () {
+        if(!this.TemplateID){
+          this.onErrorMessageBox();
+          return;
+        }
         let SRNumber = ""
         var SupplierName1 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName1");
         var SupplierName2 = this.getView().getModel().getProperty("/SupplierRequest/SupplierName2");              
@@ -742,7 +778,7 @@ sap.ui.define([
             PrimaryContactFirstName: PrimaryContactFirstName,
             PrimaryContactLastName: PrimaryContactLastName,
             PrimaryContactEMail: PrimaryContactEMail,
-            User: PrimaryContactEMail,
+            User: this.user && this.user.id,
             PrimaryContactNo: PrimaryContactNo,
             NDA: false,
             DueDiligence: false,

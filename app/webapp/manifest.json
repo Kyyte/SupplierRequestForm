@@ -36,6 +36,13 @@
                 "settings": {
                   "odataVersion": "4.0"
                 }
+              },
+              "IntakeFlowAIService": {
+                "uri": "/intake/",
+                "type": "OData",
+                "settings": {
+                  "odataVersion": "4.0"
+                }
               }
         }
     },
@@ -109,6 +116,17 @@
               },
               "MoSupplierRequest": {
         "dataSource": "SupplierRequestService",
+        "settings": {
+          "operationMode": "Server",
+          "synchronizationMode": "None",
+          "updateGroupId": "matrixChange",
+          "autoExpandSelect": true,
+          "earlyRequests": true
+        }
+      },
+      "Mointakeflowai": {
+        "dataSource": "IntakeFlowAIService",
+        "preload": true,
         "settings": {
           "operationMode": "Server",
           "synchronizationMode": "None",

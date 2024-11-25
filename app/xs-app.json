@@ -16,6 +16,13 @@
         "csrfProtection": false
       },
       {
+        "source": "^/intake/(.*)$",
+        "target": "/intake/$1",
+        "authenticationType": "xsuaa",
+        "destination": "IntakeFlowAISrv",
+        "csrfProtection": false
+      },
+      {
         "source": "^/backend/(.*)",
         "target": "$1",
         "authenticationType": "xsuaa",
