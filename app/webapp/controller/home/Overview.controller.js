@@ -607,7 +607,7 @@ sap.ui.define([
       },
 
       handleWizardCancel: function () {
-        this._handleMessageBoxOpen("Are you sure you want to cancel your Incident Request?", "warning","cancel");
+        this._handleMessageBoxOpen("Are you sure you want to cancel your Supplier Request?", "warning","cancel");
       },
 
       _handleMessageBoxOpen: function (sMessage, sMessageBoxType,type) {
@@ -651,7 +651,7 @@ sap.ui.define([
       },
 
       handleWizardSubmit: function () {
-        this._handleMessageBoxOpen("Ready to Submit your Incident Request?", "confirm","Submit");
+        this._handleMessageBoxOpen("Ready to Submit your Supplier Request?", "confirm","Submit");
       },
 
       backToWizardContent: function () {
