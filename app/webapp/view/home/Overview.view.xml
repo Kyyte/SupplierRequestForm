@@ -16,7 +16,7 @@
         <customHeader>
             <f:ShellBar
                 title="{i18n>title}"
-                homeIcon="./img/logo.jpg"
+                homeIcon="./img/Pfizer-logo.jpg"
                 homeIconPressed="onHomeIconPressed"
                 headerContent="{
                     path: '/',
