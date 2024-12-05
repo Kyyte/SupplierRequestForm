@@ -14,7 +14,7 @@
         <customHeader>
             <f:ShellBar
                     title="Supplier Creation Request"
-                       homeIcon="./img/Pfizer-logo.jpg"
+                       homeIcon="./img/logo.jpg"
                      showProductSwitcher="false">
             </f:ShellBar>
         </customHeader>

@@ -13,7 +13,7 @@
         <customHeader>
             <f:ShellBar
                 title="{i18n>title}"
-                homeIcon="./img/Pfizer-logo.jpg"
+                homeIcon="./img/logo.jpg"
                 homeIconPressed="onHomeIconPressed"
                 showProductSwitcher="false"
             />
